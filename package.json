@@ -1,0 +1,24 @@
+{
+  "name": "the-best-movies-we-have-never-seen",
+  "version": "1.0.0",
+  "description": "This ranks these movies for us, so we can watch them over the next 6 or so years",
+  "license": "ISC",
+  "author": "Jeffrey Lembeck <jeff@jefflembeck.com>",
+  "type": "commonjs",
+  "main": "build/index.js",
+  "scripts": {
+    "create-list": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.2",
+    "@types/node": "^22.15.34",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "reveal.js": "^5.2.1"
+  }
+}
