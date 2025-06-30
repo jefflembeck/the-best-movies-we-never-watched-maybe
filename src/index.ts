@@ -20,7 +20,9 @@ interface ScoredMovie extends Movie {
   totalScore: number;
 }
 
-const scoredMovies: ScoredMovie[] = movies.map((m: Movie) => {
+const scoredMovies: ScoredMovie[] = movies.filter((m: Movie) => {
+  return !m.watched;
+}).map((m: Movie) => {
   return { ...m, totalScore: scoreMovie(m) };
 });
 
@@ -28,8 +30,10 @@ const sortedMovies = scoredMovies.sort((a: ScoredMovie, b: ScoredMovie) => {
   return a.totalScore - b.totalScore;
 });
 
+const watched = movies.filter((m: Movie) => { return !!m.watched; });
+
 outputToPresentation(sortedMovies);
-outputList(sortedMovies);
+outputList(sortedMovies, watched);
 
 function scoreMovie(m: Movie): number {
   const imdbScore = getScoreForAttribute(m.imdbRank, new IMDBRanker());
@@ -215,7 +219,7 @@ Lower scores mean: _watch this sooner_.`);
   console.log("✅ presentation.md written!");
 }
 
-function outputList(sortedMovies: ScoredMovie[]) {
+function outputList(sortedMovies: ScoredMovie[], watched: Movie[]) {
   const open = `
   # Movies
   
@@ -234,7 +238,19 @@ function outputList(sortedMovies: ScoredMovie[]) {
     - **IMDB:** ${movie.imdbRank}
     - **NYT:** ${movie.nytRank}`
   });
+
+  const watchedMovies = watched.map((movie: Movie, index) => {
+    return `
+    ### #${index + 1}: ${movie.title} (${movie.year})
+    - **MPAA Rating:** ${movie.rating}
+    - **Runtime:** ${movie.length}
+    - **Black and White:** ${movie.blackAndWhite}
+    - **Animated:** ${movie.animated}
+    - **RT:** ${movie.rottenTomatoes}
+    - **IMDB:** ${movie.imdbRank}
+    - **NYT:** ${movie.nytRank}`
+  });
     
 
-  writeFileSync("MOVIES.md", open + movies.join('\n\n'));
+  writeFileSync("MOVIES.md", open + movies.join('\n\n') + '\n\n' + `## Watched` + `\n\n` + watchedMovies.join('\n\n'));
 }
