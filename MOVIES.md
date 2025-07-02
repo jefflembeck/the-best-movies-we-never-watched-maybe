@@ -69,18 +69,7 @@
     - **NYT:** 50
 
 
-    ### #7: Spider-Man: Across the Spider-Verse (2023)
-
-    - **MPAA Rating:** PG
-    - **Runtime:** 2h 20m
-    - **Black and White:** false
-    - **Animated:** true
-    - **RT:** 95%
-    - **IMDB:** 44
-    - **NYT:** N/A
-
-
-    ### #8: Spirited Away (2001)
+    ### #7: Spirited Away (2001)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 4m
@@ -91,7 +80,7 @@
     - **NYT:** 9
 
 
-    ### #9: Howl's Moving Castle (2004)
+    ### #8: Howl's Moving Castle (2004)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 59m
@@ -102,7 +91,7 @@
     - **NYT:** N/A
 
 
-    ### #10: The Iron Giant (1999)
+    ### #9: The Iron Giant (1999)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 26m
@@ -113,7 +102,7 @@
     - **NYT:** N/A
 
 
-    ### #11: Children of Heaven (1997)
+    ### #10: Children of Heaven (1997)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 29m
@@ -124,7 +113,7 @@
     - **NYT:** N/A
 
 
-    ### #12: The Truman Show (1998)
+    ### #11: The Truman Show (1998)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 43m
@@ -135,7 +124,7 @@
     - **NYT:** N/A
 
 
-    ### #13: Groundhog Day (1993)
+    ### #12: Groundhog Day (1993)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 41m
@@ -146,7 +135,7 @@
     - **NYT:** N/A
 
 
-    ### #14: Like Stars on Earth (2007)
+    ### #13: Like Stars on Earth (2007)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 42m
@@ -157,7 +146,7 @@
     - **NYT:** N/A
 
 
-    ### #15: Back to the Future (1985)
+    ### #14: Back to the Future (1985)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 56m
@@ -168,7 +157,7 @@
     - **NYT:** N/A
 
 
-    ### #16: Raiders of the Lost Ark (1981)
+    ### #15: Raiders of the Lost Ark (1981)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 55m
@@ -179,7 +168,7 @@
     - **NYT:** N/A
 
 
-    ### #17: Star Wars: Episode V - The Empire Strikes Back (1980)
+    ### #16: Star Wars: Episode V - The Empire Strikes Back (1980)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 4m
@@ -190,7 +179,7 @@
     - **NYT:** N/A
 
 
-    ### #18: Star Wars: Episode VI - Return of the Jedi (1983)
+    ### #17: Star Wars: Episode VI - Return of the Jedi (1983)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 11m
@@ -201,7 +190,7 @@
     - **NYT:** N/A
 
 
-    ### #19: Dead Poets Society (1989)
+    ### #18: Dead Poets Society (1989)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 8m
@@ -212,7 +201,7 @@
     - **NYT:** N/A
 
 
-    ### #20: Monty Python and the Holy Grail (1975)
+    ### #19: Monty Python and the Holy Grail (1975)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 31m
@@ -223,7 +212,7 @@
     - **NYT:** N/A
 
 
-    ### #21: Rocky (1976)
+    ### #20: Rocky (1976)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h
@@ -234,7 +223,7 @@
     - **NYT:** N/A
 
 
-    ### #22: The Father (2020)
+    ### #21: The Father (2020)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 1h 37m
@@ -245,7 +234,7 @@
     - **NYT:** N/A
 
 
-    ### #23: A Separation (2011)
+    ### #22: A Separation (2011)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 3m
@@ -256,7 +245,7 @@
     - **NYT:** 33
 
 
-    ### #24: Inception (2010)
+    ### #23: Inception (2010)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 28m
@@ -267,7 +256,7 @@
     - **NYT:** 55
 
 
-    ### #25: Cinema Paradiso (1988)
+    ### #24: Cinema Paradiso (1988)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 54m
@@ -278,7 +267,7 @@
     - **NYT:** N/A
 
 
-    ### #26: Amadeus (1984)
+    ### #25: Amadeus (1984)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 40m
@@ -289,7 +278,7 @@
     - **NYT:** N/A
 
 
-    ### #27: Star Wars: Episode IV - A New Hope (1977)
+    ### #26: Star Wars: Episode IV - A New Hope (1977)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 1m
@@ -300,7 +289,7 @@
     - **NYT:** N/A
 
 
-    ### #28: The Sting (1973)
+    ### #27: The Sting (1973)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 9m
@@ -311,7 +300,7 @@
     - **NYT:** N/A
 
 
-    ### #29: Jaws (1975)
+    ### #28: Jaws (1975)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 4m
@@ -322,7 +311,7 @@
     - **NYT:** N/A
 
 
-    ### #30: Avengers: Infinity War (2018)
+    ### #29: Avengers: Infinity War (2018)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 29m
@@ -333,7 +322,7 @@
     - **NYT:** N/A
 
 
-    ### #31: Top Gun: Maverick (2022)
+    ### #30: Top Gun: Maverick (2022)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 10m
@@ -344,7 +333,7 @@
     - **NYT:** N/A
 
 
-    ### #32: Harry Potter and the Deathly Hallows: Part 2 (2011)
+    ### #31: Harry Potter and the Deathly Hallows: Part 2 (2011)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 10m
@@ -355,7 +344,7 @@
     - **NYT:** N/A
 
 
-    ### #33: Spider-Man: No Way Home (2021)
+    ### #32: Spider-Man: No Way Home (2021)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 28m
@@ -366,7 +355,7 @@
     - **NYT:** N/A
 
 
-    ### #34: Green Book (2018)
+    ### #33: Green Book (2018)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 10m
@@ -377,7 +366,7 @@
     - **NYT:** N/A
 
 
-    ### #35: Warrior (2011)
+    ### #34: Warrior (2011)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 20m
@@ -388,7 +377,7 @@
     - **NYT:** N/A
 
 
-    ### #36: The Help (2011)
+    ### #35: The Help (2011)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 26m
@@ -399,7 +388,7 @@
     - **NYT:** N/A
 
 
-    ### #37: Princess Mononoke (1997)
+    ### #36: Princess Mononoke (1997)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 13m
@@ -410,7 +399,7 @@
     - **NYT:** N/A
 
 
-    ### #38: The Elephant Man (1980)
+    ### #37: The Elephant Man (1980)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 4m
@@ -421,7 +410,7 @@
     - **NYT:** N/A
 
 
-    ### #39: Interstellar (2014)
+    ### #38: Interstellar (2014)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 49m
@@ -432,7 +421,7 @@
     - **NYT:** 89
 
 
-    ### #40: Dune: Part Two (2024)
+    ### #39: Dune: Part Two (2024)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 46m
@@ -443,7 +432,7 @@
     - **NYT:** N/A
 
 
-    ### #41: The Dark Knight Rises (2012)
+    ### #40: The Dark Knight Rises (2012)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 44m
@@ -454,7 +443,7 @@
     - **NYT:** N/A
 
 
-    ### #42: Hamilton (2020)
+    ### #41: Hamilton (2020)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 40m
@@ -465,7 +454,7 @@
     - **NYT:** N/A
 
 
-    ### #43: Rear Window (1954)
+    ### #42: Rear Window (1954)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 52m
@@ -476,7 +465,7 @@
     - **NYT:** N/A
 
 
-    ### #44: Ford v Ferrari (2019)
+    ### #43: Ford v Ferrari (2019)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 32m
@@ -487,7 +476,7 @@
     - **NYT:** N/A
 
 
-    ### #45: The Prestige (2006)
+    ### #44: The Prestige (2006)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 10m
@@ -498,7 +487,7 @@
     - **NYT:** N/A
 
 
-    ### #46: Catch Me If You Can (2002)
+    ### #45: Catch Me If You Can (2002)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 21m
@@ -509,7 +498,7 @@
     - **NYT:** N/A
 
 
-    ### #47: Batman Begins (2005)
+    ### #46: Batman Begins (2005)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 20m
@@ -520,7 +509,7 @@
     - **NYT:** N/A
 
 
-    ### #48: The Dark Knight (2008)
+    ### #47: The Dark Knight (2008)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 32m
@@ -531,7 +520,7 @@
     - **NYT:** 28
 
 
-    ### #49: Dial M for Murder (1954)
+    ### #48: Dial M for Murder (1954)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 45m
@@ -542,7 +531,7 @@
     - **NYT:** N/A
 
 
-    ### #50: Million Dollar Baby (2004)
+    ### #49: Million Dollar Baby (2004)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 12m
@@ -553,7 +542,7 @@
     - **NYT:** N/A
 
 
-    ### #51: Life Is Beautiful (1997)
+    ### #50: Life Is Beautiful (1997)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 1h 56m
@@ -564,7 +553,7 @@
     - **NYT:** N/A
 
 
-    ### #52: A Beautiful Mind (2001)
+    ### #51: A Beautiful Mind (2001)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 15m
@@ -575,7 +564,7 @@
     - **NYT:** N/A
 
 
-    ### #53: Hotel Rwanda (2004)
+    ### #52: Hotel Rwanda (2004)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 1m
@@ -586,7 +575,7 @@
     - **NYT:** N/A
 
 
-    ### #54: Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+    ### #53: Pirates of the Caribbean: The Curse of the Black Pearl (2003)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 23m
@@ -597,7 +586,7 @@
     - **NYT:** N/A
 
 
-    ### #55: The Sixth Sense (1999)
+    ### #54: The Sixth Sense (1999)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 1h 47m
@@ -608,7 +597,7 @@
     - **NYT:** N/A
 
 
-    ### #56: The Lord of the Rings: The Fellowship of the Ring (2001)
+    ### #55: The Lord of the Rings: The Fellowship of the Ring (2001)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 58m
@@ -619,7 +608,7 @@
     - **NYT:** 87
 
 
-    ### #57: Dr. Strangelove or: How I learned to Stop Worrying and Love the Bomb (1964)
+    ### #56: Dr. Strangelove or: How I learned to Stop Worrying and Love the Bomb (1964)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 35m
@@ -630,7 +619,7 @@
     - **NYT:** N/A
 
 
-    ### #58: Avengers: Endgame (2019)
+    ### #57: Avengers: Endgame (2019)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 3h 1m
@@ -641,7 +630,7 @@
     - **NYT:** N/A
 
 
-    ### #59: Barry Lyndon (1975)
+    ### #58: Barry Lyndon (1975)
 
     - **MPAA Rating:** PG
     - **Runtime:** 3h 5m
@@ -652,7 +641,7 @@
     - **NYT:** N/A
 
 
-    ### #60: The Lord of the Rings: The Two Towers (2002)
+    ### #59: The Lord of the Rings: The Two Towers (2002)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 59m
@@ -663,7 +652,7 @@
     - **NYT:** N/A
 
 
-    ### #61: 3 Idiots (2009)
+    ### #60: 3 Idiots (2009)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 50m
@@ -674,7 +663,7 @@
     - **NYT:** N/A
 
 
-    ### #62: Vertigo (1958)
+    ### #61: Vertigo (1958)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 8m
@@ -685,7 +674,7 @@
     - **NYT:** N/A
 
 
-    ### #63: Forrest Gump (1994)
+    ### #62: Forrest Gump (1994)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 22m
@@ -696,7 +685,7 @@
     - **NYT:** N/A
 
 
-    ### #64: Jurassic Park (1993)
+    ### #63: Jurassic Park (1993)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 7m
@@ -707,7 +696,7 @@
     - **NYT:** N/A
 
 
-    ### #65: Lawrence of Arabia (1962)
+    ### #64: Lawrence of Arabia (1962)
 
     - **MPAA Rating:** PG
     - **Runtime:** 3h 47m
@@ -718,7 +707,7 @@
     - **NYT:** N/A
 
 
-    ### #66: The Lord of the Rings: The Return of the King (2003)
+    ### #65: The Lord of the Rings: The Return of the King (2003)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 3h 21m
@@ -729,7 +718,7 @@
     - **NYT:** N/A
 
 
-    ### #67: The Bridge on the River Kwai (1957)
+    ### #66: The Bridge on the River Kwai (1957)
 
     - **MPAA Rating:** PG
     - **Runtime:** 2h 41m
@@ -740,7 +729,7 @@
     - **NYT:** N/A
 
 
-    ### #68: Mary and Max (2009)
+    ### #67: Mary and Max (2009)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 1h 32m
@@ -751,7 +740,7 @@
     - **NYT:** N/A
 
 
-    ### #69: Jai Bhim (2021)
+    ### #68: Jai Bhim (2021)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 44m
@@ -762,7 +751,7 @@
     - **NYT:** N/A
 
 
-    ### #70: Indiana Jones and the Last Crusade (1989)
+    ### #69: Indiana Jones and the Last Crusade (1989)
 
     - **MPAA Rating:** PG-13
     - **Runtime:** 2h 7m
@@ -773,7 +762,7 @@
     - **NYT:** N/A
 
 
-    ### #71: Casablanca (1942)
+    ### #70: Casablanca (1942)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 42m
@@ -784,7 +773,7 @@
     - **NYT:** N/A
 
 
-    ### #72: Citizen Kane (1941)
+    ### #71: Citizen Kane (1941)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 59m
@@ -795,7 +784,7 @@
     - **NYT:** N/A
 
 
-    ### #73: Grave of the Fireflies (1988)
+    ### #72: Grave of the Fireflies (1988)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 1h 28m
@@ -806,7 +795,7 @@
     - **NYT:** N/A
 
 
-    ### #74: Toy Story 3 (2010)
+    ### #73: Toy Story 3 (2010)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 43m
@@ -817,7 +806,7 @@
     - **NYT:** N/A
 
 
-    ### #75: WALL·E (2008)
+    ### #74: WALL·E (2008)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 38m
@@ -828,7 +817,7 @@
     - **NYT:** 34
 
 
-    ### #76: Andhadhun (2018)
+    ### #75: Andhadhun (2018)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 19m
@@ -839,7 +828,7 @@
     - **NYT:** N/A
 
 
-    ### #77: Ratatouille (2007)
+    ### #76: Ratatouille (2007)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 51m
@@ -850,7 +839,7 @@
     - **NYT:** 73
 
 
-    ### #78: Finding Nemo (2003)
+    ### #77: Finding Nemo (2003)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 40m
@@ -861,7 +850,7 @@
     - **NYT:** N/A
 
 
-    ### #79: The Lion King (1994)
+    ### #78: The Lion King (1994)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 28m
@@ -872,7 +861,7 @@
     - **NYT:** N/A
 
 
-    ### #80: Toy Story (1995)
+    ### #79: Toy Story (1995)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 21m
@@ -883,7 +872,7 @@
     - **NYT:** N/A
 
 
-    ### #81: Monsters, Inc. (2001)
+    ### #80: Monsters, Inc. (2001)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 32m
@@ -894,7 +883,7 @@
     - **NYT:** N/A
 
 
-    ### #82: My Neighbor Totoro (1988)
+    ### #81: My Neighbor Totoro (1988)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 26m
@@ -905,7 +894,7 @@
     - **NYT:** N/A
 
 
-    ### #83: 12th Fail (2023)
+    ### #82: 12th Fail (2023)
 
     - **MPAA Rating:** undefined
     - **Runtime:** 2h 27m
@@ -916,7 +905,7 @@
     - **NYT:** N/A
 
 
-    ### #84: Maharaja (2024)
+    ### #83: Maharaja (2024)
 
     - **MPAA Rating:** undefined
     - **Runtime:** 2h 21m
@@ -927,7 +916,7 @@
     - **NYT:** N/A
 
 
-    ### #85: Hachi: A Dog's Tale (2009)
+    ### #84: Hachi: A Dog's Tale (2009)
 
     - **MPAA Rating:** G
     - **Runtime:** 1h 33m
@@ -938,7 +927,7 @@
     - **NYT:** N/A
 
 
-    ### #86: The Incredibles (2004)
+    ### #85: The Incredibles (2004)
 
     - **MPAA Rating:** PG
     - **Runtime:** 1h 55m
@@ -949,7 +938,7 @@
     - **NYT:** N/A
 
 
-    ### #87: Mad Max: Fury Road (2015)
+    ### #86: Mad Max: Fury Road (2015)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h
@@ -960,7 +949,7 @@
     - **NYT:** 11
 
 
-    ### #88: The Grand Budapest Hotel (2014)
+    ### #87: The Grand Budapest Hotel (2014)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 39m
@@ -971,7 +960,7 @@
     - **NYT:** 22
 
 
-    ### #89: Whiplash (2014)
+    ### #88: Whiplash (2014)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 46m
@@ -982,7 +971,7 @@
     - **NYT:** 60
 
 
-    ### #90: Come and See (1985)
+    ### #89: Come and See (1985)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 22m
@@ -993,7 +982,7 @@
     - **NYT:** N/A
 
 
-    ### #91: Parasite (2019)
+    ### #90: Parasite (2019)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 12m
@@ -1004,7 +993,7 @@
     - **NYT:** 1
 
 
-    ### #92: Before Sunset (2004)
+    ### #91: Before Sunset (2004)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 20m
@@ -1015,7 +1004,7 @@
     - **NYT:** 49
 
 
-    ### #93: The Hunt (2012)
+    ### #92: The Hunt (2012)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 55m
@@ -1026,7 +1015,7 @@
     - **NYT:** N/A
 
 
-    ### #94: 1917 (2019)
+    ### #93: 1917 (2019)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 59m
@@ -1037,7 +1026,7 @@
     - **NYT:** N/A
 
 
-    ### #95: Room (2015)
+    ### #94: Room (2015)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 58m
@@ -1048,7 +1037,7 @@
     - **NYT:** N/A
 
 
-    ### #96: Eternal Sunshine of the Spotless Mind (2004)
+    ### #95: Eternal Sunshine of the Spotless Mind (2004)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 48m
@@ -1059,7 +1048,7 @@
     - **NYT:** 7
 
 
-    ### #97: Paths of Glory (1957)
+    ### #96: Paths of Glory (1957)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 1h 28m
@@ -1070,7 +1059,7 @@
     - **NYT:** N/A
 
 
-    ### #98: 12 Years a Slave (2013)
+    ### #97: 12 Years a Slave (2013)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 14m
@@ -1081,7 +1070,7 @@
     - **NYT:** 51
 
 
-    ### #99: Oldboy (2003)
+    ### #98: Oldboy (2003)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h
@@ -1092,7 +1081,7 @@
     - **NYT:** 43
 
 
-    ### #100: North by Northwest (1959)
+    ### #99: North by Northwest (1959)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 16m
@@ -1103,7 +1092,7 @@
     - **NYT:** N/A
 
 
-    ### #101: Memento (2000)
+    ### #100: Memento (2000)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 53m
@@ -1114,7 +1103,7 @@
     - **NYT:** 62
 
 
-    ### #102: Pan's Labyrinth (2006)
+    ### #101: Pan's Labyrinth (2006)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 58m
@@ -1125,7 +1114,7 @@
     - **NYT:** 54
 
 
-    ### #103: Spotlight (2015)
+    ### #102: Spotlight (2015)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 9m
@@ -1136,7 +1125,7 @@
     - **NYT:** 66
 
 
-    ### #104: Gone Girl (2014)
+    ### #103: Gone Girl (2014)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 29m
@@ -1147,7 +1136,7 @@
     - **NYT:** 64
 
 
-    ### #105: Capernaum (2018)
+    ### #104: Capernaum (2018)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 6m
@@ -1158,7 +1147,7 @@
     - **NYT:** N/A
 
 
-    ### #106: Incendies (2010)
+    ### #105: Incendies (2010)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 11m
@@ -1169,7 +1158,7 @@
     - **NYT:** N/A
 
 
-    ### #107: Joker (2019)
+    ### #106: Joker (2019)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 2m
@@ -1180,7 +1169,7 @@
     - **NYT:** N/A
 
 
-    ### #108: Wild Tales (2014)
+    ### #107: Wild Tales (2014)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 2m
@@ -1191,7 +1180,7 @@
     - **NYT:** N/A
 
 
-    ### #109: Logan (2017)
+    ### #108: Logan (2017)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 17m
@@ -1202,7 +1191,7 @@
     - **NYT:** N/A
 
 
-    ### #110: Hacksaw Ridge (2016)
+    ### #109: Hacksaw Ridge (2016)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 19m
@@ -1213,7 +1202,7 @@
     - **NYT:** N/A
 
 
-    ### #111: City of God (2002)
+    ### #110: City of God (2002)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 10m
@@ -1224,7 +1213,7 @@
     - **NYT:** 15
 
 
-    ### #112: Rush (2013)
+    ### #111: Rush (2013)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 3m
@@ -1235,7 +1224,7 @@
     - **NYT:** N/A
 
 
-    ### #113: The Wolf of Wall Street (2013)
+    ### #112: The Wolf of Wall Street (2013)
 
     - **MPAA Rating:** R
     - **Runtime:** 3h
@@ -1246,7 +1235,7 @@
     - **NYT:** 20
 
 
-    ### #114: No Country for Old Men (2007)
+    ### #113: No Country for Old Men (2007)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 2m
@@ -1257,7 +1246,7 @@
     - **NYT:** 6
 
 
-    ### #115: Kill Bill: Vol (2003)
+    ### #114: Kill Bill: Vol (2003)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 51m
@@ -1268,7 +1257,7 @@
     - **NYT:** N/A
 
 
-    ### #116: Snatch (2000)
+    ### #115: Snatch (2000)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 42m
@@ -1279,7 +1268,7 @@
     - **NYT:** N/A
 
 
-    ### #117: Gran Torino (2008)
+    ### #116: Gran Torino (2008)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 56m
@@ -1290,7 +1279,7 @@
     - **NYT:** N/A
 
 
-    ### #118: The Apartment (1960)
+    ### #117: The Apartment (1960)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 5m
@@ -1301,7 +1290,7 @@
     - **NYT:** N/A
 
 
-    ### #119: 12 Angry Men (1957)
+    ### #118: 12 Angry Men (1957)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 1h 36m
@@ -1312,7 +1301,7 @@
     - **NYT:** N/A
 
 
-    ### #120: To Kill a Mockingbird (1962)
+    ### #119: To Kill a Mockingbird (1962)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 9m
@@ -1323,7 +1312,7 @@
     - **NYT:** N/A
 
 
-    ### #121: Witness for the Prosecution (1957)
+    ### #120: Witness for the Prosecution (1957)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 1h 56m
@@ -1334,7 +1323,7 @@
     - **NYT:** N/A
 
 
-    ### #122: Sunset Boulevard (1950)
+    ### #121: Sunset Boulevard (1950)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 1h 50m
@@ -1345,7 +1334,7 @@
     - **NYT:** N/A
 
 
-    ### #123: The Lives of Others (2006)
+    ### #122: The Lives of Others (2006)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 17m
@@ -1356,7 +1345,7 @@
     - **NYT:** 48
 
 
-    ### #124: Amélie (2001)
+    ### #123: Amélie (2001)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 2m
@@ -1367,7 +1356,7 @@
     - **NYT:** 41
 
 
-    ### #125: Oppenheimer (2023)
+    ### #124: Oppenheimer (2023)
 
     - **MPAA Rating:** R
     - **Runtime:** 3h
@@ -1378,7 +1367,7 @@
     - **NYT:** 65
 
 
-    ### #126: On the Waterfront (1954)
+    ### #125: On the Waterfront (1954)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 1h 48m
@@ -1389,7 +1378,7 @@
     - **NYT:** N/A
 
 
-    ### #127: Harakiri (1962)
+    ### #126: Harakiri (1962)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 13m
@@ -1400,7 +1389,7 @@
     - **NYT:** N/A
 
 
-    ### #128: High and Low (1963)
+    ### #127: High and Low (1963)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 23m
@@ -1411,7 +1400,7 @@
     - **NYT:** N/A
 
 
-    ### #129: Django Unchained (2012)
+    ### #128: Django Unchained (2012)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 45m
@@ -1422,7 +1411,7 @@
     - **NYT:** N/A
 
 
-    ### #130: Das Boot (1981)
+    ### #129: Das Boot (1981)
 
     - **MPAA Rating:** undefined
     - **Runtime:** 2h 29m
@@ -1433,7 +1422,7 @@
     - **NYT:** N/A
 
 
-    ### #131: The Pianist (2002)
+    ### #130: The Pianist (2002)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 30m
@@ -1444,7 +1433,7 @@
     - **NYT:** N/A
 
 
-    ### #132: Prisoners (2013)
+    ### #131: Prisoners (2013)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 33m
@@ -1455,7 +1444,7 @@
     - **NYT:** N/A
 
 
-    ### #133: The Battle of Algiers (1966)
+    ### #132: The Battle of Algiers (1966)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 1m
@@ -1466,7 +1455,7 @@
     - **NYT:** N/A
 
 
-    ### #134: The Silence of the Lambs (1991)
+    ### #133: The Silence of the Lambs (1991)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 58m
@@ -1477,7 +1466,7 @@
     - **NYT:** N/A
 
 
-    ### #135: There Will Be Blood (2007)
+    ### #134: There Will Be Blood (2007)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 38m
@@ -1488,18 +1477,7 @@
     - **NYT:** 3
 
 
-    ### #136: Inglourious Basterds (2009)
-
-    - **MPAA Rating:** R
-    - **Runtime:** 2h 33m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 89%
-    - **IMDB:** 69
-    - **NYT:** 14
-
-
-    ### #137: The Secret in Their Eyes (2009)
+    ### #135: The Secret in Their Eyes (2009)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 9m
@@ -1510,7 +1488,7 @@
     - **NYT:** N/A
 
 
-    ### #138: The Usual Suspects (1995)
+    ### #136: The Usual Suspects (1995)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 46m
@@ -1521,7 +1499,7 @@
     - **NYT:** N/A
 
 
-    ### #139: American History X (1998)
+    ### #137: American History X (1998)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 59m
@@ -1532,7 +1510,7 @@
     - **NYT:** N/A
 
 
-    ### #140: The Departed (2006)
+    ### #138: The Departed (2006)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 31m
@@ -1543,7 +1521,7 @@
     - **NYT:** 31
 
 
-    ### #141: Reservoir Dogs (1992)
+    ### #139: Reservoir Dogs (1992)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 39m
@@ -1554,7 +1532,7 @@
     - **NYT:** N/A
 
 
-    ### #142: Léon: The Professional (1994)
+    ### #140: Léon: The Professional (1994)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 50m
@@ -1565,7 +1543,7 @@
     - **NYT:** N/A
 
 
-    ### #143: V for Vendetta (2005)
+    ### #141: V for Vendetta (2005)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 12m
@@ -1576,7 +1554,7 @@
     - **NYT:** N/A
 
 
-    ### #144: Into the Wild (2007)
+    ### #142: Into the Wild (2007)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 28m
@@ -1587,7 +1565,7 @@
     - **NYT:** N/A
 
 
-    ### #145: The Chaos Class Failed the Class (1975)
+    ### #143: The Chaos Class Failed the Class (1975)
 
     - **MPAA Rating:** undefined
     - **Runtime:** 1h 35m
@@ -1598,7 +1576,18 @@
     - **NYT:** N/A
 
 
-    ### #146: Before Sunrise (1995)
+    ### #144: Inglourious Basterds (2009)
+
+    - **MPAA Rating:** R
+    - **Runtime:** 2h 33m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 89%
+    - **IMDB:** 69
+    - **NYT:** 14
+
+
+    ### #145: Before Sunrise (1995)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 41m
@@ -1609,7 +1598,7 @@
     - **NYT:** N/A
 
 
-    ### #147: Fargo (1996)
+    ### #146: Fargo (1996)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 38m
@@ -1620,7 +1609,7 @@
     - **NYT:** N/A
 
 
-    ### #148: Trainspotting (1996)
+    ### #147: Trainspotting (1996)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 33m
@@ -1631,7 +1620,7 @@
     - **NYT:** N/A
 
 
-    ### #149: Judgment at Nuremberg (1961)
+    ### #148: Judgment at Nuremberg (1961)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 59m
@@ -1642,7 +1631,7 @@
     - **NYT:** N/A
 
 
-    ### #150: Lock, Stock and Two Smoking Barrels (1998)
+    ### #149: Lock, Stock and Two Smoking Barrels (1998)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 47m
@@ -1653,7 +1642,7 @@
     - **NYT:** N/A
 
 
-    ### #151: The Big Lebowski (1998)
+    ### #150: The Big Lebowski (1998)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 57m
@@ -1664,7 +1653,7 @@
     - **NYT:** N/A
 
 
-    ### #152: All About Eve (1950)
+    ### #151: All About Eve (1950)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 18m
@@ -1675,7 +1664,7 @@
     - **NYT:** N/A
 
 
-    ### #153: Some Like It Hot (1959)
+    ### #152: Some Like It Hot (1959)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 1m
@@ -1686,7 +1675,7 @@
     - **NYT:** N/A
 
 
-    ### #154: Stand by Me (1986)
+    ### #153: Stand by Me (1986)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 29m
@@ -1697,7 +1686,7 @@
     - **NYT:** N/A
 
 
-    ### #155: Double Indemnity (1944)
+    ### #154: Double Indemnity (1944)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 1h 47m
@@ -1708,7 +1697,7 @@
     - **NYT:** N/A
 
 
-    ### #156: The Third Man (1949)
+    ### #155: The Third Man (1949)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 1h 44m
@@ -1719,7 +1708,7 @@
     - **NYT:** N/A
 
 
-    ### #157: Yojimbo (1961)
+    ### #156: Yojimbo (1961)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 1h 50m
@@ -1730,7 +1719,7 @@
     - **NYT:** N/A
 
 
-    ### #158: Gladiator (2000)
+    ### #157: Gladiator (2000)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 35m
@@ -1741,7 +1730,7 @@
     - **NYT:** 92
 
 
-    ### #159: Downfall (2004)
+    ### #158: Downfall (2004)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 36m
@@ -1752,7 +1741,7 @@
     - **NYT:** N/A
 
 
-    ### #160: Goodfellas (1990)
+    ### #159: Goodfellas (1990)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 25m
@@ -1763,7 +1752,7 @@
     - **NYT:** N/A
 
 
-    ### #161: The Shawshank Redemption (1994)
+    ### #160: The Shawshank Redemption (1994)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 22m
@@ -1774,7 +1763,7 @@
     - **NYT:** N/A
 
 
-    ### #162: Rashomon (1950)
+    ### #161: Rashomon (1950)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 1h 28m
@@ -1785,7 +1774,7 @@
     - **NYT:** N/A
 
 
-    ### #163: Terminator 2: Judgment Day (1991)
+    ### #162: Terminator 2: Judgment Day (1991)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 17m
@@ -1796,7 +1785,7 @@
     - **NYT:** N/A
 
 
-    ### #164: The Matrix (1999)
+    ### #163: The Matrix (1999)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 16m
@@ -1807,7 +1796,7 @@
     - **NYT:** N/A
 
 
-    ### #165: Se7en (1995)
+    ### #164: Se7en (1995)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 7m
@@ -1818,7 +1807,7 @@
     - **NYT:** N/A
 
 
-    ### #166: Fight Club (1999)
+    ### #165: Fight Club (1999)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 19m
@@ -1829,7 +1818,7 @@
     - **NYT:** N/A
 
 
-    ### #167: Good Will Hunting (1997)
+    ### #166: Good Will Hunting (1997)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 6m
@@ -1840,7 +1829,7 @@
     - **NYT:** N/A
 
 
-    ### #168: Tokyo Story (1953)
+    ### #167: Tokyo Story (1953)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 17m
@@ -1851,7 +1840,7 @@
     - **NYT:** N/A
 
 
-    ### #169: American Beauty (1999)
+    ### #168: American Beauty (1999)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 2m
@@ -1862,7 +1851,7 @@
     - **NYT:** N/A
 
 
-    ### #170: Amores Perros (2000)
+    ### #169: Amores Perros (2000)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 34m
@@ -1873,7 +1862,7 @@
     - **NYT:** N/A
 
 
-    ### #171: L.A (1997)
+    ### #170: L.A (1997)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 18m
@@ -1884,7 +1873,7 @@
     - **NYT:** N/A
 
 
-    ### #172: Unforgiven (1992)
+    ### #171: Unforgiven (1992)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 10m
@@ -1895,7 +1884,7 @@
     - **NYT:** N/A
 
 
-    ### #173: In the Name of the Father (1993)
+    ### #172: In the Name of the Father (1993)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 13m
@@ -1906,7 +1895,7 @@
     - **NYT:** N/A
 
 
-    ### #174: Full Metal Jacket (1987)
+    ### #173: Full Metal Jacket (1987)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 56m
@@ -1917,7 +1906,7 @@
     - **NYT:** N/A
 
 
-    ### #175: The Thing (1982)
+    ### #174: The Thing (1982)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 49m
@@ -1928,7 +1917,7 @@
     - **NYT:** N/A
 
 
-    ### #176: The Terminator (1984)
+    ### #175: The Terminator (1984)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 47m
@@ -1939,7 +1928,7 @@
     - **NYT:** N/A
 
 
-    ### #177: Blade Runner (1982)
+    ### #176: Blade Runner (1982)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 57m
@@ -1950,7 +1939,7 @@
     - **NYT:** N/A
 
 
-    ### #178: Platoon (1986)
+    ### #177: Platoon (1986)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h
@@ -1961,7 +1950,7 @@
     - **NYT:** N/A
 
 
-    ### #179: The Treasure of the Sierra Madre (1948)
+    ### #178: The Treasure of the Sierra Madre (1948)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 6m
@@ -1972,7 +1961,7 @@
     - **NYT:** N/A
 
 
-    ### #180: The Grapes of Wrath (1940)
+    ### #179: The Grapes of Wrath (1940)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 9m
@@ -1983,7 +1972,7 @@
     - **NYT:** N/A
 
 
-    ### #181: The Gold Rush (1925)
+    ### #180: The Gold Rush (1925)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 1h 35m
@@ -1994,7 +1983,7 @@
     - **NYT:** N/A
 
 
-    ### #182: Pulp Fiction (1994)
+    ### #181: Pulp Fiction (1994)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 34m
@@ -2005,7 +1994,7 @@
     - **NYT:** N/A
 
 
-    ### #183: Saving Private Ryan (1998)
+    ### #182: Saving Private Ryan (1998)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 49m
@@ -2016,7 +2005,7 @@
     - **NYT:** N/A
 
 
-    ### #184: Wild Strawberries (1957)
+    ### #183: Wild Strawberries (1957)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 1h 32m
@@ -2027,7 +2016,7 @@
     - **NYT:** N/A
 
 
-    ### #185: The Seventh Seal (1957)
+    ### #184: The Seventh Seal (1957)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 1h 36m
@@ -2038,7 +2027,7 @@
     - **NYT:** N/A
 
 
-    ### #186: Bicycle Thieves (1948)
+    ### #185: Bicycle Thieves (1948)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 1h 29m
@@ -2049,7 +2038,7 @@
     - **NYT:** N/A
 
 
-    ### #187: Heat (1995)
+    ### #186: Heat (1995)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 50m
@@ -2060,7 +2049,7 @@
     - **NYT:** N/A
 
 
-    ### #188: Braveheart (1995)
+    ### #187: Braveheart (1995)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 58m
@@ -2071,18 +2060,7 @@
     - **NYT:** N/A
 
 
-    ### #189: 2001: A Space Odyssey (1968)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 2h 29m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 90%
-    - **IMDB:** 97
-    - **NYT:** N/A
-
-
-    ### #190: Aliens (1986)
+    ### #188: Aliens (1986)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 17m
@@ -2093,7 +2071,7 @@
     - **NYT:** N/A
 
 
-    ### #191: Casino (1995)
+    ### #189: Casino (1995)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 58m
@@ -2104,7 +2082,7 @@
     - **NYT:** N/A
 
 
-    ### #192: The Shining (1980)
+    ### #190: The Shining (1980)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 26m
@@ -2115,7 +2093,7 @@
     - **NYT:** N/A
 
 
-    ### #193: Die Hard (1988)
+    ### #191: Die Hard (1988)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 12m
@@ -2126,18 +2104,7 @@
     - **NYT:** N/A
 
 
-    ### #194: Singin' in the Rain (1952)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 1h 43m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 100%
-    - **IMDB:** 89
-    - **NYT:** N/A
-
-
-    ### #195: Alien (1979)
+    ### #192: Alien (1979)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 57m
@@ -2148,7 +2115,7 @@
     - **NYT:** N/A
 
 
-    ### #196: Taxi Driver (1976)
+    ### #193: Taxi Driver (1976)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 54m
@@ -2159,7 +2126,7 @@
     - **NYT:** N/A
 
 
-    ### #197: The Best Years of Our Lives (1946)
+    ### #194: The Best Years of Our Lives (1946)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 50m
@@ -2170,7 +2137,7 @@
     - **NYT:** N/A
 
 
-    ### #198: Ikiru (1952)
+    ### #195: Ikiru (1952)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 23m
@@ -2181,7 +2148,7 @@
     - **NYT:** N/A
 
 
-    ### #199: Mr. Smith Goes to Washington (1939)
+    ### #196: Mr. Smith Goes to Washington (1939)
 
     - **MPAA Rating:** Approved
     - **Runtime:** 2h 9m
@@ -2192,7 +2159,7 @@
     - **NYT:** N/A
 
 
-    ### #200: The Green Mile (1999)
+    ### #197: The Green Mile (1999)
 
     - **MPAA Rating:** R
     - **Runtime:** 3h 9m
@@ -2203,7 +2170,7 @@
     - **NYT:** N/A
 
 
-    ### #201: Ran (1985)
+    ### #198: Ran (1985)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 40m
@@ -2214,7 +2181,7 @@
     - **NYT:** N/A
 
 
-    ### #202: One Flew Over the Cuckoo's Nest (1975)
+    ### #199: One Flew Over the Cuckoo's Nest (1975)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 13m
@@ -2225,7 +2192,7 @@
     - **NYT:** N/A
 
 
-    ### #203: Scarface (1983)
+    ### #200: Scarface (1983)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 50m
@@ -2236,7 +2203,7 @@
     - **NYT:** N/A
 
 
-    ### #204: Apocalypse Now (1979)
+    ### #201: Apocalypse Now (1979)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 27m
@@ -2247,18 +2214,7 @@
     - **NYT:** N/A
 
 
-    ### #205: The Sound of Music (1965)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 2h 52m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 83%
-    - **IMDB:** 229
-    - **NYT:** N/A
-
-
-    ### #206: A Clockwork Orange (1971)
+    ### #202: A Clockwork Orange (1971)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 16m
@@ -2269,7 +2225,7 @@
     - **NYT:** N/A
 
 
-    ### #207: Chinatown (1974)
+    ### #203: Chinatown (1974)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 10m
@@ -2280,7 +2236,7 @@
     - **NYT:** N/A
 
 
-    ### #208: Network (1976)
+    ### #204: Network (1976)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 1m
@@ -2291,7 +2247,7 @@
     - **NYT:** N/A
 
 
-    ### #209: The Exorcist (1973)
+    ### #205: The Exorcist (1973)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 2m
@@ -2302,7 +2258,7 @@
     - **NYT:** N/A
 
 
-    ### #210: Sherlock Jr. (1924)
+    ### #206: Sherlock Jr. (1924)
 
     - **MPAA Rating:** Passed
     - **Runtime:** 45m
@@ -2313,7 +2269,7 @@
     - **NYT:** N/A
 
 
-    ### #211: The Wages of Fear (1953)
+    ### #207: The Wages of Fear (1953)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 36m
@@ -2324,7 +2280,7 @@
     - **NYT:** N/A
 
 
-    ### #212: The Godfather (1972)
+    ### #208: The Godfather (1972)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 55m
@@ -2335,7 +2291,7 @@
     - **NYT:** N/A
 
 
-    ### #213: Once Upon a Time in America (1984)
+    ### #209: Once Upon a Time in America (1984)
 
     - **MPAA Rating:** R
     - **Runtime:** 3h 49m
@@ -2346,7 +2302,7 @@
     - **NYT:** N/A
 
 
-    ### #214: Raging Bull (1980)
+    ### #210: Raging Bull (1980)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 9m
@@ -2357,7 +2313,7 @@
     - **NYT:** N/A
 
 
-    ### #215: Seven Samurai (1954)
+    ### #211: Seven Samurai (1954)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 3h 27m
@@ -2368,7 +2324,7 @@
     - **NYT:** N/A
 
 
-    ### #216: For a Few Dollars More (1965)
+    ### #212: For a Few Dollars More (1965)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 12m
@@ -2379,7 +2335,7 @@
     - **NYT:** N/A
 
 
-    ### #217: Schindler's List (1993)
+    ### #213: Schindler's List (1993)
 
     - **MPAA Rating:** R
     - **Runtime:** 3h 15m
@@ -2390,7 +2346,7 @@
     - **NYT:** N/A
 
 
-    ### #218: The Passion of Joan of Arc (1928)
+    ### #214: The Passion of Joan of Arc (1928)
 
     - **MPAA Rating:** Passed
     - **Runtime:** 1h 54m
@@ -2401,18 +2357,7 @@
     - **NYT:** N/A
 
 
-    ### #219: The Wizard of Oz (1939)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 1h 42m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 98%
-    - **IMDB:** 232
-    - **NYT:** N/A
-
-
-    ### #220: The Godfather Part II (1974)
+    ### #215: The Godfather Part II (1974)
 
     - **MPAA Rating:** R
     - **Runtime:** 3h 22m
@@ -2423,7 +2368,7 @@
     - **NYT:** N/A
 
 
-    ### #221: The Good, the Bad and the Ugly (1966)
+    ### #216: The Good, the Bad and the Ugly (1966)
 
     - **MPAA Rating:** R
     - **Runtime:** 2h 58m
@@ -2434,227 +2379,7 @@
     - **NYT:** N/A
 
 
-    ### #222: Ben-Hur (1959)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 3h 32m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 87%
-    - **IMDB:** 181
-    - **NYT:** N/A
-
-
-    ### #223: Modern Times (1936)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 1h 27m
-    - **Black and White:** true
-    - **Animated:** false
-    - **RT:** 98%
-    - **IMDB:** 50
-    - **NYT:** N/A
-
-
-    ### #224: City Lights (1931)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 1h 27m
-    - **Black and White:** true
-    - **Animated:** false
-    - **RT:** 95%
-    - **IMDB:** 54
-    - **NYT:** N/A
-
-
-    ### #225: I'm Still Here (2024)
-
-    - **MPAA Rating:** PG-13
-    - **Runtime:** 2h 17m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** N/A
-    - **IMDB:** 236
-    - **NYT:** N/A
-
-
-    ### #226: Gone with the Wind (1939)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 3h 58m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 90%
-    - **IMDB:** 163
-    - **NYT:** N/A
-
-
-    ### #227: A Silent Voice: The Movie (2016)
-
-    - **MPAA Rating:** Not Rated
-    - **Runtime:** 2h 10m
-    - **Black and White:** false
-    - **Animated:** true
-    - **RT:** N/A
-    - **IMDB:** 241
-    - **NYT:** N/A
-
-
-    ### #228: Your Name. (2016)
-
-    - **MPAA Rating:** undefined
-    - **Runtime:** 1h 46m
-    - **Black and White:** false
-    - **Animated:** true
-    - **RT:** 98%
-    - **IMDB:** 84
-    - **NYT:** N/A
-
-
-    ### #229: The Handmaiden (2016)
-
-    - **MPAA Rating:** Not Rated
-    - **Runtime:** 2h 25m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 96%
-    - **IMDB:** 240
-    - **NYT:** N/A
-
-
-    ### #230: My Father and My Son (2005)
-
-    - **MPAA Rating:** Not Rated
-    - **Runtime:** 1h 52m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** N/A
-    - **IMDB:** 237
-    - **NYT:** N/A
-
-
-    ### #231: It's a Wonderful Life (1946)
-
-    - **MPAA Rating:** PG
-    - **Runtime:** 2h 10m
-    - **Black and White:** true
-    - **Animated:** false
-    - **RT:** 94%
-    - **IMDB:** 21
-    - **NYT:** N/A
-
-
-    ### #232: Dangal (2016)
-
-    - **MPAA Rating:** Not Rated
-    - **Runtime:** 2h 41m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 89%
-    - **IMDB:** 127
-    - **NYT:** N/A
-
-
-    ### #233: Memories of Murder (2003)
-
-    - **MPAA Rating:** Not Rated
-    - **Runtime:** 2h 12m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** N/A
-    - **IMDB:** 193
-    - **NYT:** 99
-
-
-    ### #234: La haine (1995)
-
-    - **MPAA Rating:** Not Rated
-    - **Runtime:** 1h 38m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 96%
-    - **IMDB:** 222
-    - **NYT:** N/A
-
-
-    ### #235: Once Upon a Time in the West (1968)
-
-    - **MPAA Rating:** PG-13
-    - **Runtime:** 2h 46m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 96%
-    - **IMDB:** 52
-    - **NYT:** N/A
-
-
-    ### #236: The Intouchables (2011)
-
-    - **MPAA Rating:** R
-    - **Runtime:** 1h 52m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 75%
-    - **IMDB:** 47
-    - **NYT:** N/A
-
-
-    ### #237: Three Billboards Outside Ebbing, Missouri (2017)
-
-    - **MPAA Rating:** R
-    - **Runtime:** 1h 55m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 90%
-    - **IMDB:** 170
-    - **NYT:** N/A
-
-
-    ### #238: The Great Escape (1963)
-
-    - **MPAA Rating:** Approved
-    - **Runtime:** 2h 52m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 94%
-    - **IMDB:** 158
-    - **NYT:** N/A
-
-
-    ### #239: To Be or Not to Be (1942)
-
-    - **MPAA Rating:** Approved
-    - **Runtime:** 1h 39m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 96%
-    - **IMDB:** 243
-    - **NYT:** N/A
-
-
-    ### #240: Shutter Island (2010)
-
-    - **MPAA Rating:** R
-    - **Runtime:** 2h 18m
-    - **Black and White:** false
-    - **Animated:** false
-    - **RT:** 69%
-    - **IMDB:** 137
-    - **NYT:** N/A
-
-
-    ### #241: The Great Dictator (1940)
-
-    - **MPAA Rating:** G
-    - **Runtime:** 2h 5m
-    - **Black and White:** true
-    - **Animated:** false
-    - **RT:** 92%
-    - **IMDB:** 67
-    - **NYT:** N/A
-
-
-    ### #242: Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train (2020)
+    ### #217: Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train (2020)
 
     - **MPAA Rating:** TV-MA
     - **Runtime:** 1h 57m
@@ -2665,7 +2390,7 @@
     - **NYT:** N/A
 
 
-    ### #243: Psycho (1960)
+    ### #218: Psycho (1960)
 
     - **MPAA Rating:** R
     - **Runtime:** 1h 49m
@@ -2676,7 +2401,7 @@
     - **NYT:** N/A
 
 
-    ### #244: The Deer Hunter (1978)
+    ### #219: The Deer Hunter (1978)
 
     - **MPAA Rating:** R
     - **Runtime:** 3h 3m
@@ -2687,7 +2412,7 @@
     - **NYT:** N/A
 
 
-    ### #245: The Kid (1921)
+    ### #220: The Kid (1921)
 
     - **MPAA Rating:** Passed
     - **Runtime:** 1h 8m
@@ -2698,7 +2423,7 @@
     - **NYT:** N/A
 
 
-    ### #246: The General (1926)
+    ### #221: The General (1926)
 
     - **MPAA Rating:** Passed
     - **Runtime:** 1h 18m
@@ -2709,7 +2434,7 @@
     - **NYT:** N/A
 
 
-    ### #247: Metropolis (1927)
+    ### #222: Metropolis (1927)
 
     - **MPAA Rating:** Not Rated
     - **Runtime:** 2h 33m
@@ -2720,7 +2445,271 @@
     - **NYT:** N/A
 
 
-    ### #248: M (1931)
+    ### #223: Gone with the Wind (1939)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 3h 58m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 90%
+    - **IMDB:** 163
+    - **NYT:** N/A
+
+
+    ### #224: A Silent Voice: The Movie (2016)
+
+    - **MPAA Rating:** Not Rated
+    - **Runtime:** 2h 10m
+    - **Black and White:** false
+    - **Animated:** true
+    - **RT:** N/A
+    - **IMDB:** 241
+    - **NYT:** N/A
+
+
+    ### #225: Your Name. (2016)
+
+    - **MPAA Rating:** undefined
+    - **Runtime:** 1h 46m
+    - **Black and White:** false
+    - **Animated:** true
+    - **RT:** 98%
+    - **IMDB:** 84
+    - **NYT:** N/A
+
+
+    ### #226: The Handmaiden (2016)
+
+    - **MPAA Rating:** Not Rated
+    - **Runtime:** 2h 25m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 96%
+    - **IMDB:** 240
+    - **NYT:** N/A
+
+
+    ### #227: My Father and My Son (2005)
+
+    - **MPAA Rating:** Not Rated
+    - **Runtime:** 1h 52m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** N/A
+    - **IMDB:** 237
+    - **NYT:** N/A
+
+
+    ### #228: It's a Wonderful Life (1946)
+
+    - **MPAA Rating:** PG
+    - **Runtime:** 2h 10m
+    - **Black and White:** true
+    - **Animated:** false
+    - **RT:** 94%
+    - **IMDB:** 21
+    - **NYT:** N/A
+
+
+    ### #229: Dangal (2016)
+
+    - **MPAA Rating:** Not Rated
+    - **Runtime:** 2h 41m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 89%
+    - **IMDB:** 127
+    - **NYT:** N/A
+
+
+    ### #230: Memories of Murder (2003)
+
+    - **MPAA Rating:** Not Rated
+    - **Runtime:** 2h 12m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** N/A
+    - **IMDB:** 193
+    - **NYT:** 99
+
+
+    ### #231: La haine (1995)
+
+    - **MPAA Rating:** Not Rated
+    - **Runtime:** 1h 38m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 96%
+    - **IMDB:** 222
+    - **NYT:** N/A
+
+
+    ### #232: Once Upon a Time in the West (1968)
+
+    - **MPAA Rating:** PG-13
+    - **Runtime:** 2h 46m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 96%
+    - **IMDB:** 52
+    - **NYT:** N/A
+
+
+    ### #233: The Intouchables (2011)
+
+    - **MPAA Rating:** R
+    - **Runtime:** 1h 52m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 75%
+    - **IMDB:** 47
+    - **NYT:** N/A
+
+
+    ### #234: Three Billboards Outside Ebbing, Missouri (2017)
+
+    - **MPAA Rating:** R
+    - **Runtime:** 1h 55m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 90%
+    - **IMDB:** 170
+    - **NYT:** N/A
+
+
+    ### #235: The Great Escape (1963)
+
+    - **MPAA Rating:** Approved
+    - **Runtime:** 2h 52m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 94%
+    - **IMDB:** 158
+    - **NYT:** N/A
+
+
+    ### #236: To Be or Not to Be (1942)
+
+    - **MPAA Rating:** Approved
+    - **Runtime:** 1h 39m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 96%
+    - **IMDB:** 243
+    - **NYT:** N/A
+
+
+    ### #237: Shutter Island (2010)
+
+    - **MPAA Rating:** R
+    - **Runtime:** 2h 18m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 69%
+    - **IMDB:** 137
+    - **NYT:** N/A
+
+
+    ### #238: 2001: A Space Odyssey (1968)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 2h 29m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 90%
+    - **IMDB:** 97
+    - **NYT:** N/A
+
+
+    ### #239: Singin' in the Rain (1952)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 1h 43m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 100%
+    - **IMDB:** 89
+    - **NYT:** N/A
+
+
+    ### #240: The Sound of Music (1965)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 2h 52m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 83%
+    - **IMDB:** 229
+    - **NYT:** N/A
+
+
+    ### #241: The Wizard of Oz (1939)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 1h 42m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 98%
+    - **IMDB:** 232
+    - **NYT:** N/A
+
+
+    ### #242: Ben-Hur (1959)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 3h 32m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** 87%
+    - **IMDB:** 181
+    - **NYT:** N/A
+
+
+    ### #243: Modern Times (1936)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 1h 27m
+    - **Black and White:** true
+    - **Animated:** false
+    - **RT:** 98%
+    - **IMDB:** 50
+    - **NYT:** N/A
+
+
+    ### #244: City Lights (1931)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 1h 27m
+    - **Black and White:** true
+    - **Animated:** false
+    - **RT:** 95%
+    - **IMDB:** 54
+    - **NYT:** N/A
+
+
+    ### #245: I'm Still Here (2024)
+
+    - **MPAA Rating:** PG-13
+    - **Runtime:** 2h 17m
+    - **Black and White:** false
+    - **Animated:** false
+    - **RT:** N/A
+    - **IMDB:** 236
+    - **NYT:** N/A
+
+
+    ### #246: The Great Dictator (1940)
+
+    - **MPAA Rating:** G
+    - **Runtime:** 2h 5m
+    - **Black and White:** true
+    - **Animated:** false
+    - **RT:** 92%
+    - **IMDB:** 67
+    - **NYT:** N/A
+
+
+    ### #247: M (1931)
 
     - **MPAA Rating:** Passed
     - **Runtime:** 1h 39m
@@ -2731,7 +2720,7 @@
     - **NYT:** N/A
 
 
-    ### #249: Requiem for a Dream (2000)
+    ### #248: Requiem for a Dream (2000)
 
     - **MPAA Rating:** NC-17
     - **Runtime:** 1h 42m
@@ -2751,4 +2740,14 @@
     - **Animated:** true
     - **RT:** 97%
     - **IMDB:** 63
+    - **NYT:** N/A
+
+
+    ### #2: Spider-Man: Across the Spider-Verse (2023)
+    - **MPAA Rating:** PG
+    - **Runtime:** 2h 20m
+    - **Black and White:** false
+    - **Animated:** true
+    - **RT:** 95%
+    - **IMDB:** 44
     - **NYT:** N/A

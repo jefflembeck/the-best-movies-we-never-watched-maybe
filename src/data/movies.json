@@ -119,7 +119,8 @@
     "blackAndWhite": false,
     "animated": true,
     "rottenTomatoes": "95%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "watched": true
   },
   {
     "imdbRank": 72,
