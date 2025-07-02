@@ -1,5 +1,9 @@
 # Top250MoviesIMDB — Composite Ranking with RT & NYT
 
+## Background
+
+I have a kid. She's a preteen. My wife and I want to watch famous and good movies with her on our movie nights, but many aren't appropriate. Many are too long. Many are something she'd get bored with. So, let's make this into something where we watch great movies in a way where we are constantly entertained and where it's not weird to watch it. Also, we've definitely seen some of these... many of them, but not recently, so it's nice to revisit.
+
 This project combines three sources of movie rankings—IMDb popularity, Rotten Tomatoes critics’ scores, and The New York Times editorial list—to produce a single **early-watch** score. Lower scores indicate a movie should be watched sooner.
 
 ## Data Files
@@ -184,6 +188,3 @@ earlyScore =
 
 - Adjust `wNYT`, `wRT`, or `wIMDb` in `scripts/rank-movies.js` to reflect changing preferences.
 - Re-run scripts to regenerate rankings.
-
----
-Enjoy your perfectly weighted watch list!
