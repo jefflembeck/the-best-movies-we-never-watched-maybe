@@ -4,7 +4,7 @@ const path = require("path");
 dotenv.config();
 
 const API_KEY = process.env.OMDBAPIKEY;
-const INPUT_FILE = path.join(__dirname, "..", "movies-scored-sorted.json");
+const INPUT_FILE = path.join(__dirname, "..", "movies.json");
 const OUTPUT_FILE = path.join(__dirname, "..", "movies-with-rt.json");
 
 async function fetchRottenTomatoesRatings() {
