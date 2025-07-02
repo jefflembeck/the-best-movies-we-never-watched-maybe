@@ -6,35 +6,18 @@ I have a kid. She's a preteen. My wife and I want to watch famous and good movie
 
 This project combines three sources of movie rankings—IMDb popularity, Rotten Tomatoes critics’ scores, and The New York Times editorial list—to produce a single **early-watch** score. Lower scores indicate a movie should be watched sooner.
 
-## Data Files
+## Data File
 
-- **movies-with-rt.json**  
-  Original list of top-250 IMDb movies, augmented with Rotten Tomatoes % (`rottenTomatoes`).
-- **nytimesmoviedata.json**  
-  Editorial top-100 list from The New York Times, with `"number"` and `"title"`.
-- **movies-with-rt-with-nyt.json**  
-  Output from `add-nyt-ranking.js`: every movie now has:
-  - `nytRank`: string rank `"1"`–`"100"` or `"N/A"`
-  - `inNyt`: boolean flag if it made the NYT top-100
+- **movies.json**
+This is where all of the data is.
 
-- **movies-ranked.json**  
-  Final output from `rank-movies.js`: each movie also has `earlyScore` computed.
+TODO: Get something that regularly grabs from IMDB, RT, and maybe holds the NYT ranking set. That way we can update this list, add to it, etc.
 
 ## Scripts
 
-All scripts live under `scripts/`:
+`npm run create-list`
 
-1. **add-nyt-ranking.js**  
-   - Normalizes titles (lowercase, no punctuation/spaces), builds lookup from NYT list.
-   - Adds two fields on every movie:
-     - `inNyt` (boolean)
-     - `nytRank` (`"1"`–`"100"` or `"N/A"`)
-
-2. **rank-movies.js**  
-   - Reads `movies-with-rt-with-nyt.json`
-   - Normalizes each metric to a 0…1 range (0 = best)
-   - Applies weights to compute `earlyScore`
-   - Sorts ascending and writes `movies-ranked.json`
+That will create a "presentation" and a movie list. I originally needed to create a powerpoint for the family for this one.
 
 ## Normalization Formulas
 
