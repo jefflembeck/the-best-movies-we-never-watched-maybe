@@ -11,29 +11,44 @@ import { RottenTomatoesRanker } from "./lib/rotten-tomato-ranker";
 import { NYTRanker } from "./lib/nyt-ranker";
 import { IRanker } from "./lib/iranker";
 
-const moviesFile = readFileSync(path.join(__dirname, "data", "movies.json"), {
-  encoding: "utf8",
-});
-const movies: Movie[] = JSON.parse(moviesFile);
+
+function partition<T>(
+  array: T[],
+  predicate: (item: T) => boolean
+): [T[], T[]] {
+  const truthy: T[] = [];
+  const falsy: T[] = [];
+  for (const item of array) {
+    (predicate(item) ? truthy : falsy).push(item);
+  }
+  return [truthy, falsy];
+}
 
 interface ScoredMovie extends Movie {
   totalScore: number;
 }
 
-const scoredMovies: ScoredMovie[] = movies.filter((m: Movie) => {
-  return !m.watched;
-}).map((m: Movie) => {
+interface RankedMovie extends ScoredMovie {
+  overallRank: number;
+}
+
+const moviesFile = readFileSync(path.join(__dirname, "data", "movies.json"), {
+  encoding: "utf8",
+});
+const movies: Movie[] = JSON.parse(moviesFile);
+
+const rankedMovies: RankedMovie[] = movies.map((m: Movie) => {
   return { ...m, totalScore: scoreMovie(m) };
-});
-
-const sortedMovies = scoredMovies.sort((a: ScoredMovie, b: ScoredMovie) => {
+}).sort((a: ScoredMovie, b) => {
   return a.totalScore - b.totalScore;
+}).map((m: ScoredMovie, index) => {
+  return {...m, overallRank: index + 1 };
 });
 
-const watched = movies.filter((m: Movie) => { return !!m.watched; });
+const [watched, unwatched] = partition(rankedMovies, (m) => !!m.watched);
 
-outputToPresentation(sortedMovies);
-outputList(sortedMovies, watched);
+outputToPresentation(unwatched);
+outputList(unwatched, watched);
 
 function scoreMovie(m: Movie): number {
   const imdbScore = getScoreForAttribute(m.imdbRank, new IMDBRanker());
@@ -219,38 +234,38 @@ Lower scores mean: _watch this sooner_.`);
   console.log("✅ presentation.md written!");
 }
 
-function outputList(sortedMovies: ScoredMovie[], watched: Movie[]) {
+function outputList(sortedMovies: RankedMovie[], watched: RankedMovie[]) {
   const open = `
-  # Movies
-  
-  This is the list of movies!
-  `;
+# Movies
 
-  const movies = sortedMovies.map((movie, index) => {
-    return `
-    ### #${index + 1}: ${movie.title} (${movie.year})
+This is the list of movies!
 
-    - **MPAA Rating:** ${movie.rating}
-    - **Runtime:** ${movie.length}
-    - **Black and White:** ${movie.blackAndWhite}
-    - **Animated:** ${movie.animated}
-    - **RT:** ${movie.rottenTomatoes}
-    - **IMDB:** ${movie.imdbRank}
-    - **NYT:** ${movie.nytRank}`
+`;
+
+  const movies = sortedMovies.map((movie: RankedMovie) => {
+    return `### #${movie.overallRank}: ${movie.title} (${movie.year})
+- **MPAA Rating:** ${movie.rating}
+- **Runtime:** ${movie.length}
+- **Black and White:** ${movie.blackAndWhite}
+- **Animated:** ${movie.animated}
+- **RT:** ${movie.rottenTomatoes}
+- **IMDB:** ${movie.imdbRank}
+- **NYT:** ${movie.nytRank}
+`
   });
 
-  const watchedMovies = watched.map((movie: Movie, index) => {
-    return `
-    ### #${index + 1}: ${movie.title} (${movie.year})
-    - **MPAA Rating:** ${movie.rating}
-    - **Runtime:** ${movie.length}
-    - **Black and White:** ${movie.blackAndWhite}
-    - **Animated:** ${movie.animated}
-    - **RT:** ${movie.rottenTomatoes}
-    - **IMDB:** ${movie.imdbRank}
-    - **NYT:** ${movie.nytRank}`
+  const watchedMovies = watched.map((movie: RankedMovie) => {
+    return `### #${movie.overallRank}: ${movie.title} (${movie.year})
+- **MPAA Rating:** ${movie.rating}
+- **Runtime:** ${movie.length}
+- **Black and White:** ${movie.blackAndWhite}
+- **Animated:** ${movie.animated}
+- **RT:** ${movie.rottenTomatoes}
+- **IMDB:** ${movie.imdbRank}
+- **NYT:** ${movie.nytRank}
+`
   });
     
 
-  writeFileSync("MOVIES.md", open + movies.join('\n\n') + '\n\n' + `## Watched` + `\n\n` + watchedMovies.join('\n\n'));
+  writeFileSync("MOVIES.md", open + `## Unwatched` + `\n\n` + movies.join('\n\n') + '\n\n' + `## Watched` + `\n\n` + watchedMovies.join('\n\n'));
 }
