@@ -5,26 +5,6 @@ This is the list of movies!
 
 ## Unwatched
 
-### #2: Coco (2017)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 45m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** 97%
-- **IMDB:** 72
-- **NYT:** N/A
-
-
-### #3: Inside Out (2015)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 35m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** 98%
-- **IMDB:** 169
-- **NYT:** N/A
-
-
 ### #4: Klaus (2019)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 36m
@@ -2494,6 +2474,26 @@ This is the list of movies!
 - **Animated:** true
 - **RT:** 97%
 - **IMDB:** 63
+- **NYT:** N/A
+
+
+### #2: Coco (2017)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 45m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 97%
+- **IMDB:** 72
+- **NYT:** N/A
+
+
+### #3: Inside Out (2015)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 35m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 98%
+- **IMDB:** 169
 - **NYT:** N/A
 
 
