@@ -15,26 +15,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #5: The Wild Robot (2024)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 42m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** 96%
-- **IMDB:** 175
-- **NYT:** N/A
-
-
-### #6: How to Train Your Dragon (2010)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 38m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** 99%
-- **IMDB:** 198
-- **NYT:** N/A
-
-
 ### #7: Up (2009)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 36m
@@ -2494,6 +2474,26 @@ This is the list of movies!
 - **Animated:** true
 - **RT:** 98%
 - **IMDB:** 169
+- **NYT:** N/A
+
+
+### #5: The Wild Robot (2024)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 42m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 96%
+- **IMDB:** 175
+- **NYT:** N/A
+
+
+### #6: How to Train Your Dragon (2010)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 38m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 99%
+- **IMDB:** 198
 - **NYT:** N/A
 
 
