@@ -15,16 +15,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #7: Up (2009)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 36m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** 98%
-- **IMDB:** 107
-- **NYT:** 50
-
-
 ### #9: Spirited Away (2001)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 4m
@@ -2495,6 +2485,16 @@ This is the list of movies!
 - **RT:** 99%
 - **IMDB:** 198
 - **NYT:** N/A
+
+
+### #7: Up (2009)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 36m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 98%
+- **IMDB:** 107
+- **NYT:** 50
 
 
 ### #8: Spider-Man: Across the Spider-Verse (2023)
