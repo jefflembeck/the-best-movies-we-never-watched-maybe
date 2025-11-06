@@ -15,26 +15,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #9: Spirited Away (2001)
-- **MPAA Rating:** PG
-- **Runtime:** 2h 4m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** 96%
-- **IMDB:** 31
-- **NYT:** 9
-
-
-### #10: Howl's Moving Castle (2004)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 59m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** 88%
-- **IMDB:** 157
-- **NYT:** N/A
-
-
 ### #11: The Iron Giant (1999)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 26m
@@ -2504,4 +2484,24 @@ This is the list of movies!
 - **Animated:** true
 - **RT:** 95%
 - **IMDB:** 44
+- **NYT:** N/A
+
+
+### #9: Spirited Away (2001)
+- **MPAA Rating:** PG
+- **Runtime:** 2h 4m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 96%
+- **IMDB:** 31
+- **NYT:** 9
+
+
+### #10: Howl's Moving Castle (2004)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 59m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 88%
+- **IMDB:** 157
 - **NYT:** N/A
