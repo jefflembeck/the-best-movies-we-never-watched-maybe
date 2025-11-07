@@ -35,16 +35,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #13: The Truman Show (1998)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 43m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 133
-- **NYT:** N/A
-
-
 ### #14: Groundhog Day (1993)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 41m
@@ -2504,4 +2494,14 @@ This is the list of movies!
 - **Animated:** true
 - **RT:** 88%
 - **IMDB:** 157
+- **NYT:** N/A
+
+
+### #13: The Truman Show (1998)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 43m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 133
 - **NYT:** N/A
