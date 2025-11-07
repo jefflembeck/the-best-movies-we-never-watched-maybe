@@ -65,16 +65,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #17: Raiders of the Lost Ark (1981)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 55m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 59
-- **NYT:** N/A
-
-
 ### #18: Star Wars: Episode V - The Empire Strikes Back (1980)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 4m
@@ -592,16 +582,6 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 100%
 - **IMDB:** 223
-- **NYT:** N/A
-
-
-### #70: Indiana Jones and the Last Crusade (1989)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 7m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 84%
-- **IMDB:** 119
 - **NYT:** N/A
 
 
@@ -2504,4 +2484,24 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 94%
 - **IMDB:** 133
+- **NYT:** N/A
+
+
+### #17: Raiders of the Lost Ark (1981)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 55m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 59
+- **NYT:** N/A
+
+
+### #70: Indiana Jones and the Last Crusade (1989)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 7m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 84%
+- **IMDB:** 119
 - **NYT:** N/A
