@@ -55,16 +55,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #16: Back to the Future (1985)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 56m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 93%
-- **IMDB:** 30
-- **NYT:** N/A
-
-
 ### #18: Star Wars: Episode V - The Empire Strikes Back (1980)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 4m
@@ -92,16 +82,6 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 85%
 - **IMDB:** 185
-- **NYT:** N/A
-
-
-### #21: Monty Python and the Holy Grail (1975)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 31m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 92%
-- **IMDB:** 159
 - **NYT:** N/A
 
 
@@ -165,16 +145,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #28: Star Wars: Episode IV - A New Hope (1977)
-- **MPAA Rating:** PG
-- **Runtime:** 2h 1m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 29
-- **NYT:** N/A
-
-
 ### #29: The Sting (1973)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 9m
@@ -195,16 +165,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #31: Avengers: Infinity War (2018)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 29m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 85%
-- **IMDB:** 61
-- **NYT:** N/A
-
-
 ### #32: Top Gun: Maverick (2022)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 10m
@@ -212,26 +172,6 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 96%
 - **IMDB:** 146
-- **NYT:** N/A
-
-
-### #33: Harry Potter and the Deathly Hallows: Part 2 (2011)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 10m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 96%
-- **IMDB:** 178
-- **NYT:** N/A
-
-
-### #34: Spider-Man: No Way Home (2021)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 28m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 93%
-- **IMDB:** 186
 - **NYT:** N/A
 
 
@@ -455,16 +395,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #57: The Lord of the Rings: The Fellowship of the Ring (2001)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 58m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 92%
-- **IMDB:** 9
-- **NYT:** 87
-
-
 ### #58: Dr. Strangelove or: How I learned to Stop Worrying and Love the Bomb (1964)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 35m
@@ -475,16 +405,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #59: Avengers: Endgame (2019)
-- **MPAA Rating:** PG-13
-- **Runtime:** 3h 1m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 75
-- **NYT:** N/A
-
-
 ### #60: Barry Lyndon (1975)
 - **MPAA Rating:** PG
 - **Runtime:** 3h 5m
@@ -492,16 +412,6 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 78%
 - **IMDB:** 184
-- **NYT:** N/A
-
-
-### #61: The Lord of the Rings: The Two Towers (2002)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 59m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 95%
-- **IMDB:** 12
 - **NYT:** N/A
 
 
@@ -552,16 +462,6 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 93%
 - **IMDB:** 102
-- **NYT:** N/A
-
-
-### #67: The Lord of the Rings: The Return of the King (2003)
-- **MPAA Rating:** PG-13
-- **Runtime:** 3h 21m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 6
 - **NYT:** N/A
 
 
@@ -1282,16 +1182,6 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 85%
 - **IMDB:** 151
-- **NYT:** N/A
-
-
-### #141: Snatch (2000)
-- **MPAA Rating:** R
-- **Runtime:** 1h 42m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 74%
-- **IMDB:** 122
 - **NYT:** N/A
 
 
@@ -2487,6 +2377,16 @@ This is the list of movies!
 - **NYT:** N/A
 
 
+### #16: Back to the Future (1985)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 56m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 93%
+- **IMDB:** 30
+- **NYT:** N/A
+
+
 ### #17: Raiders of the Lost Ark (1981)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 55m
@@ -2497,6 +2397,96 @@ This is the list of movies!
 - **NYT:** N/A
 
 
+### #21: Monty Python and the Holy Grail (1975)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 31m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 92%
+- **IMDB:** 159
+- **NYT:** N/A
+
+
+### #28: Star Wars: Episode IV - A New Hope (1977)
+- **MPAA Rating:** PG
+- **Runtime:** 2h 1m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 29
+- **NYT:** N/A
+
+
+### #31: Avengers: Infinity War (2018)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 29m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 85%
+- **IMDB:** 61
+- **NYT:** N/A
+
+
+### #33: Harry Potter and the Deathly Hallows: Part 2 (2011)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 10m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 96%
+- **IMDB:** 178
+- **NYT:** N/A
+
+
+### #34: Spider-Man: No Way Home (2021)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 28m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 93%
+- **IMDB:** 186
+- **NYT:** N/A
+
+
+### #57: The Lord of the Rings: The Fellowship of the Ring (2001)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 58m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 92%
+- **IMDB:** 9
+- **NYT:** 87
+
+
+### #59: Avengers: Endgame (2019)
+- **MPAA Rating:** PG-13
+- **Runtime:** 3h 1m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 75
+- **NYT:** N/A
+
+
+### #61: The Lord of the Rings: The Two Towers (2002)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 59m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 95%
+- **IMDB:** 12
+- **NYT:** N/A
+
+
+### #67: The Lord of the Rings: The Return of the King (2003)
+- **MPAA Rating:** PG-13
+- **Runtime:** 3h 21m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 6
+- **NYT:** N/A
+
+
 ### #70: Indiana Jones and the Last Crusade (1989)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 7m
@@ -2504,4 +2494,14 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 84%
 - **IMDB:** 119
+- **NYT:** N/A
+
+
+### #141: Snatch (2000)
+- **MPAA Rating:** R
+- **Runtime:** 1h 42m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 74%
+- **IMDB:** 122
 - **NYT:** N/A
