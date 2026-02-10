@@ -35,16 +35,6 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #14: Groundhog Day (1993)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 41m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 246
-- **NYT:** N/A
-
-
 ### #15: Like Stars on Earth (2007)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 42m
@@ -52,26 +42,6 @@ This is the list of movies!
 - **Animated:** false
 - **RT:** 93%
 - **IMDB:** 114
-- **NYT:** N/A
-
-
-### #18: Star Wars: Episode V - The Empire Strikes Back (1980)
-- **MPAA Rating:** PG
-- **Runtime:** 2h 4m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 93%
-- **IMDB:** 15
-- **NYT:** N/A
-
-
-### #19: Star Wars: Episode VI - Return of the Jedi (1983)
-- **MPAA Rating:** PG
-- **Runtime:** 2h 11m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 83%
-- **IMDB:** 92
 - **NYT:** N/A
 
 
@@ -113,16 +83,6 @@ This is the list of movies!
 - **RT:** 99%
 - **IMDB:** 113
 - **NYT:** 33
-
-
-### #25: Inception (2010)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 28m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 87%
-- **IMDB:** 14
-- **NYT:** 55
 
 
 ### #26: Cinema Paradiso (1988)
@@ -2377,6 +2337,16 @@ This is the list of movies!
 - **NYT:** N/A
 
 
+### #14: Groundhog Day (1993)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 41m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 246
+- **NYT:** N/A
+
+
 ### #16: Back to the Future (1985)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 56m
@@ -2397,6 +2367,26 @@ This is the list of movies!
 - **NYT:** N/A
 
 
+### #18: Star Wars: Episode V - The Empire Strikes Back (1980)
+- **MPAA Rating:** PG
+- **Runtime:** 2h 4m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 93%
+- **IMDB:** 15
+- **NYT:** N/A
+
+
+### #19: Star Wars: Episode VI - Return of the Jedi (1983)
+- **MPAA Rating:** PG
+- **Runtime:** 2h 11m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 83%
+- **IMDB:** 92
+- **NYT:** N/A
+
+
 ### #21: Monty Python and the Holy Grail (1975)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 31m
@@ -2405,6 +2395,16 @@ This is the list of movies!
 - **RT:** 92%
 - **IMDB:** 159
 - **NYT:** N/A
+
+
+### #25: Inception (2010)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 28m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 87%
+- **IMDB:** 14
+- **NYT:** 55
 
 
 ### #28: Star Wars: Episode IV - A New Hope (1977)
