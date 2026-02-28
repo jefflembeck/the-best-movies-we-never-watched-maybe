@@ -29,6 +29,8 @@ jobs:
 
       - name: Run IMDb rankings update
         run: node scripts/update-imdb-rankings.js
+        env:
+          OMDBAPIKEY: ${{ secrets.OMDB_API_KEY }}
 
       - name: Check for changes
         id: changes
@@ -55,7 +57,7 @@ jobs:
 
           if [ "$NEW_COUNT" -gt 0 ]; then
             BODY="${BODY}\n\n### New movies entering the Top 250\n"
-            BODY="${BODY}\nThese need manual review for \`rating\`, \`blackAndWhite\`, and \`animated\` fields:\n"
+            BODY="${BODY}\nMPAA ratings are fetched automatically from OMDb. Review \`blackAndWhite\` and \`animated\` fields:\n"
             NEW_MOVIES=$(echo "$SUMMARY" | jq -r '.newMovies[]')
             while IFS= read -r line; do
               BODY="${BODY}\n- ${line}"
