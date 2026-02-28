@@ -2589,7 +2589,7 @@ This is the list of movies!
 - **MPAA Rating:** PG
 - **Runtime:** 1h 48m
 - **Black and White:** false
-- **Animated:** false
+- **Animated:** true
 - **RT:** N/A
 - **IMDB:** 225
 - **NYT:** N/A
@@ -2629,7 +2629,7 @@ This is the list of movies!
 - **MPAA Rating:** G
 - **Runtime:** 1h 24m
 - **Black and White:** false
-- **Animated:** false
+- **Animated:** true
 - **RT:** N/A
 - **IMDB:** 235
 - **NYT:** N/A
@@ -2639,7 +2639,7 @@ This is the list of movies!
 - **MPAA Rating:** G
 - **Runtime:** 1h 30m
 - **Black and White:** false
-- **Animated:** false
+- **Animated:** true
 - **RT:** N/A
 - **IMDB:** 236
 - **NYT:** N/A
@@ -2659,7 +2659,7 @@ This is the list of movies!
 - **MPAA Rating:** PG
 - **Runtime:** 1h 40m
 - **Black and White:** false
-- **Animated:** false
+- **Animated:** true
 - **RT:** N/A
 - **IMDB:** 241
 - **NYT:** N/A
