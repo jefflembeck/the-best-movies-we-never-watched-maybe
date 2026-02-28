@@ -37,13 +37,15 @@ const moviesFile = readFileSync(path.join(__dirname, "data", "movies.json"), {
 });
 const movies: Movie[] = JSON.parse(moviesFile);
 
-const rankedMovies: RankedMovie[] = movies.map((m: Movie) => {
-  return { ...m, totalScore: scoreMovie(m) };
-}).sort((a: ScoredMovie, b) => {
-  return a.totalScore - b.totalScore;
-}).map((m: ScoredMovie, index) => {
-  return {...m, overallRank: index + 1 };
-});
+const rankedMovies: RankedMovie[] = movies
+  .filter((m: Movie) => Boolean(m.imdbRank))
+  .map((m: Movie) => {
+    return { ...m, totalScore: scoreMovie(m) };
+  }).sort((a: ScoredMovie, b) => {
+    return a.totalScore - b.totalScore;
+  }).map((m: ScoredMovie, index) => {
+    return {...m, overallRank: index + 1 };
+  });
 
 const [watched, unwatched] = partition(rankedMovies, (m) => !!m.watched);
 

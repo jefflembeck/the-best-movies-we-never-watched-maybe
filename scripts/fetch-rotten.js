@@ -61,6 +61,16 @@ async function fetchOMDbData() {
         ratingUpdates++;
         console.log(`  MPAA: "${title}" -> ${data.Rated} (was ${oldRating})`);
       }
+
+      if (!movie.genre && data.Genre && typeof data.Genre === "string") {
+        const genres = data.Genre.split(",").map(g => g.trim());
+        movie.genre = genres;
+      }
+
+      if (!movie.animated) {
+        const isAnimated = movie.genre.map(g => g.toLowerCase()).includes("animation");
+        movie.animated = isAnimated;
+      }
     } catch (err) {
       console.error(`  Error fetching data for "${title}" (${year}):`, err.message);
     }

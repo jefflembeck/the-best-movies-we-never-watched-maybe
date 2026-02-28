@@ -9,4 +9,5 @@ export type Movie = {
   rottenTomatoes?: string;
   nytRank?: string;
   watched?: boolean;
+  genre?: string[];
 }
