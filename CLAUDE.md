@@ -32,16 +32,20 @@ src/
 ├── data/
 │   └── movies.json        # Movie database (~250 movies)
 scripts/
-├── add-nyt-ranking.js     # Merges NYT rankings into movie data
-└── fetch-rotten.js        # Fetches RT ratings via OMDb API (requires OMDBAPIKEY in .env)
-build/                     # Compiled JS output (generated)
-reveal.js/                 # Presentation output directory
-MOVIES.md                  # Generated ranked movie list
+├── update-imdb-rankings.js  # Monthly IMDb Top 250 update (downloads IMDb datasets)
+├── add-nyt-ranking.js       # Merges NYT rankings into movie data
+└── fetch-rotten.js          # Fetches RT ratings via OMDb API (requires OMDBAPIKEY in .env)
+.github/workflows/
+└── update-imdb-rankings.yml # Monthly cron — runs update script and opens a PR
+build/                       # Compiled JS output (generated)
+reveal.js/                   # Presentation output directory
+MOVIES.md                    # Generated ranked movie list
 ```
 
 ## Commands
 
 - `npm run create-list` — Run the main scoring pipeline via `ts-node src/index.ts`. Generates the reveal.js presentation and `MOVIES.md`.
+- `npm run update-imdb` — Download IMDb datasets and update rankings in `movies.json`. Adds new Top 250 entries and updates existing ranks.
 - `npm run build` — Compile TypeScript to JavaScript in `build/`.
 - `npm test` — Not yet implemented (placeholder only).
 
@@ -83,15 +87,31 @@ Each movie attribute is scored by its ranker, multiplied by its weight, and all 
 - **Types:** Defined in `src/types/`
 - **No linter or formatter configured** — follow existing code style
 
+## Automated IMDb Updates
+
+A GitHub Actions workflow (`.github/workflows/update-imdb-rankings.yml`) runs monthly on the 1st and can be triggered manually via `workflow_dispatch`.
+
+**How it works:**
+1. Downloads free IMDb bulk datasets (`title.ratings.tsv.gz` and `title.basics.tsv.gz`)
+2. Computes the Top 250 using IMDb's Bayesian weighted rating formula
+3. Matches existing movies by `imdbId` (falls back to title+year if no ID yet)
+4. Updates ranks, adds new entries, flags dropped movies
+5. If `movies.json` changed, opens a PR on the `automated/imdb-rankings-update` branch
+
+**New movies** entering the Top 250 are added with default values (`rating: "Not Rated"`, `blackAndWhite: false`, `animated: false`, etc.) and should be reviewed manually in the PR before merging.
+
+**The `imdbId` field** is a stable IMDb identifier (e.g., `tt0111161`) used for matching across updates. It is populated automatically on the first run via title+year matching. Movies that can't be matched are logged in the PR for manual resolution.
+
 ## Environment Variables
 
 - `OMDBAPIKEY` — Required only for `scripts/fetch-rotten.js` (OMDb API key). Loaded via `dotenv` from `.env`.
 
 ## Important Notes
 
-- `.env`, `.npmrc`, and `node_modules` are gitignored — never commit these
+- `.env`, `.npmrc`, `node_modules`, and `update-summary.json` are gitignored — never commit these
 - The `movies.json` file is the single source of truth for movie data
 - When movies are watched, they are marked with `"watched": true` in `movies.json`
+- Each movie may have an `imdbId` field (e.g., `tt0111161`) for stable identification across IMDb updates
 - There is no test suite — the test script is a placeholder
 - Commit messages in this repo are casual and track which movies have been watched
 - The `build/` directory contains compiled output and should not be edited directly

@@ -8,6 +8,7 @@
   "main": "build/index.js",
   "scripts": {
     "create-list": "ts-node src/index.ts",
+    "update-imdb": "node scripts/update-imdb-rankings.js",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

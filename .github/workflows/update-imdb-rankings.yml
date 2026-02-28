@@ -1,0 +1,93 @@
+name: Update IMDb Rankings
+
+on:
+  schedule:
+    # 1st of every month at 9:00 AM UTC
+    - cron: "0 9 1 * *"
+  workflow_dispatch: # allow manual triggers
+
+jobs:
+  update-rankings:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run IMDb rankings update
+        run: node scripts/update-imdb-rankings.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet src/data/movies.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build PR description
+        if: steps.changes.outputs.changed == 'true'
+        id: pr_body
+        run: |
+          SUMMARY=$(cat update-summary.json)
+          DATE=$(echo "$SUMMARY" | jq -r '.date')
+          RANK_CHANGES=$(echo "$SUMMARY" | jq -r '.rankChanges')
+          NEW_COUNT=$(echo "$SUMMARY" | jq -r '.newMovies | length')
+          DROPPED_COUNT=$(echo "$SUMMARY" | jq -r '.droppedMovies | length')
+          UNMATCHED_COUNT=$(echo "$SUMMARY" | jq -r '.unmatchedExisting | length')
+
+          BODY="## IMDb Rankings Update — ${DATE}"
+          BODY="${BODY}\n\n**${RANK_CHANGES}** rank changes"
+
+          if [ "$NEW_COUNT" -gt 0 ]; then
+            BODY="${BODY}\n\n### New movies entering the Top 250\n"
+            BODY="${BODY}\nThese need manual review for \`rating\`, \`blackAndWhite\`, and \`animated\` fields:\n"
+            NEW_MOVIES=$(echo "$SUMMARY" | jq -r '.newMovies[]')
+            while IFS= read -r line; do
+              BODY="${BODY}\n- ${line}"
+            done <<< "$NEW_MOVIES"
+          fi
+
+          if [ "$DROPPED_COUNT" -gt 0 ]; then
+            BODY="${BODY}\n\n### Movies dropped from Top 250\n"
+            DROPPED=$(echo "$SUMMARY" | jq -r '.droppedMovies[]')
+            while IFS= read -r line; do
+              BODY="${BODY}\n- ${line}"
+            done <<< "$DROPPED"
+          fi
+
+          if [ "$UNMATCHED_COUNT" -gt 0 ]; then
+            BODY="${BODY}\n\n### Unmatched movies (may need manual imdbId)\n"
+            UNMATCHED=$(echo "$SUMMARY" | jq -r '.unmatchedExisting[]')
+            while IFS= read -r line; do
+              BODY="${BODY}\n- ${line}"
+            done <<< "$UNMATCHED"
+          fi
+
+          # Write to a temp file for the PR step (avoids quoting issues)
+          echo -e "$BODY" > /tmp/pr-body.md
+
+      - name: Create Pull Request
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automated/imdb-rankings-update
+          commit-message: "chore(data): update IMDb rankings"
+          title: "chore(data): monthly IMDb rankings update"
+          body-path: /tmp/pr-body.md
+          labels: data-update
+          delete-branch: true
