@@ -145,12 +145,12 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #23: The Incredibles (2004)
+### #24: The Incredibles (2004)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 55m
 - **Black and White:** false
 - **Animated:** true
-- **RT:** N/A
+- **RT:** 97%
 - **IMDB:** 207
 - **NYT:** N/A
 
@@ -2507,17 +2507,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #22: Howl's Moving Castle (2004)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 59m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** 88%
-- **IMDB:** 128
-- **NYT:** N/A
-
-
-### #24: Spirited Away (2001)
+### #22: Spirited Away (2001)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 4m
 - **Black and White:** false
@@ -2525,6 +2515,16 @@ This is the list of movies!
 - **RT:** 96%
 - **IMDB:** 26
 - **NYT:** 9
+
+
+### #23: Howl's Moving Castle (2004)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 59m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 88%
+- **IMDB:** 128
+- **NYT:** N/A
 
 
 ### #29: The Truman Show (1998)
