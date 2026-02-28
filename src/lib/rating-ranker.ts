@@ -8,7 +8,7 @@ export class RatingRanker implements IRanker {
       return DEFAULT;
     }
     const score = ratingScoreBases[val]
-    return score || DEFAULT;
+    return score ?? DEFAULT;
   }
 }
 
