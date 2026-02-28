@@ -3439,7 +3439,7 @@
     "length": "1h 48m",
     "rating": "PG",
     "blackAndWhite": false,
-    "animated": false,
+    "animated": true,
     "rottenTomatoes": "N/A",
     "nytRank": "N/A",
     "watched": false
@@ -3491,7 +3491,7 @@
     "length": "1h 24m",
     "rating": "G",
     "blackAndWhite": false,
-    "animated": false,
+    "animated": true,
     "rottenTomatoes": "N/A",
     "nytRank": "N/A",
     "watched": false
@@ -3504,7 +3504,7 @@
     "length": "1h 30m",
     "rating": "G",
     "blackAndWhite": false,
-    "animated": false,
+    "animated": true,
     "rottenTomatoes": "N/A",
     "nytRank": "N/A",
     "watched": false
@@ -3530,7 +3530,7 @@
     "length": "1h 40m",
     "rating": "PG",
     "blackAndWhite": false,
-    "animated": false,
+    "animated": true,
     "rottenTomatoes": "N/A",
     "nytRank": "N/A",
     "watched": false
