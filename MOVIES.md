@@ -1685,327 +1685,137 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #196: Unforgiven (1992)
-- **MPAA Rating:** R
-- **Runtime:** 2h 10m
+### #196: Senna (2010)
+- **MPAA Rating:** PG-13
+- **Runtime:** 1h 46m
 - **Black and White:** false
 - **Animated:** false
-- **RT:** 96%
-- **IMDB:** 132
-- **NYT:** N/A
-
-
-### #197: In the Name of the Father (1993)
-- **MPAA Rating:** R
-- **Runtime:** 2h 13m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 197
-- **NYT:** N/A
-
-
-### #198: The Terminator (1984)
-- **MPAA Rating:** R
-- **Runtime:** 1h 47m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 100%
-- **IMDB:** 145
-- **NYT:** N/A
-
-
-### #199: Full Metal Jacket (1987)
-- **MPAA Rating:** R
-- **Runtime:** 1h 56m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 90%
-- **IMDB:** 115
-- **NYT:** N/A
-
-
-### #200: The Thing (1982)
-- **MPAA Rating:** R
-- **Runtime:** 1h 49m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 85%
-- **IMDB:** 127
-- **NYT:** N/A
-
-
-### #201: Blade Runner (1982)
-- **MPAA Rating:** R
-- **Runtime:** 1h 57m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 89%
-- **IMDB:** 153
-- **NYT:** N/A
-
-
-### #202: Platoon (1986)
-- **MPAA Rating:** R
-- **Runtime:** 2h
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 89%
-- **IMDB:** 184
-- **NYT:** N/A
-
-
-### #203: The Grapes of Wrath (1940)
-- **MPAA Rating:** Approved
-- **Runtime:** 2h 9m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 100%
-- **IMDB:** 244
-- **NYT:** N/A
-
-
-### #204: The Treasure of the Sierra Madre (1948)
-- **MPAA Rating:** Approved
-- **Runtime:** 2h 6m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 100%
+- **RT:** 93%
 - **IMDB:** undefined
 - **NYT:** N/A
 
 
-### #205: The Gold Rush (1925)
-- **MPAA Rating:** Approved
-- **Runtime:** 1h 35m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 98%
-- **IMDB:** 200
-- **NYT:** N/A
-
-
-### #206: Pulp Fiction (1994)
-- **MPAA Rating:** R
-- **Runtime:** 2h 34m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 92%
-- **IMDB:** 12
-- **NYT:** N/A
-
-
-### #207: Saving Private Ryan (1998)
-- **MPAA Rating:** R
-- **Runtime:** 2h 49m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 21
-- **NYT:** N/A
-
-
-### #208: Wild Strawberries (1957)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 1h 32m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 210
-- **NYT:** N/A
-
-
-### #209: The Seventh Seal (1957)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 1h 36m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 93%
-- **IMDB:** 220
-- **NYT:** N/A
-
-
-### #210: Heat (1995)
-- **MPAA Rating:** R
-- **Runtime:** 2h 50m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 84%
-- **IMDB:** 86
-- **NYT:** N/A
-
-
-### #211: Braveheart (1995)
-- **MPAA Rating:** R
-- **Runtime:** 2h 58m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 76%
-- **IMDB:** 79
-- **NYT:** N/A
-
-
-### #212: Casino (1995)
-- **MPAA Rating:** R
-- **Runtime:** 2h 58m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 79%
-- **IMDB:** 124
-- **NYT:** N/A
-
-
-### #213: Aliens (1986)
-- **MPAA Rating:** R
-- **Runtime:** 2h 17m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 59
-- **NYT:** N/A
-
-
-### #214: Bicycle Thieves (1948)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 1h 29m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 99%
-- **IMDB:** 224
-- **NYT:** N/A
-
-
-### #215: The Shining (1980)
-- **MPAA Rating:** R
-- **Runtime:** 2h 26m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 83%
-- **IMDB:** 56
-- **NYT:** N/A
-
-
-### #216: Die Hard (1988)
-- **MPAA Rating:** R
-- **Runtime:** 2h 12m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 94%
-- **IMDB:** 106
-- **NYT:** N/A
-
-
-### #217: Alien (1979)
-- **MPAA Rating:** R
-- **Runtime:** 1h 57m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 93%
-- **IMDB:** 41
-- **NYT:** N/A
-
-
-### #218: Taxi Driver (1976)
-- **MPAA Rating:** R
-- **Runtime:** 1h 54m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 89%
-- **IMDB:** 107
-- **NYT:** N/A
-
-
-### #219: The Best Years of Our Lives (1946)
-- **MPAA Rating:** Approved
-- **Runtime:** 2h 50m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 98%
-- **IMDB:** 226
-- **NYT:** N/A
-
-
-### #220: Mr. Smith Goes to Washington (1939)
-- **MPAA Rating:** Approved
-- **Runtime:** 2h 9m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 85%
-- **IMDB:** 208
-- **NYT:** N/A
-
-
-### #221: The Green Mile (1999)
-- **MPAA Rating:** R
-- **Runtime:** 3h 9m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 79%
-- **IMDB:** 23
-- **NYT:** N/A
-
-
-### #222: Ikiru (1952)
-- **MPAA Rating:** Not Rated
+### #197: The Avengers (2012)
+- **MPAA Rating:** PG-13
 - **Runtime:** 2h 23m
-- **Black and White:** true
+- **Black and White:** false
 - **Animated:** false
-- **RT:** 98%
+- **RT:** 91%
+- **IMDB:** 187
+- **NYT:** N/A
+
+
+### #198: Guardians of the Galaxy (2014)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 1m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 91%
+- **IMDB:** 193
+- **NYT:** N/A
+
+
+### #199: Dil Bechara (2020)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 1h 41m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 88%
+- **IMDB:** 231
+- **NYT:** N/A
+
+
+### #200: Titanic (1997)
+- **MPAA Rating:** PG-13
+- **Runtime:** 3h 14m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 88%
+- **IMDB:** 192
+- **NYT:** N/A
+
+
+### #201: 777 Charlie (2022)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 44m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 100%
 - **IMDB:** undefined
 - **NYT:** N/A
 
 
-### #223: Scarface (1983)
-- **MPAA Rating:** R
+### #202: The Kashmir Files (2022)
+- **MPAA Rating:** Not Rated
 - **Runtime:** 2h 50m
 - **Black and White:** false
 - **Animated:** false
-- **RT:** 79%
-- **IMDB:** 81
+- **RT:** 40%
+- **IMDB:** 47
 - **NYT:** N/A
 
 
-### #224: One Flew Over the Cuckoo's Nest (1975)
-- **MPAA Rating:** R
-- **Runtime:** 2h 13m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 93%
-- **IMDB:** 25
-- **NYT:** N/A
-
-
-### #225: Apocalypse Now (1979)
-- **MPAA Rating:** R
-- **Runtime:** 2h 27m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 90%
-- **IMDB:** 63
-- **NYT:** N/A
-
-
-### #226: Ran (1985)
-- **MPAA Rating:** R
-- **Runtime:** 2h 40m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 96%
-- **IMDB:** undefined
-- **NYT:** N/A
-
-
-### #227: A Clockwork Orange (1971)
-- **MPAA Rating:** R
-- **Runtime:** 2h 16m
+### #203: Sita Ramam (2022)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 43m
 - **Black and White:** false
 - **Animated:** false
 - **RT:** 86%
-- **IMDB:** 110
+- **IMDB:** 247
 - **NYT:** N/A
 
 
-### #228: Chinatown (1974)
+### #204: Rocketry: The Nambi Effect (2022)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 37m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 64%
+- **IMDB:** undefined
+- **NYT:** N/A
+
+
+### #205: K.G.F: Chapter 2 (2022)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 46m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 50%
+- **IMDB:** 240
+- **NYT:** N/A
+
+
+### #206: Shershaah (2021)
+- **MPAA Rating:** TV-14
+- **Runtime:** 2h 15m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 50%
+- **IMDB:** 232
+- **NYT:** N/A
+
+
+### #207: Kill Bill: Vol. 1 (2003)
+- **MPAA Rating:** R
+- **Runtime:** 1h 51m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 85%
+- **IMDB:** 96
+- **NYT:** N/A
+
+
+### #208: L.A. Confidential (1997)
+- **MPAA Rating:** R
+- **Runtime:** 2h 18m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 99%
+- **IMDB:** 123
+- **NYT:** N/A
+
+
+### #209: Chinatown (1974)
 - **MPAA Rating:** R
 - **Runtime:** 2h 10m
 - **Black and White:** false
@@ -2015,7 +1825,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #229: The Exorcist (1973)
+### #210: The Exorcist (1973)
 - **MPAA Rating:** R
 - **Runtime:** 2h 2m
 - **Black and White:** false
@@ -2025,7 +1835,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #230: Network (1976)
+### #211: Network (1976)
 - **MPAA Rating:** R
 - **Runtime:** 2h 1m
 - **Black and White:** false
@@ -2035,7 +1845,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #231: Sherlock Jr. (1924)
+### #212: Sherlock Jr. (1924)
 - **MPAA Rating:** Passed
 - **Runtime:** 45m
 - **Black and White:** false
@@ -2045,7 +1855,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #232: The Wages of Fear (1953)
+### #213: The Wages of Fear (1953)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 36m
 - **Black and White:** true
@@ -2055,7 +1865,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #233: The Godfather (1972)
+### #214: The Godfather (1972)
 - **MPAA Rating:** R
 - **Runtime:** 2h 55m
 - **Black and White:** false
@@ -2065,7 +1875,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #234: Once Upon a Time in America (1984)
+### #215: Once Upon a Time in America (1984)
 - **MPAA Rating:** R
 - **Runtime:** 3h 49m
 - **Black and White:** false
@@ -2075,7 +1885,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #235: Raging Bull (1980)
+### #216: Raging Bull (1980)
 - **MPAA Rating:** R
 - **Runtime:** 2h 9m
 - **Black and White:** true
@@ -2085,7 +1895,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #236: Seven Samurai (1954)
+### #217: Seven Samurai (1954)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 3h 27m
 - **Black and White:** true
@@ -2095,7 +1905,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #237: For a Few Dollars More (1965)
+### #218: For a Few Dollars More (1965)
 - **MPAA Rating:** R
 - **Runtime:** 2h 12m
 - **Black and White:** false
@@ -2105,7 +1915,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #238: Schindler's List (1993)
+### #219: Schindler's List (1993)
 - **MPAA Rating:** R
 - **Runtime:** 3h 15m
 - **Black and White:** true
@@ -2115,7 +1925,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #239: The Passion of Joan of Arc (1928)
+### #220: The Passion of Joan of Arc (1928)
 - **MPAA Rating:** Passed
 - **Runtime:** 1h 54m
 - **Black and White:** false
@@ -2125,7 +1935,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #240: The Godfather Part II (1974)
+### #221: The Godfather Part II (1974)
 - **MPAA Rating:** R
 - **Runtime:** 3h 22m
 - **Black and White:** false
@@ -2135,7 +1945,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #241: The Good, the Bad and the Ugly (1966)
+### #222: The Good, the Bad and the Ugly (1966)
 - **MPAA Rating:** R
 - **Runtime:** 2h 58m
 - **Black and White:** false
@@ -2145,7 +1955,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #242: Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train (2020)
+### #223: Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train (2020)
 - **MPAA Rating:** TV-MA
 - **Runtime:** 1h 57m
 - **Black and White:** false
@@ -2155,7 +1965,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #243: Psycho (1960)
+### #224: Psycho (1960)
 - **MPAA Rating:** R
 - **Runtime:** 1h 49m
 - **Black and White:** true
@@ -2165,7 +1975,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #244: The Deer Hunter (1978)
+### #225: The Deer Hunter (1978)
 - **MPAA Rating:** R
 - **Runtime:** 3h 3m
 - **Black and White:** false
@@ -2175,7 +1985,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #245: The General (1926)
+### #226: The General (1926)
 - **MPAA Rating:** Passed
 - **Runtime:** 1h 18m
 - **Black and White:** true
@@ -2185,7 +1995,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #246: The Kid (1921)
+### #227: The Kid (1921)
 - **MPAA Rating:** Passed
 - **Runtime:** 1h 8m
 - **Black and White:** true
@@ -2195,17 +2005,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #247: The Great Dictator (1940)
-- **MPAA Rating:** G
-- **Runtime:** 2h 5m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 92%
-- **IMDB:** 101
-- **NYT:** N/A
-
-
-### #248: M (1931)
+### #228: M (1931)
 - **MPAA Rating:** Passed
 - **Runtime:** 1h 39m
 - **Black and White:** true
@@ -2215,7 +2015,17 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #249: Metropolis (1927)
+### #229: Soorarai Pottru (2020)
+- **MPAA Rating:** TV-MA
+- **Runtime:** 2h 33m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 67%
+- **IMDB:** 121
+- **NYT:** N/A
+
+
+### #230: Metropolis (1927)
 - **MPAA Rating:** Passed
 - **Runtime:** 2h 33m
 - **Black and White:** true
@@ -2225,7 +2035,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #250: Requiem for a Dream (2000)
+### #231: Requiem for a Dream (2000)
 - **MPAA Rating:** NC-17
 - **Runtime:** 1h 42m
 - **Black and White:** false
@@ -2235,17 +2045,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #251: The Kashmir Files (2022)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 50m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 47
-- **NYT:** N/A
-
-
-### #252: The Chaos Class (1975)
+### #232: The Chaos Class (1975)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 1h 25m
 - **Black and White:** false
@@ -2255,77 +2055,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #253: Soorarai Pottru (2020)
-- **MPAA Rating:** TV-MA
-- **Runtime:** 2h 33m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 121
-- **NYT:** N/A
-
-
-### #254: Kill Bill: Vol. 1 (2003)
-- **MPAA Rating:** R
-- **Runtime:** 1h 51m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 96
-- **NYT:** N/A
-
-
-### #255: L.A. Confidential (1997)
-- **MPAA Rating:** R
-- **Runtime:** 2h 18m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 123
-- **NYT:** N/A
-
-
-### #256: Sita Ramam (2022)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 43m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 247
-- **NYT:** N/A
-
-
-### #257: Dil Bechara (2020)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 1h 41m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 231
-- **NYT:** N/A
-
-
-### #258: Rocketry: The Nambi Effect (2022)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 37m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** undefined
-- **NYT:** N/A
-
-
-### #259: Shershaah (2021)
-- **MPAA Rating:** TV-14
-- **Runtime:** 2h 15m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 232
-- **NYT:** N/A
-
-
-### #260: Dhurandhar (2025)
+### #233: Dhurandhar (2025)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 3h 34m
 - **Black and White:** false
@@ -2335,373 +2065,643 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #261: Senna (2010)
-- **MPAA Rating:** PG-13
-- **Runtime:** 1h 46m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** undefined
-- **NYT:** N/A
-
-
-### #262: K.G.F: Chapter 2 (2022)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 46m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 240
-- **NYT:** N/A
-
-
-### #263: 777 Charlie (2022)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 44m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** undefined
-- **NYT:** N/A
-
-
-### #264: The Avengers (2012)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 23m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 187
-- **NYT:** N/A
-
-
-### #265: Titanic (1997)
-- **MPAA Rating:** PG-13
-- **Runtime:** 3h 14m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 192
-- **NYT:** N/A
-
-
-### #266: Guardians of the Galaxy (2014)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 1m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 193
-- **NYT:** N/A
-
-
-### #267: Deadpool (2016)
-- **MPAA Rating:** R
-- **Runtime:** 1h 48m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 195
-- **NYT:** N/A
-
-
-### #268: Dune: Part One (2021)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 35m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 200
-- **NYT:** N/A
-
-
-### #269: The Martian (2015)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 24m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 201
-- **NYT:** N/A
-
-
-### #270: The Revenant (2015)
-- **MPAA Rating:** R
-- **Runtime:** 2h 36m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 203
-- **NYT:** N/A
-
-
-### #271: Slumdog Millionaire (2008)
-- **MPAA Rating:** R
-- **Runtime:** 2h 0m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 205
-- **NYT:** N/A
-
-
-### #272: Donnie Darko (2001)
-- **MPAA Rating:** R
-- **Runtime:** 1h 53m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 206
-- **NYT:** N/A
-
-
-### #273: Black Swan (2010)
-- **MPAA Rating:** R
-- **Runtime:** 1h 48m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 208
-- **NYT:** N/A
-
-
-### #274: The Imitation Game (2014)
-- **MPAA Rating:** PG-13
-- **Runtime:** 1h 54m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 209
-- **NYT:** N/A
-
-
-### #275: Kill Bill: Vol. 2 (2004)
-- **MPAA Rating:** R
-- **Runtime:** 2h 17m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 210
-- **NYT:** N/A
-
-
-### #276: Sin City (2005)
-- **MPAA Rating:** R
-- **Runtime:** 2h 4m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 212
-- **NYT:** N/A
-
-
-### #277: Baahubali 2: The Conclusion (2017)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 47m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** undefined
-- **NYT:** N/A
-
-
-### #278: La La Land (2016)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 8m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 213
-- **NYT:** N/A
-
-
-### #279: Blade Runner 2049 (2017)
-- **MPAA Rating:** R
-- **Runtime:** 2h 44m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 214
-- **NYT:** N/A
-
-
-### #280: Casino Royale (2006)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 24m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 215
-- **NYT:** N/A
-
-
-### #281: PK (2014)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 33m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 248
-- **NYT:** N/A
-
-
-### #282: The King's Speech (2010)
-- **MPAA Rating:** R
-- **Runtime:** 1h 58m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 217
-- **NYT:** N/A
-
-
-### #283: Her (2013)
-- **MPAA Rating:** R
-- **Runtime:** 2h 6m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 218
-- **NYT:** N/A
-
-
-### #284: The Bourne Ultimatum (2007)
-- **MPAA Rating:** PG-13
-- **Runtime:** 1h 55m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 222
-- **NYT:** N/A
-
-
-### #285: 12 Monkeys (1995)
-- **MPAA Rating:** R
-- **Runtime:** 2h 9m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 223
-- **NYT:** N/A
-
-
-### #286: Zootopia (2016)
+### #234: Zootopia (2016)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 48m
 - **Black and White:** false
 - **Animated:** true
-- **RT:** N/A
+- **RT:** 98%
 - **IMDB:** 225
 - **NYT:** N/A
 
 
-### #287: Blood Diamond (2006)
-- **MPAA Rating:** R
-- **Runtime:** 2h 23m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 226
-- **NYT:** N/A
-
-
-### #288: The Pursuit of Happyness (2006)
-- **MPAA Rating:** PG-13
-- **Runtime:** 1h 57m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 227
-- **NYT:** N/A
-
-
-### #289: Rain Man (1988)
-- **MPAA Rating:** R
-- **Runtime:** 2h 13m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 229
-- **NYT:** N/A
-
-
-### #290: Beauty and the Beast (1991)
-- **MPAA Rating:** G
-- **Runtime:** 1h 24m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** N/A
-- **IMDB:** 235
-- **NYT:** N/A
-
-
-### #291: Aladdin (1992)
-- **MPAA Rating:** G
-- **Runtime:** 1h 30m
-- **Black and White:** false
-- **Animated:** true
-- **RT:** N/A
-- **IMDB:** 236
-- **NYT:** N/A
-
-
-### #292: The Princess Bride (1987)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 38m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 238
-- **NYT:** N/A
-
-
-### #293: Soul (2020)
+### #235: Soul (2020)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 40m
 - **Black and White:** false
 - **Animated:** true
-- **RT:** N/A
+- **RT:** 95%
 - **IMDB:** 241
 - **NYT:** N/A
 
 
-### #294: Monty Python's Life of Brian (1979)
-- **MPAA Rating:** R
-- **Runtime:** 1h 34m
+### #236: The Princess Bride (1987)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 38m
 - **Black and White:** false
 - **Animated:** false
-- **RT:** N/A
-- **IMDB:** 242
+- **RT:** 96%
+- **IMDB:** 238
 - **NYT:** N/A
 
 
-### #295: Avatar (2009)
+### #237: The Imitation Game (2014)
 - **MPAA Rating:** PG-13
-- **Runtime:** 2h 42m
+- **Runtime:** 1h 54m
 - **Black and White:** false
 - **Animated:** false
-- **RT:** N/A
-- **IMDB:** 244
+- **RT:** 90%
+- **IMDB:** 209
 - **NYT:** N/A
 
 
-### #296: Scent of a Woman (1992)
-- **MPAA Rating:** R
-- **Runtime:** 2h 36m
+### #238: The Martian (2015)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 24m
 - **Black and White:** false
 - **Animated:** false
-- **RT:** N/A
-- **IMDB:** 249
+- **RT:** 91%
+- **IMDB:** 201
 - **NYT:** N/A
 
 
-### #297: Iron Man (2008)
+### #239: La La Land (2016)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 8m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 91%
+- **IMDB:** 213
+- **NYT:** N/A
+
+
+### #240: The Bourne Ultimatum (2007)
+- **MPAA Rating:** PG-13
+- **Runtime:** 1h 55m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 92%
+- **IMDB:** 222
+- **NYT:** N/A
+
+
+### #241: The Pursuit of Happyness (2006)
+- **MPAA Rating:** PG-13
+- **Runtime:** 1h 57m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 67%
+- **IMDB:** 227
+- **NYT:** N/A
+
+
+### #242: Dune: Part One (2021)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 35m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 83%
+- **IMDB:** 200
+- **NYT:** N/A
+
+
+### #243: Casino Royale (2006)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 24m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 215
+- **NYT:** N/A
+
+
+### #244: Iron Man (2008)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 6m
 - **Black and White:** false
 - **Animated:** false
-- **RT:** N/A
+- **RT:** 94%
 - **IMDB:** 250
+- **NYT:** N/A
+
+
+### #245: Avatar (2009)
+- **MPAA Rating:** PG-13
+- **Runtime:** 2h 42m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 81%
+- **IMDB:** 244
+- **NYT:** N/A
+
+
+### #246: Aladdin (1992)
+- **MPAA Rating:** G
+- **Runtime:** 1h 30m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 96%
+- **IMDB:** 236
+- **NYT:** N/A
+
+
+### #247: Beauty and the Beast (1991)
+- **MPAA Rating:** G
+- **Runtime:** 1h 24m
+- **Black and White:** false
+- **Animated:** true
+- **RT:** 95%
+- **IMDB:** 235
+- **NYT:** N/A
+
+
+### #248: Baahubali 2: The Conclusion (2017)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 47m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 88%
+- **IMDB:** undefined
+- **NYT:** N/A
+
+
+### #249: PK (2014)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 33m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 80%
+- **IMDB:** 248
+- **NYT:** N/A
+
+
+### #250: The King's Speech (2010)
+- **MPAA Rating:** R
+- **Runtime:** 1h 58m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 217
+- **NYT:** N/A
+
+
+### #251: Deadpool (2016)
+- **MPAA Rating:** R
+- **Runtime:** 1h 48m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 85%
+- **IMDB:** 195
+- **NYT:** N/A
+
+
+### #252: Black Swan (2010)
+- **MPAA Rating:** R
+- **Runtime:** 1h 48m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 85%
+- **IMDB:** 208
+- **NYT:** N/A
+
+
+### #253: Her (2013)
+- **MPAA Rating:** R
+- **Runtime:** 2h 6m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 95%
+- **IMDB:** 218
+- **NYT:** N/A
+
+
+### #254: Slumdog Millionaire (2008)
+- **MPAA Rating:** R
+- **Runtime:** 2h 0m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 92%
+- **IMDB:** 205
+- **NYT:** N/A
+
+
+### #255: Donnie Darko (2001)
+- **MPAA Rating:** R
+- **Runtime:** 1h 53m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 88%
+- **IMDB:** 206
+- **NYT:** N/A
+
+
+### #256: Blade Runner 2049 (2017)
+- **MPAA Rating:** R
+- **Runtime:** 2h 44m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 88%
+- **IMDB:** 214
+- **NYT:** N/A
+
+
+### #257: The Revenant (2015)
+- **MPAA Rating:** R
+- **Runtime:** 2h 36m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 78%
+- **IMDB:** 203
+- **NYT:** N/A
+
+
+### #258: Kill Bill: Vol. 2 (2004)
+- **MPAA Rating:** R
+- **Runtime:** 2h 17m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 84%
+- **IMDB:** 210
+- **NYT:** N/A
+
+
+### #259: Sin City (2005)
+- **MPAA Rating:** R
+- **Runtime:** 2h 4m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 76%
+- **IMDB:** 212
+- **NYT:** N/A
+
+
+### #260: Blood Diamond (2006)
+- **MPAA Rating:** R
+- **Runtime:** 2h 23m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 64%
+- **IMDB:** 226
+- **NYT:** N/A
+
+
+### #261: Unforgiven (1992)
+- **MPAA Rating:** R
+- **Runtime:** 2h 10m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 96%
+- **IMDB:** 132
+- **NYT:** N/A
+
+
+### #262: In the Name of the Father (1993)
+- **MPAA Rating:** R
+- **Runtime:** 2h 13m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 197
+- **NYT:** N/A
+
+
+### #263: 12 Monkeys (1995)
+- **MPAA Rating:** R
+- **Runtime:** 2h 9m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 88%
+- **IMDB:** 223
+- **NYT:** N/A
+
+
+### #264: The Terminator (1984)
+- **MPAA Rating:** R
+- **Runtime:** 1h 47m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 100%
+- **IMDB:** 145
+- **NYT:** N/A
+
+
+### #265: Full Metal Jacket (1987)
+- **MPAA Rating:** R
+- **Runtime:** 1h 56m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 90%
+- **IMDB:** 115
+- **NYT:** N/A
+
+
+### #266: The Thing (1982)
+- **MPAA Rating:** R
+- **Runtime:** 1h 49m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 85%
+- **IMDB:** 127
+- **NYT:** N/A
+
+
+### #267: Blade Runner (1982)
+- **MPAA Rating:** R
+- **Runtime:** 1h 57m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 89%
+- **IMDB:** 153
+- **NYT:** N/A
+
+
+### #268: Platoon (1986)
+- **MPAA Rating:** R
+- **Runtime:** 2h
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 89%
+- **IMDB:** 184
+- **NYT:** N/A
+
+
+### #269: The Grapes of Wrath (1940)
+- **MPAA Rating:** Approved
+- **Runtime:** 2h 9m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 100%
+- **IMDB:** 244
+- **NYT:** N/A
+
+
+### #270: The Treasure of the Sierra Madre (1948)
+- **MPAA Rating:** Approved
+- **Runtime:** 2h 6m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 100%
+- **IMDB:** undefined
+- **NYT:** N/A
+
+
+### #271: The Gold Rush (1925)
+- **MPAA Rating:** Approved
+- **Runtime:** 1h 35m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 98%
+- **IMDB:** 200
+- **NYT:** N/A
+
+
+### #272: Pulp Fiction (1994)
+- **MPAA Rating:** R
+- **Runtime:** 2h 34m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 92%
+- **IMDB:** 12
+- **NYT:** N/A
+
+
+### #273: Saving Private Ryan (1998)
+- **MPAA Rating:** R
+- **Runtime:** 2h 49m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 21
+- **NYT:** N/A
+
+
+### #274: Wild Strawberries (1957)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 1h 32m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 210
+- **NYT:** N/A
+
+
+### #275: The Seventh Seal (1957)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 1h 36m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 93%
+- **IMDB:** 220
+- **NYT:** N/A
+
+
+### #276: Heat (1995)
+- **MPAA Rating:** R
+- **Runtime:** 2h 50m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 84%
+- **IMDB:** 86
+- **NYT:** N/A
+
+
+### #277: Braveheart (1995)
+- **MPAA Rating:** R
+- **Runtime:** 2h 58m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 76%
+- **IMDB:** 79
+- **NYT:** N/A
+
+
+### #278: Casino (1995)
+- **MPAA Rating:** R
+- **Runtime:** 2h 58m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 79%
+- **IMDB:** 124
+- **NYT:** N/A
+
+
+### #279: Aliens (1986)
+- **MPAA Rating:** R
+- **Runtime:** 2h 17m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 59
+- **NYT:** N/A
+
+
+### #280: Bicycle Thieves (1948)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 1h 29m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 99%
+- **IMDB:** 224
+- **NYT:** N/A
+
+
+### #281: The Shining (1980)
+- **MPAA Rating:** R
+- **Runtime:** 2h 26m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 83%
+- **IMDB:** 56
+- **NYT:** N/A
+
+
+### #282: Die Hard (1988)
+- **MPAA Rating:** R
+- **Runtime:** 2h 12m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 94%
+- **IMDB:** 106
+- **NYT:** N/A
+
+
+### #283: Alien (1979)
+- **MPAA Rating:** R
+- **Runtime:** 1h 57m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 93%
+- **IMDB:** 41
+- **NYT:** N/A
+
+
+### #284: Scent of a Woman (1992)
+- **MPAA Rating:** R
+- **Runtime:** 2h 36m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 82%
+- **IMDB:** 249
+- **NYT:** N/A
+
+
+### #285: Taxi Driver (1976)
+- **MPAA Rating:** R
+- **Runtime:** 1h 54m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 89%
+- **IMDB:** 107
+- **NYT:** N/A
+
+
+### #286: Rain Man (1988)
+- **MPAA Rating:** R
+- **Runtime:** 2h 13m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 88%
+- **IMDB:** 229
+- **NYT:** N/A
+
+
+### #287: Monty Python's Life of Brian (1979)
+- **MPAA Rating:** R
+- **Runtime:** 1h 34m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 96%
+- **IMDB:** 242
+- **NYT:** N/A
+
+
+### #288: The Best Years of Our Lives (1946)
+- **MPAA Rating:** Approved
+- **Runtime:** 2h 50m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 98%
+- **IMDB:** 226
+- **NYT:** N/A
+
+
+### #289: Mr. Smith Goes to Washington (1939)
+- **MPAA Rating:** Approved
+- **Runtime:** 2h 9m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 85%
+- **IMDB:** 208
+- **NYT:** N/A
+
+
+### #290: The Green Mile (1999)
+- **MPAA Rating:** R
+- **Runtime:** 3h 9m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 79%
+- **IMDB:** 23
+- **NYT:** N/A
+
+
+### #291: Ikiru (1952)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 23m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 98%
+- **IMDB:** undefined
+- **NYT:** N/A
+
+
+### #292: Scarface (1983)
+- **MPAA Rating:** R
+- **Runtime:** 2h 50m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 79%
+- **IMDB:** 81
+- **NYT:** N/A
+
+
+### #293: One Flew Over the Cuckoo's Nest (1975)
+- **MPAA Rating:** R
+- **Runtime:** 2h 13m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 93%
+- **IMDB:** 25
+- **NYT:** N/A
+
+
+### #294: Apocalypse Now (1979)
+- **MPAA Rating:** R
+- **Runtime:** 2h 27m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 90%
+- **IMDB:** 63
+- **NYT:** N/A
+
+
+### #295: Ran (1985)
+- **MPAA Rating:** R
+- **Runtime:** 2h 40m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 96%
+- **IMDB:** undefined
+- **NYT:** N/A
+
+
+### #296: A Clockwork Orange (1971)
+- **MPAA Rating:** R
+- **Runtime:** 2h 16m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 86%
+- **IMDB:** 110
+- **NYT:** N/A
+
+
+### #297: The Great Dictator (1940)
+- **MPAA Rating:** G
+- **Runtime:** 2h 5m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 92%
+- **IMDB:** 101
 - **NYT:** N/A
 
 
