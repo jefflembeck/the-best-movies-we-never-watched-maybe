@@ -9,7 +9,12 @@
     "animated": true,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0114709"
+    "imdbId": "tt0114709",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 83,
@@ -21,7 +26,12 @@
     "animated": true,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0435761"
+    "imdbId": "tt0435761",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 55,
@@ -33,7 +43,12 @@
     "animated": true,
     "rottenTomatoes": "95%",
     "nytRank": 34,
-    "imdbId": "tt0910970"
+    "imdbId": "tt0910970",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ]
   },
   {
     "imdbRank": 97,
@@ -45,7 +60,12 @@
     "animated": true,
     "rottenTomatoes": "99%",
     "nytRank": "N/A",
-    "imdbId": "tt0266543"
+    "imdbId": "tt0266543",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 142,
@@ -57,7 +77,12 @@
     "animated": true,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0198781"
+    "imdbId": "tt0198781",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 37,
@@ -69,7 +94,12 @@
     "animated": true,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0110357"
+    "imdbId": "tt0110357",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 147,
@@ -81,7 +111,12 @@
     "animated": true,
     "rottenTomatoes": "96%",
     "nytRank": 73,
-    "imdbId": "tt0382932"
+    "imdbId": "tt0382932",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 186,
@@ -93,7 +128,12 @@
     "animated": true,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "imdbId": "tt0096283"
+    "imdbId": "tt0096283",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 211,
@@ -105,7 +145,12 @@
     "animated": false,
     "rottenTomatoes": "64%",
     "nytRank": "N/A",
-    "imdbId": "tt1028532"
+    "imdbId": "tt1028532",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Family"
+    ]
   },
   {
     "imdbRank": 61,
@@ -118,7 +163,12 @@
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt4633694"
+    "imdbId": "tt4633694",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "imdbRank": 51,
@@ -131,7 +181,12 @@
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt9362722"
+    "imdbId": "tt9362722",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "imdbRank": 65,
@@ -144,7 +199,12 @@
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt2380307"
+    "imdbId": "tt2380307",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 194,
@@ -156,7 +216,12 @@
     "animated": true,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "imdbId": "tt4729430"
+    "imdbId": "tt4729430",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 151,
@@ -169,7 +234,12 @@
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt2096673"
+    "imdbId": "tt2096673",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 204,
@@ -182,7 +252,12 @@
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt29623480"
+    "imdbId": "tt29623480",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ]
   },
   {
     "imdbRank": 152,
@@ -195,7 +270,12 @@
     "rottenTomatoes": "99%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0892769"
+    "imdbId": "tt0892769",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "imdbRank": 74,
@@ -208,7 +288,12 @@
     "rottenTomatoes": "98%",
     "nytRank": 50,
     "watched": true,
-    "imdbId": "tt1049413"
+    "imdbId": "tt1049413",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 128,
@@ -221,7 +306,12 @@
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0347149"
+    "imdbId": "tt0347149",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ]
   },
   {
     "imdbRank": 207,
@@ -233,7 +323,12 @@
     "animated": true,
     "rottenTomatoes": "N/A",
     "nytRank": "N/A",
-    "imdbId": "tt0317705"
+    "imdbId": "tt0317705",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "imdbRank": 237,
@@ -245,7 +340,12 @@
     "animated": true,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0129167"
+    "imdbId": "tt0129167",
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "imdbRank": 26,
@@ -258,7 +358,12 @@
     "rottenTomatoes": "96%",
     "nytRank": 9,
     "watched": true,
-    "imdbId": "tt0245429"
+    "imdbId": "tt0245429",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ]
   },
   {
     "imdbRank": 187,
@@ -269,7 +374,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "83%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama",
+      "Family",
+      "Sport"
+    ]
   },
   {
     "imdbRank": 87,
@@ -281,7 +391,11 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0062622"
+    "imdbId": "tt0062622",
+    "genre": [
+      "Adventure",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 129,
@@ -293,7 +407,12 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0045152"
+    "imdbId": "tt0045152",
+    "genre": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 95,
@@ -306,7 +425,11 @@
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0120382"
+    "imdbId": "tt0120382",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 216,
@@ -319,7 +442,12 @@
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0107048"
+    "imdbId": "tt0107048",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 228,
@@ -331,7 +459,12 @@
     "animated": false,
     "rottenTomatoes": "83%",
     "nytRank": "N/A",
-    "imdbId": "tt0059742"
+    "imdbId": "tt0059742",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Family"
+    ]
   },
   {
     "imdbRank": 148,
@@ -343,7 +476,11 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0986264"
+    "imdbId": "tt0986264",
+    "genre": [
+      "Drama",
+      "Family"
+    ]
   },
   {
     "imdbRank": 34,
@@ -356,7 +493,12 @@
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0088763"
+    "imdbId": "tt0088763",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 58,
@@ -369,7 +511,11 @@
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0082971"
+    "imdbId": "tt0082971",
+    "genre": [
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "imdbRank": 112,
@@ -382,7 +528,11 @@
     "rottenTomatoes": "84%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0097576"
+    "imdbId": "tt0097576",
+    "genre": [
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "imdbRank": 22,
@@ -395,7 +545,12 @@
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0076759"
+    "imdbId": "tt0076759",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 17,
@@ -408,7 +563,12 @@
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0080684"
+    "imdbId": "tt0080684",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 75,
@@ -421,7 +581,12 @@
     "rottenTomatoes": "83%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0086190"
+    "imdbId": "tt0086190",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 167,
@@ -433,7 +598,11 @@
     "animated": false,
     "rottenTomatoes": "85%",
     "nytRank": "N/A",
-    "imdbId": "tt0097165"
+    "imdbId": "tt0097165",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 185,
@@ -445,7 +614,12 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0032138"
+    "imdbId": "tt0032138",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 125,
@@ -458,7 +632,12 @@
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0071853"
+    "imdbId": "tt0071853",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 164,
@@ -470,7 +649,11 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0075148"
+    "imdbId": "tt0075148",
+    "genre": [
+      "Drama",
+      "Sport"
+    ]
   },
   {
     "imdbRank": 188,
@@ -482,7 +665,11 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt10272386"
+    "imdbId": "tt10272386",
+    "genre": [
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 233,
@@ -494,7 +681,11 @@
     "animated": false,
     "rottenTomatoes": "87%",
     "nytRank": "N/A",
-    "imdbId": "tt0052618"
+    "imdbId": "tt0052618",
+    "genre": [
+      "Adventure",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 93,
@@ -506,7 +697,12 @@
     "animated": true,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0119698"
+    "imdbId": "tt0119698",
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 67,
@@ -518,7 +714,11 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "imdbId": "tt0095765"
+    "imdbId": "tt0095765",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 71,
@@ -530,7 +730,12 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0027977"
+    "imdbId": "tt0027977",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 89,
@@ -542,7 +747,12 @@
     "animated": false,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "imdbId": "tt0021749"
+    "imdbId": "tt0021749",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 72,
@@ -554,7 +764,12 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0086879"
+    "imdbId": "tt0086879",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
   },
   {
     "imdbRank": 170,
@@ -566,7 +781,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0070735"
+    "imdbId": "tt0070735",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 163,
@@ -578,7 +798,12 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
-    "imdbId": "tt0073195"
+    "imdbId": "tt0073195",
+    "genre": [
+      "Adventure",
+      "Horror",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 9,
@@ -591,7 +816,12 @@
     "rottenTomatoes": "87%",
     "nytRank": 55,
     "watched": true,
-    "imdbId": "tt1375666"
+    "imdbId": "tt1375666",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 54,
@@ -604,7 +834,12 @@
     "rottenTomatoes": "85%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt4154756"
+    "imdbId": "tt4154756",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 52,
@@ -617,7 +852,12 @@
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt4154796"
+    "imdbId": "tt4154796",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 130,
@@ -629,7 +869,10 @@
     "animated": false,
     "rottenTomatoes": "99%",
     "nytRank": 33,
-    "imdbId": "tt1832382"
+    "imdbId": "tt1832382",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 122,
@@ -641,7 +884,12 @@
     "animated": false,
     "rottenTomatoes": "77%",
     "nytRank": "N/A",
-    "imdbId": "tt6966692"
+    "imdbId": "tt6966692",
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 114,
@@ -653,7 +901,11 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt1745960"
+    "imdbId": "tt1745960",
+    "genre": [
+      "Action",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 176,
@@ -665,7 +917,12 @@
     "animated": false,
     "rottenTomatoes": "84%",
     "nytRank": "N/A",
-    "imdbId": "tt1291584"
+    "imdbId": "tt1291584",
+    "genre": [
+      "Action",
+      "Drama",
+      "Sport"
+    ]
   },
   {
     "imdbRank": 143,
@@ -678,7 +935,12 @@
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt1201607"
+    "imdbId": "tt1201607",
+    "genre": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 144,
@@ -691,18 +953,12 @@
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt10872600"
-  },
-  {
-    "imdbRank": 236,
-    "title": "I'm Still Here",
-    "year": "2024",
-    "length": "2h 17m",
-    "rating": "PG-13",
-    "blackAndWhite": false,
-    "animated": false,
-    "rottenTomatoes": "N/A",
-    "nytRank": "N/A"
+    "imdbId": "tt10872600",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 177,
@@ -714,7 +970,10 @@
     "animated": false,
     "rottenTomatoes": "76%",
     "nytRank": "N/A",
-    "imdbId": "tt1454029"
+    "imdbId": "tt1454029",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 101,
@@ -726,7 +985,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "imdbId": "tt0032553"
+    "imdbId": "tt0032553",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 174,
@@ -738,7 +1002,11 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "imdbId": "tt0080678"
+    "imdbId": "tt0080678",
+    "genre": [
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 15,
@@ -750,7 +1018,12 @@
     "animated": false,
     "rottenTomatoes": "73%",
     "nytRank": 89,
-    "imdbId": "tt0816692"
+    "imdbId": "tt0816692",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 64,
@@ -762,7 +1035,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "imdbId": "tt15239678"
+    "imdbId": "tt15239678",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 230,
@@ -774,7 +1052,12 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt8503618"
+    "imdbId": "tt8503618",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbRank": 172,
@@ -786,7 +1069,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "imdbId": "tt1950186"
+    "imdbId": "tt1950186",
+    "genre": [
+      "Action",
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 92,
@@ -798,7 +1086,12 @@
     "animated": false,
     "rottenTomatoes": "85%",
     "nytRank": "N/A",
-    "imdbId": "tt0372784"
+    "imdbId": "tt0372784",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 3,
@@ -810,7 +1103,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": 28,
-    "imdbId": "tt0468569"
+    "imdbId": "tt0468569",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 49,
@@ -822,7 +1120,12 @@
     "animated": false,
     "rottenTomatoes": "87%",
     "nytRank": "N/A",
-    "imdbId": "tt1345836"
+    "imdbId": "tt1345836",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 32,
@@ -834,7 +1137,12 @@
     "animated": false,
     "rottenTomatoes": "77%",
     "nytRank": "N/A",
-    "imdbId": "tt0482571"
+    "imdbId": "tt0482571",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 48,
@@ -846,7 +1154,12 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0047396"
+    "imdbId": "tt0047396",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 104,
@@ -858,7 +1171,12 @@
     "animated": false,
     "rottenTomatoes": "74%",
     "nytRank": "N/A",
-    "imdbId": "tt0268978"
+    "imdbId": "tt0268978",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 161,
@@ -869,7 +1187,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "90%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 136,
@@ -881,7 +1204,12 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0264464"
+    "imdbId": "tt0264464",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 162,
@@ -893,7 +1221,11 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0405159"
+    "imdbId": "tt0405159",
+    "genre": [
+      "Drama",
+      "Sport"
+    ]
   },
   {
     "imdbRank": 134,
@@ -905,7 +1237,12 @@
     "animated": false,
     "rottenTomatoes": "79%",
     "nytRank": "N/A",
-    "imdbId": "tt0325980"
+    "imdbId": "tt0325980",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 196,
@@ -917,7 +1254,12 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "imdbId": "tt0395169"
+    "imdbId": "tt0395169",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbRank": 28,
@@ -929,7 +1271,12 @@
     "animated": false,
     "rottenTomatoes": "81%",
     "nytRank": "N/A",
-    "imdbId": "tt0118799"
+    "imdbId": "tt0118799",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 102,
@@ -941,7 +1288,12 @@
     "animated": false,
     "rottenTomatoes": "86%",
     "nytRank": "N/A",
-    "imdbId": "tt0167404"
+    "imdbId": "tt0167404",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 155,
@@ -953,7 +1305,12 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0031381"
+    "imdbId": "tt0031381",
+    "genre": [
+      "Drama",
+      "Romance",
+      "War"
+    ]
   },
   {
     "imdbRank": 184,
@@ -964,7 +1321,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "78%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 90,
@@ -976,18 +1338,11 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0057012"
-  },
-  {
-    "title": "A Silent Voice: The Movie",
-    "year": "2016",
-    "length": "2h 10m",
-    "rating": "Not Rated",
-    "blackAndWhite": false,
-    "animated": true,
-    "rottenTomatoes": "N/A",
-    "nytRank": "N/A",
-    "imdbId": "tt5323662"
+    "imdbId": "tt0057012",
+    "genre": [
+      "Comedy",
+      "War"
+    ]
   },
   {
     "imdbRank": 8,
@@ -1000,7 +1355,12 @@
     "rottenTomatoes": "92%",
     "nytRank": 87,
     "watched": true,
-    "imdbId": "tt0120737"
+    "imdbId": "tt0120737",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 13,
@@ -1013,7 +1373,12 @@
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0167261"
+    "imdbId": "tt0167261",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 4,
@@ -1026,7 +1391,12 @@
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0167260"
+    "imdbId": "tt0167260",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 70,
@@ -1038,7 +1408,11 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt1187043"
+    "imdbId": "tt1187043",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 133,
@@ -1050,7 +1424,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0052357"
+    "imdbId": "tt0052357",
+    "genre": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 203,
@@ -1061,7 +1440,12 @@
     "blackAndWhite": false,
     "animated": true,
     "rottenTomatoes": "96%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 11,
@@ -1073,7 +1457,11 @@
     "animated": false,
     "rottenTomatoes": "75%",
     "nytRank": "N/A",
-    "imdbId": "tt0109830"
+    "imdbId": "tt0109830",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 100,
@@ -1085,7 +1473,12 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "imdbId": "tt0107290"
+    "imdbId": "tt0107290",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 119,
@@ -1097,7 +1490,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0056172"
+    "imdbId": "tt0056172",
+    "genre": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 239,
@@ -1109,7 +1507,12 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0050212"
+    "imdbId": "tt0050212",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 84,
@@ -1121,7 +1524,12 @@
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
     "imdbId": "tt5311514",
-    "rating": "TV-PG"
+    "rating": "TV-PG",
+    "genre": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 66,
@@ -1133,7 +1541,11 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt15097216"
+    "imdbId": "tt15097216",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 62,
@@ -1145,7 +1557,12 @@
     "animated": true,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0095327"
+    "imdbId": "tt0095327",
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 46,
@@ -1157,7 +1574,12 @@
     "animated": false,
     "rottenTomatoes": "99%",
     "nytRank": "N/A",
-    "imdbId": "tt0034583"
+    "imdbId": "tt0034583",
+    "genre": [
+      "Drama",
+      "Romance",
+      "War"
+    ]
   },
   {
     "imdbRank": 131,
@@ -1169,7 +1591,11 @@
     "animated": false,
     "rottenTomatoes": "99%",
     "nytRank": "N/A",
-    "imdbId": "tt0033467"
+    "imdbId": "tt0033467",
+    "genre": [
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 240,
@@ -1180,7 +1606,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "96%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 249,
@@ -1191,18 +1622,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "100%",
-    "nytRank": "N/A"
-  },
-  {
-    "imdbRank": 237,
-    "title": "My Father and My Son",
-    "year": "2005",
-    "length": "1h 52m",
-    "rating": "Not Rated",
-    "blackAndWhite": false,
-    "animated": false,
-    "rottenTomatoes": "N/A",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 31,
@@ -1214,7 +1639,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "imdbId": "tt0038650"
+    "imdbId": "tt0038650",
+    "genre": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 141,
@@ -1226,7 +1656,12 @@
     "animated": false,
     "rottenTomatoes": "89%",
     "nytRank": "N/A",
-    "imdbId": "tt5074352"
+    "imdbId": "tt5074352",
+    "genre": [
+      "Action",
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 234,
@@ -1236,9 +1671,14 @@
     "rating": "Not Rated",
     "blackAndWhite": false,
     "animated": false,
-    "rottenTomatoes": "N/A",
+    "rottenTomatoes": "95%",
     "nytRank": 99,
-    "imdbId": "tt0353969"
+    "imdbId": "tt0353969",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 246,
@@ -1250,7 +1690,11 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0113247"
+    "imdbId": "tt0113247",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 60,
@@ -1262,7 +1706,11 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0064116"
+    "imdbId": "tt0064116",
+    "genre": [
+      "Drama",
+      "Western"
+    ]
   },
   {
     "imdbRank": 68,
@@ -1273,7 +1721,11 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "imdbId": "tt23849204"
+    "imdbId": "tt23849204",
+    "genre": [
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 218,
@@ -1283,7 +1735,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "83%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 245,
@@ -1295,7 +1752,12 @@
     "animated": false,
     "rottenTomatoes": "89%",
     "nytRank": "N/A",
-    "imdbId": "tt0091251"
+    "imdbId": "tt0091251",
+    "genre": [
+      "Drama",
+      "Thriller",
+      "War"
+    ]
   },
   {
     "imdbRank": 40,
@@ -1307,7 +1769,11 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": 60,
-    "imdbId": "tt2582802"
+    "imdbId": "tt2582802",
+    "genre": [
+      "Drama",
+      "Music"
+    ]
   },
   {
     "imdbRank": 42,
@@ -1319,7 +1785,11 @@
     "animated": false,
     "rottenTomatoes": "75%",
     "nytRank": "N/A",
-    "imdbId": "tt1675434"
+    "imdbId": "tt1675434",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 105,
@@ -1331,7 +1801,10 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "imdbId": "tt2106476"
+    "imdbId": "tt2106476",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 117,
@@ -1343,7 +1816,12 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "imdbId": "tt8579674"
+    "imdbId": "tt8579674",
+    "genre": [
+      "Action",
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 169,
@@ -1355,7 +1833,12 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt5027774"
+    "imdbId": "tt5027774",
+    "genre": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 138,
@@ -1367,7 +1850,12 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": 11,
-    "imdbId": "tt1392190"
+    "imdbId": "tt1392190",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 146,
@@ -1379,7 +1867,11 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": 22,
-    "imdbId": "tt2278388"
+    "imdbId": "tt2278388",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 182,
@@ -1391,7 +1883,11 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt3170832"
+    "imdbId": "tt3170832",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 219,
@@ -1403,7 +1899,11 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": 49,
-    "imdbId": "tt0381681"
+    "imdbId": "tt0381681",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 178,
@@ -1415,7 +1915,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "imdbId": "tt0057115"
+    "imdbId": "tt0057115",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 113,
@@ -1427,7 +1932,11 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0050825"
+    "imdbId": "tt0050825",
+    "genre": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 116,
@@ -1439,7 +1948,12 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
-    "imdbId": "tt0053125"
+    "imdbId": "tt0053125",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 243,
@@ -1450,7 +1964,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "96%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "War"
+    ]
   },
   {
     "imdbRank": 39,
@@ -1462,7 +1981,11 @@
     "animated": false,
     "rottenTomatoes": "99%",
     "nytRank": 1,
-    "imdbId": "tt6751668"
+    "imdbId": "tt6751668",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 69,
@@ -1474,7 +1997,12 @@
     "animated": false,
     "rottenTomatoes": "68%",
     "nytRank": "N/A",
-    "imdbId": "tt7286456"
+    "imdbId": "tt7286456",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 202,
@@ -1486,7 +2014,10 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt8267604"
+    "imdbId": "tt8267604",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 137,
@@ -1498,7 +2029,12 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "imdbId": "tt1255953"
+    "imdbId": "tt1255953",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "War"
+    ]
   },
   {
     "imdbRank": 94,
@@ -1510,7 +2046,12 @@
     "animated": false,
     "rottenTomatoes": "69%",
     "nytRank": "N/A",
-    "imdbId": "tt1130884"
+    "imdbId": "tt1130884",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 157,
@@ -1522,7 +2063,12 @@
     "animated": false,
     "rottenTomatoes": "95%",
     "nytRank": 51,
-    "imdbId": "tt2024544"
+    "imdbId": "tt2024544",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbRank": 165,
@@ -1534,7 +2080,12 @@
     "animated": false,
     "rottenTomatoes": "84%",
     "nytRank": "N/A",
-    "imdbId": "tt2119532"
+    "imdbId": "tt2119532",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbRank": 139,
@@ -1546,7 +2097,12 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": 64,
-    "imdbId": "tt2267998"
+    "imdbId": "tt2267998",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 243,
@@ -1558,7 +2114,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "imdbId": "tt3011894"
+    "imdbId": "tt3011894",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 149,
@@ -1570,7 +2131,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt3315342"
+    "imdbId": "tt3315342",
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 175,
@@ -1582,7 +2148,12 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": 66,
-    "imdbId": "tt1895587"
+    "imdbId": "tt1895587",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 173,
@@ -1594,7 +2165,12 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "imdbId": "tt1979320"
+    "imdbId": "tt1979320",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ]
   },
   {
     "imdbRank": 53,
@@ -1606,7 +2182,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": 62,
-    "imdbId": "tt0209144"
+    "imdbId": "tt0209144",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 88,
@@ -1618,7 +2199,12 @@
     "animated": false,
     "rottenTomatoes": "82%",
     "nytRank": 43,
-    "imdbId": "tt0364569"
+    "imdbId": "tt0364569",
+    "genre": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 76,
@@ -1630,7 +2216,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": 7,
-    "imdbId": "tt0338013"
+    "imdbId": "tt0338013",
+    "genre": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 109,
@@ -1643,7 +2234,11 @@
     "rottenTomatoes": "74%",
     "nytRank": "N/A",
     "watched": true,
-    "imdbId": "tt0208092"
+    "imdbId": "tt0208092",
+    "genre": [
+      "Comedy",
+      "Crime"
+    ]
   },
   {
     "imdbRank": 118,
@@ -1655,7 +2250,12 @@
     "animated": false,
     "rottenTomatoes": "95%",
     "nytRank": 54,
-    "imdbId": "tt0457430"
+    "imdbId": "tt0457430",
+    "genre": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ]
   },
   {
     "imdbRank": 154,
@@ -1667,7 +2267,10 @@
     "animated": false,
     "rottenTomatoes": "81%",
     "nytRank": "N/A",
-    "imdbId": "tt1205489"
+    "imdbId": "tt1205489",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 160,
@@ -1679,7 +2282,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0053604"
+    "imdbId": "tt0053604",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 156,
@@ -1691,7 +2299,11 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0056592"
+    "imdbId": "tt0056592",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 7,
@@ -1703,7 +2315,11 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0050083"
+    "imdbId": "tt0050083",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 99,
@@ -1715,7 +2331,11 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0043014"
+    "imdbId": "tt0043014",
+    "genre": [
+      "Drama",
+      "Film-Noir"
+    ]
   },
   {
     "imdbRank": 159,
@@ -1727,7 +2347,12 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0051201"
+    "imdbId": "tt0051201",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 209,
@@ -1738,7 +2363,12 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "99%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 190,
@@ -1750,7 +2380,11 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0056058"
+    "imdbId": "tt0056058",
+    "genre": [
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 29,
@@ -1762,7 +2396,11 @@
     "animated": false,
     "rottenTomatoes": "87%",
     "nytRank": "N/A",
-    "imdbId": "tt1853728"
+    "imdbId": "tt1853728",
+    "genre": [
+      "Drama",
+      "Western"
+    ]
   },
   {
     "imdbRank": 82,
@@ -1773,7 +2411,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "96%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 108,
@@ -1785,7 +2428,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": 65,
-    "imdbId": "tt15398776"
+    "imdbId": "tt15398776",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbRank": 91,
@@ -1797,7 +2445,12 @@
     "animated": false,
     "rottenTomatoes": "79%",
     "nytRank": 20,
-    "imdbId": "tt0993846"
+    "imdbId": "tt0993846",
+    "genre": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ]
   },
   {
     "imdbRank": 111,
@@ -1809,7 +2462,12 @@
     "animated": false,
     "rottenTomatoes": "81%",
     "nytRank": "N/A",
-    "imdbId": "tt1392214"
+    "imdbId": "tt1392214",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 242,
@@ -1820,7 +2478,11 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "99%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 126,
@@ -1832,7 +2494,11 @@
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
     "imdbId": "tt0082096",
-    "rating": "R"
+    "rating": "R",
+    "genre": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 27,
@@ -1844,7 +2510,11 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": 15,
-    "imdbId": "tt0317248"
+    "imdbId": "tt0317248",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 43,
@@ -1856,7 +2526,12 @@
     "animated": false,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "imdbId": "tt0253474"
+    "imdbId": "tt0253474",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
   },
   {
     "imdbRank": 80,
@@ -1868,7 +2543,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": 48,
-    "imdbId": "tt0405094"
+    "imdbId": "tt0405094",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 85,
@@ -1880,7 +2560,11 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": 41,
-    "imdbId": "tt0211915"
+    "imdbId": "tt0211915",
+    "genre": [
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 98,
@@ -1892,7 +2576,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": 6,
-    "imdbId": "tt0477348"
+    "imdbId": "tt0477348",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 189,
@@ -1904,7 +2593,12 @@
     "animated": false,
     "rottenTomatoes": "89%",
     "nytRank": "N/A",
-    "imdbId": "tt1305806"
+    "imdbId": "tt1305806",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 135,
@@ -1916,7 +2610,12 @@
     "animated": false,
     "rottenTomatoes": "73%",
     "nytRank": "N/A",
-    "imdbId": "tt0434409"
+    "imdbId": "tt0434409",
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 221,
@@ -1928,17 +2627,12 @@
     "animated": false,
     "rottenTomatoes": "83%",
     "nytRank": "N/A",
-    "imdbId": "tt0758758"
-  },
-  {
-    "imdbRank": 101,
-    "title": "The Chaos Class Failed the Class",
-    "year": "1975",
-    "length": "1h 35m",
-    "blackAndWhite": false,
-    "animated": false,
-    "rottenTomatoes": "N/A",
-    "nytRank": "N/A"
+    "imdbId": "tt0758758",
+    "genre": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 20,
@@ -1950,7 +2644,12 @@
     "animated": false,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "imdbId": "tt0102926"
+    "imdbId": "tt0102926",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ]
   },
   {
     "imdbRank": 36,
@@ -1962,7 +2661,11 @@
     "animated": false,
     "rottenTomatoes": "84%",
     "nytRank": "N/A",
-    "imdbId": "tt0120586"
+    "imdbId": "tt0120586",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 35,
@@ -1974,7 +2677,12 @@
     "animated": false,
     "rottenTomatoes": "75%",
     "nytRank": "N/A",
-    "imdbId": "tt0110413"
+    "imdbId": "tt0110413",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 38,
@@ -1986,7 +2694,12 @@
     "animated": false,
     "rottenTomatoes": "87%",
     "nytRank": "N/A",
-    "imdbId": "tt0114814"
+    "imdbId": "tt0114814",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 78,
@@ -1998,7 +2711,11 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0105236"
+    "imdbId": "tt0105236",
+    "genre": [
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 166,
@@ -2010,7 +2727,11 @@
     "animated": false,
     "rottenTomatoes": "75%",
     "nytRank": "N/A",
-    "imdbId": "tt0120735"
+    "imdbId": "tt0120735",
+    "genre": [
+      "Comedy",
+      "Crime"
+    ]
   },
   {
     "imdbRank": 161,
@@ -2022,7 +2743,11 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0117951"
+    "imdbId": "tt0117951",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 158,
@@ -2034,7 +2759,12 @@
     "animated": false,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "imdbId": "tt0116282"
+    "imdbId": "tt0116282",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 199,
@@ -2046,7 +2776,12 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0112471"
+    "imdbId": "tt0112471",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 150,
@@ -2058,7 +2793,11 @@
     "animated": false,
     "rottenTomatoes": "80%",
     "nytRank": "N/A",
-    "imdbId": "tt0118715"
+    "imdbId": "tt0118715",
+    "genre": [
+      "Comedy",
+      "Crime"
+    ]
   },
   {
     "title": "Judgment at Nuremberg",
@@ -2069,7 +2808,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0055031"
+    "imdbId": "tt0055031",
+    "genre": [
+      "Drama",
+      "History",
+      "War"
+    ]
   },
   {
     "imdbRank": 180,
@@ -2081,7 +2825,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "imdbId": "tt0092005"
+    "imdbId": "tt0092005",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 168,
@@ -2093,7 +2842,12 @@
     "animated": false,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "imdbId": "tt0053291"
+    "imdbId": "tt0053291",
+    "genre": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ]
   },
   {
     "title": "All About Eve",
@@ -2104,7 +2858,10 @@
     "animated": false,
     "rottenTomatoes": "99%",
     "nytRank": "N/A",
-    "imdbId": "tt0042192"
+    "imdbId": "tt0042192",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 183,
@@ -2116,7 +2873,12 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
-    "imdbId": "tt0036775"
+    "imdbId": "tt0036775",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Film-Noir"
+    ]
   },
   {
     "imdbRank": 213,
@@ -2127,7 +2889,12 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "99%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama",
+      "Film-Noir",
+      "Mystery"
+    ]
   },
   {
     "title": "Yojimbo",
@@ -2138,7 +2905,12 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0055630"
+    "imdbId": "tt0055630",
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 30,
@@ -2150,7 +2922,12 @@
     "animated": false,
     "rottenTomatoes": "80%",
     "nytRank": 92,
-    "imdbId": "tt0172495"
+    "imdbId": "tt0172495",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 33,
@@ -2162,7 +2939,12 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": 31,
-    "imdbId": "tt0407887"
+    "imdbId": "tt0407887",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 50,
@@ -2174,7 +2956,12 @@
     "animated": false,
     "rottenTomatoes": "89%",
     "nytRank": 14,
-    "imdbId": "tt0361748"
+    "imdbId": "tt0361748",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 140,
@@ -2186,7 +2973,12 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0363163"
+    "imdbId": "tt0363163",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbRank": 120,
@@ -2198,7 +2990,10 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": 3,
-    "imdbId": "tt0469494"
+    "imdbId": "tt0469494",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 165,
@@ -2209,7 +3004,12 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "98%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 214,
@@ -2220,7 +3020,10 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "100%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 248,
@@ -2231,7 +3034,11 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "93%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 1,
@@ -2243,7 +3050,10 @@
     "animated": false,
     "rottenTomatoes": "89%",
     "nytRank": "N/A",
-    "imdbId": "tt0111161"
+    "imdbId": "tt0111161",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 10,
@@ -2255,7 +3065,12 @@
     "animated": false,
     "rottenTomatoes": "81%",
     "nytRank": "N/A",
-    "imdbId": "tt0137523"
+    "imdbId": "tt0137523",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 16,
@@ -2267,7 +3082,11 @@
     "animated": false,
     "rottenTomatoes": "83%",
     "nytRank": "N/A",
-    "imdbId": "tt0133093"
+    "imdbId": "tt0133093",
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 18,
@@ -2279,7 +3098,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "imdbId": "tt0099685"
+    "imdbId": "tt0099685",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 19,
@@ -2291,7 +3115,12 @@
     "animated": false,
     "rottenTomatoes": "84%",
     "nytRank": "N/A",
-    "imdbId": "tt0114369"
+    "imdbId": "tt0114369",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbRank": 24,
@@ -2303,7 +3132,12 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "imdbId": "tt0103064"
+    "imdbId": "tt0103064",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 57,
@@ -2315,7 +3149,11 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
-    "imdbId": "tt0119217"
+    "imdbId": "tt0119217",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 73,
@@ -2327,7 +3165,10 @@
     "animated": false,
     "rottenTomatoes": "87%",
     "nytRank": "N/A",
-    "imdbId": "tt0169547"
+    "imdbId": "tt0169547",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 132,
@@ -2339,7 +3180,11 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0105695"
+    "imdbId": "tt0105695",
+    "genre": [
+      "Drama",
+      "Western"
+    ]
   },
   {
     "imdbRank": 197,
@@ -2350,7 +3195,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "94%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 115,
@@ -2362,7 +3212,11 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0093058"
+    "imdbId": "tt0093058",
+    "genre": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 127,
@@ -2374,7 +3228,12 @@
     "animated": false,
     "rottenTomatoes": "85%",
     "nytRank": "N/A",
-    "imdbId": "tt0084787"
+    "imdbId": "tt0084787",
+    "genre": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 153,
@@ -2386,7 +3245,12 @@
     "animated": false,
     "rottenTomatoes": "89%",
     "nytRank": "N/A",
-    "imdbId": "tt0083658"
+    "imdbId": "tt0083658",
+    "genre": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 145,
@@ -2398,7 +3262,12 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0088247"
+    "imdbId": "tt0088247",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 184,
@@ -2410,7 +3279,11 @@
     "animated": false,
     "rottenTomatoes": "89%",
     "nytRank": "N/A",
-    "imdbId": "tt0091763"
+    "imdbId": "tt0091763",
+    "genre": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "title": "The Treasure of the Sierra Madre",
@@ -2421,7 +3294,12 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0040897"
+    "imdbId": "tt0040897",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ]
   },
   {
     "imdbRank": 244,
@@ -2432,7 +3310,10 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "100%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 200,
@@ -2443,7 +3324,12 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "98%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 210,
@@ -2454,7 +3340,11 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "94%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 220,
@@ -2465,7 +3355,11 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "93%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 12,
@@ -2477,7 +3371,11 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "imdbId": "tt0110912"
+    "imdbId": "tt0110912",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 21,
@@ -2489,7 +3387,11 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "imdbId": "tt0120815"
+    "imdbId": "tt0120815",
+    "genre": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 79,
@@ -2501,7 +3403,12 @@
     "animated": false,
     "rottenTomatoes": "76%",
     "nytRank": "N/A",
-    "imdbId": "tt0112573"
+    "imdbId": "tt0112573",
+    "genre": [
+      "Biography",
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 86,
@@ -2513,7 +3420,12 @@
     "animated": false,
     "rottenTomatoes": "84%",
     "nytRank": "N/A",
-    "imdbId": "tt0113277"
+    "imdbId": "tt0113277",
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 224,
@@ -2525,7 +3437,10 @@
     "animated": false,
     "rottenTomatoes": "99%",
     "nytRank": "N/A",
-    "imdbId": "tt0040522"
+    "imdbId": "tt0040522",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 124,
@@ -2537,7 +3452,11 @@
     "animated": false,
     "rottenTomatoes": "79%",
     "nytRank": "N/A",
-    "imdbId": "tt0112641"
+    "imdbId": "tt0112641",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 56,
@@ -2549,7 +3468,11 @@
     "animated": false,
     "rottenTomatoes": "83%",
     "nytRank": "N/A",
-    "imdbId": "tt0081505"
+    "imdbId": "tt0081505",
+    "genre": [
+      "Drama",
+      "Horror"
+    ]
   },
   {
     "imdbRank": 59,
@@ -2561,7 +3484,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "imdbId": "tt0090605"
+    "imdbId": "tt0090605",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ]
   },
   {
     "imdbRank": 106,
@@ -2573,7 +3501,11 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "imdbId": "tt0095016"
+    "imdbId": "tt0095016",
+    "genre": [
+      "Action",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 41,
@@ -2585,7 +3517,11 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0078748"
+    "imdbId": "tt0078748",
+    "genre": [
+      "Horror",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 107,
@@ -2597,7 +3533,11 @@
     "animated": false,
     "rottenTomatoes": "89%",
     "nytRank": "N/A",
-    "imdbId": "tt0075314"
+    "imdbId": "tt0075314",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 226,
@@ -2608,7 +3548,12 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "98%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama",
+      "Romance",
+      "War"
+    ]
   },
   {
     "imdbRank": 208,
@@ -2619,7 +3564,11 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "85%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "title": "Ikiru",
@@ -2630,7 +3579,10 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0044741"
+    "imdbId": "tt0044741",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 23,
@@ -2642,7 +3594,12 @@
     "animated": false,
     "rottenTomatoes": "79%",
     "nytRank": "N/A",
-    "imdbId": "tt0120689"
+    "imdbId": "tt0120689",
+    "genre": [
+      "Crime",
+      "Drama",
+      "Fantasy"
+    ]
   },
   {
     "imdbRank": 81,
@@ -2654,7 +3611,11 @@
     "animated": false,
     "rottenTomatoes": "79%",
     "nytRank": "N/A",
-    "imdbId": "tt0086250"
+    "imdbId": "tt0086250",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "title": "Ran",
@@ -2665,7 +3626,12 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0089881"
+    "imdbId": "tt0089881",
+    "genre": [
+      "Action",
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 25,
@@ -2677,7 +3643,10 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "imdbId": "tt0073486"
+    "imdbId": "tt0073486",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 63,
@@ -2689,7 +3658,12 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "imdbId": "tt0078788"
+    "imdbId": "tt0078788",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "War"
+    ]
   },
   {
     "imdbRank": 110,
@@ -2701,7 +3675,11 @@
     "animated": false,
     "rottenTomatoes": "86%",
     "nytRank": "N/A",
-    "imdbId": "tt0066921"
+    "imdbId": "tt0066921",
+    "genre": [
+      "Crime",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 198,
@@ -2713,7 +3691,12 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0071315"
+    "imdbId": "tt0071315",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 179,
@@ -2725,7 +3708,10 @@
     "animated": false,
     "rottenTomatoes": "78%",
     "nytRank": "N/A",
-    "imdbId": "tt0070047"
+    "imdbId": "tt0070047",
+    "genre": [
+      "Horror"
+    ]
   },
   {
     "imdbRank": 238,
@@ -2736,7 +3722,10 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "91%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbRank": 201,
@@ -2747,7 +3736,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "86%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ]
   },
   {
     "imdbRank": 207,
@@ -2758,7 +3752,12 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "100%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 103,
@@ -2770,7 +3769,11 @@
     "animated": false,
     "rottenTomatoes": "86%",
     "nytRank": "N/A",
-    "imdbId": "tt0087843"
+    "imdbId": "tt0087843",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 191,
@@ -2782,7 +3785,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "imdbId": "tt0081398"
+    "imdbId": "tt0081398",
+    "genre": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ]
   },
   {
     "imdbRank": 2,
@@ -2794,7 +3802,11 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
-    "imdbId": "tt0068646"
+    "imdbId": "tt0068646",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 6,
@@ -2806,7 +3818,11 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "imdbId": "tt0071562"
+    "imdbId": "tt0071562",
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 171,
@@ -2818,7 +3834,11 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "imdbId": "tt0059578"
+    "imdbId": "tt0059578",
+    "genre": [
+      "Drama",
+      "Western"
+    ]
   },
   {
     "imdbRank": 14,
@@ -2830,7 +3850,12 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
-    "imdbId": "tt0060196"
+    "imdbId": "tt0060196",
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ]
   },
   {
     "imdbRank": 230,
@@ -2841,7 +3866,12 @@
     "blackAndWhite": false,
     "animated": false,
     "rottenTomatoes": "98%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbRank": 44,
@@ -2853,7 +3883,11 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0047478"
+    "imdbId": "tt0047478",
+    "genre": [
+      "Action",
+      "Drama"
+    ]
   },
   {
     "imdbRank": 5,
@@ -2865,18 +3899,12 @@
     "animated": false,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "imdbId": "tt0108052"
-  },
-  {
-    "imdbRank": 250,
-    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
-    "year": "2020",
-    "length": "1h 57m",
-    "rating": "TV-MA",
-    "blackAndWhite": false,
-    "animated": false,
-    "rottenTomatoes": "N/A",
-    "nytRank": "N/A"
+    "imdbId": "tt0108052",
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbRank": 197,
@@ -2888,7 +3916,11 @@
     "animated": false,
     "rottenTomatoes": "86%",
     "nytRank": "N/A",
-    "imdbId": "tt0077416"
+    "imdbId": "tt0077416",
+    "genre": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "imdbRank": 45,
@@ -2900,7 +3932,12 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
-    "imdbId": "tt0054215"
+    "imdbId": "tt0054215",
+    "genre": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ]
   },
   {
     "title": "The Kid",
@@ -2911,7 +3948,12 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0012349"
+    "imdbId": "tt0012349",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ]
   },
   {
     "imdbRank": 206,
@@ -2922,7 +3964,12 @@
     "blackAndWhite": true,
     "animated": false,
     "rottenTomatoes": "92%",
-    "nytRank": "N/A"
+    "nytRank": "N/A",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbRank": 220,
@@ -2934,7 +3981,11 @@
     "animated": false,
     "rottenTomatoes": "97%",
     "nytRank": "N/A",
-    "imdbId": "tt0017136"
+    "imdbId": "tt0017136",
+    "genre": [
+      "Drama",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbRank": 181,
@@ -2946,7 +3997,12 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "imdbId": "tt0022100"
+    "imdbId": "tt0022100",
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbRank": 82,
@@ -2958,7 +4014,10 @@
     "animated": false,
     "rottenTomatoes": "78%",
     "nytRank": "N/A",
-    "imdbId": "tt0180093"
+    "imdbId": "tt0180093",
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt10811166",
@@ -2971,19 +4030,10 @@
     "animated": false,
     "rottenTomatoes": "40%",
     "nytRank": "N/A",
-    "watched": false
-  },
-  {
-    "imdbId": "tt0252487",
-    "title": "The Chaos Class",
-    "year": "1975",
-    "length": "1h 25m",
-    "rating": "Not Rated",
-    "blackAndWhite": false,
-    "animated": false,
-    "rottenTomatoes": "N/A",
-    "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt10189514",
@@ -2996,7 +4046,10 @@
     "animated": false,
     "rottenTomatoes": "67%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt0266697",
@@ -3009,7 +4062,12 @@
     "animated": false,
     "rottenTomatoes": "85%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt0119488",
@@ -3022,7 +4080,12 @@
     "animated": false,
     "rottenTomatoes": "99%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbId": "tt20850406",
@@ -3035,7 +4098,12 @@
     "animated": false,
     "rottenTomatoes": "86%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Drama",
+      "Musical"
+    ]
   },
   {
     "imdbId": "tt8110330",
@@ -3048,7 +4116,12 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbId": "tt9263550",
@@ -3060,7 +4133,11 @@
     "animated": false,
     "rottenTomatoes": "64%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt10295212",
@@ -3073,19 +4150,12 @@
     "animated": false,
     "rottenTomatoes": "50%",
     "nytRank": "N/A",
-    "watched": false
-  },
-  {
-    "imdbId": "tt33014583",
-    "title": "Dhurandhar",
-    "year": "2025",
-    "length": "3h 34m",
-    "rating": "Not Rated",
-    "blackAndWhite": false,
-    "animated": false,
-    "rottenTomatoes": "N/A",
-    "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt1424432",
@@ -3097,7 +4167,12 @@
     "animated": false,
     "rottenTomatoes": "93%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Documentary",
+      "Biography",
+      "Sport"
+    ]
   },
   {
     "imdbId": "tt10698680",
@@ -3110,7 +4185,12 @@
     "animated": false,
     "rottenTomatoes": "50%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt7466810",
@@ -3122,7 +4202,12 @@
     "animated": false,
     "rottenTomatoes": "100%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt0848228",
@@ -3135,7 +4220,11 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbId": "tt0120338",
@@ -3148,7 +4237,11 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbId": "tt2015381",
@@ -3161,7 +4254,12 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbId": "tt1431045",
@@ -3174,7 +4272,12 @@
     "animated": false,
     "rottenTomatoes": "85%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbId": "tt1160419",
@@ -3187,7 +4290,12 @@
     "animated": false,
     "rottenTomatoes": "83%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt3659388",
@@ -3200,7 +4308,12 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbId": "tt1663202",
@@ -3213,7 +4326,12 @@
     "animated": false,
     "rottenTomatoes": "78%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ]
   },
   {
     "imdbId": "tt1010048",
@@ -3226,7 +4344,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "imdbId": "tt0246578",
@@ -3239,7 +4362,12 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbId": "tt0947798",
@@ -3252,7 +4380,11 @@
     "animated": false,
     "rottenTomatoes": "85%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt2084970",
@@ -3265,7 +4397,12 @@
     "animated": false,
     "rottenTomatoes": "90%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Biography",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt0378194",
@@ -3278,7 +4415,12 @@
     "animated": false,
     "rottenTomatoes": "84%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt0401792",
@@ -3291,7 +4433,11 @@
     "animated": false,
     "rottenTomatoes": "76%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt4849438",
@@ -3303,7 +4449,11 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt3783958",
@@ -3316,7 +4466,12 @@
     "animated": false,
     "rottenTomatoes": "91%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
   },
   {
     "imdbId": "tt1856101",
@@ -3329,7 +4484,12 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ]
   },
   {
     "imdbId": "tt0381061",
@@ -3342,7 +4502,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt2338151",
@@ -3355,7 +4520,12 @@
     "animated": false,
     "rottenTomatoes": "80%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ]
   },
   {
     "imdbId": "tt1504320",
@@ -3368,7 +4538,12 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
   },
   {
     "imdbId": "tt1798709",
@@ -3381,7 +4556,12 @@
     "animated": false,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ]
   },
   {
     "imdbId": "tt0440963",
@@ -3394,7 +4574,12 @@
     "animated": false,
     "rottenTomatoes": "92%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt0114746",
@@ -3407,7 +4592,12 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt2948356",
@@ -3420,7 +4610,12 @@
     "animated": true,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "imdbId": "tt0450259",
@@ -3433,7 +4628,12 @@
     "animated": false,
     "rottenTomatoes": "64%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "imdbId": "tt0454921",
@@ -3446,7 +4646,11 @@
     "animated": false,
     "rottenTomatoes": "67%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Biography",
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt0095953",
@@ -3459,7 +4663,10 @@
     "animated": false,
     "rottenTomatoes": "88%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt0101414",
@@ -3472,7 +4679,12 @@
     "animated": true,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "imdbId": "tt0103639",
@@ -3485,7 +4697,12 @@
     "animated": true,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbId": "tt0093779",
@@ -3498,7 +4715,12 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ]
   },
   {
     "imdbId": "tt2948372",
@@ -3511,7 +4733,12 @@
     "animated": true,
     "rottenTomatoes": "95%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "imdbId": "tt0079470",
@@ -3524,7 +4751,10 @@
     "animated": false,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Comedy"
+    ]
   },
   {
     "imdbId": "tt0499549",
@@ -3537,7 +4767,12 @@
     "animated": false,
     "rottenTomatoes": "81%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "imdbId": "tt0105323",
@@ -3550,7 +4785,10 @@
     "animated": false,
     "rottenTomatoes": "82%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "imdbId": "tt0371746",
@@ -3563,6 +4801,11 @@
     "animated": false,
     "rottenTomatoes": "94%",
     "nytRank": "N/A",
-    "watched": false
+    "watched": false,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ]
   }
 ]

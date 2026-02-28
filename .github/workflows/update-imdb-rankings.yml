@@ -32,6 +32,11 @@ jobs:
         env:
           OMDBAPIKEY: ${{ secrets.OMDB_API_KEY }}
 
+      - name: Run auxiliary changes
+        run: node scripts/fetch-rotten.js
+        env:
+          OMDBAPIKEY: ${{ secrets.OMDB_API_KEY }}
+
       - name: Check for changes
         id: changes
         run: |
