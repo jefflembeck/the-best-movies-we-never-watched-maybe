@@ -1,0 +1,51 @@
+name: Update Movie List
+
+on:
+  push:
+    branches: [latest]
+    paths:
+      - "src/data/movies.json"
+      - "src/lib/**"
+      - "src/index.ts"
+      - "src/types/**"
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate movie list
+        run: npm run create-list
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet MOVIES.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push updated MOVIES.md
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add MOVIES.md
+          git commit -m "chore: update MOVIES.md with latest rankings"
+          git push
