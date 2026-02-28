@@ -43,6 +43,10 @@ async function fetchOMDbData() {
           ? data.Ratings.find((r) => r.Source === "Rotten Tomatoes")
           : null;
 
+        if (!rtEntry) {
+          console.log(`  No RT result for ${data.Title}`);
+        }
+
         if (rtEntry) {
           movie.rottenTomatoes = rtEntry.Value;
           rtUpdates++;
