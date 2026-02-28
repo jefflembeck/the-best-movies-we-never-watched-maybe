@@ -13,6 +13,28 @@ const TOP_N = 250;
 
 const MOVIES_PATH = path.join(__dirname, "..", "src", "data", "movies.json");
 const SUMMARY_PATH = path.join(__dirname, "..", "update-summary.json");
+const OMDB_API_KEY = process.env.OMDBAPIKEY;
+
+/**
+ * Fetch the MPAA rating for a movie from OMDb by IMDb ID.
+ * Returns the rating string (e.g. "PG-13") or "Not Rated" if unavailable.
+ */
+async function fetchMPAARating(imdbId) {
+  if (!OMDB_API_KEY) return "Not Rated";
+
+  try {
+    const params = new URLSearchParams({ apikey: OMDB_API_KEY, i: imdbId });
+    const response = await fetch(`http://www.omdbapi.com/?${params}`);
+    const data = await response.json();
+
+    if (data.Response !== "False" && data.Rated && data.Rated !== "N/A" && data.Rated !== "Not Rated" && data.Rated !== "Unrated") {
+      return data.Rated;
+    }
+  } catch (err) {
+    console.log(`    Warning: OMDb lookup failed for ${imdbId}: ${err.message}`);
+  }
+  return "Not Rated";
+}
 
 /**
  * Download a gzipped TSV from a URL and call handler for each data row.
@@ -211,6 +233,12 @@ async function main() {
   }
 
   // Step 7: Add new movies entering the Top 250
+  if (OMDB_API_KEY) {
+    console.log("\n  OMDb API key found — will fetch MPAA ratings for new movies");
+  } else {
+    console.log("\n  No OMDb API key — new movies will default to 'Not Rated'");
+  }
+
   for (const entry of top250) {
     if (!matchedImdbIds.has(entry.tconst)) {
       const runtime =
@@ -218,13 +246,15 @@ async function main() {
           ? formatRuntime(parseInt(entry.runtimeMinutes, 10))
           : "N/A";
 
+      const rating = await fetchMPAARating(entry.tconst);
+
       const newMovie = {
         imdbId: entry.tconst,
         imdbRank: top250.indexOf(entry) + 1,
         title: entry.title,
         year: entry.year,
         length: runtime,
-        rating: "Not Rated",
+        rating,
         blackAndWhite: false,
         animated: false,
         rottenTomatoes: "N/A",
@@ -233,8 +263,9 @@ async function main() {
       };
 
       existingMovies.push(newMovie);
+      const ratingNote = rating !== "Not Rated" ? ` [${rating}]` : " [needs rating]";
       newMovies.push(
-        `"${entry.title}" (${entry.year}) — NEW at #${top250.indexOf(entry) + 1}`
+        `"${entry.title}" (${entry.year}) — NEW at #${top250.indexOf(entry) + 1}${ratingNote}`
       );
     }
   }
