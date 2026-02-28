@@ -636,7 +636,7 @@ This is the list of movies!
 
 
 ### #90: Your Name. (2016)
-- **MPAA Rating:** undefined
+- **MPAA Rating:** TV-PG
 - **Runtime:** 1h 46m
 - **Black and White:** false
 - **Animated:** true
@@ -1275,17 +1275,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #155: Das Boot (1981)
-- **MPAA Rating:** undefined
-- **Runtime:** 2h 29m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 98%
-- **IMDB:** 107
-- **NYT:** N/A
-
-
-### #156: The Pianist (2002)
+### #155: The Pianist (2002)
 - **MPAA Rating:** R
 - **Runtime:** 2h 30m
 - **Black and White:** false
@@ -1295,7 +1285,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #157: Prisoners (2013)
+### #156: Prisoners (2013)
 - **MPAA Rating:** R
 - **Runtime:** 2h 33m
 - **Black and White:** false
@@ -1305,7 +1295,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #158: The Battle of Algiers (1966)
+### #157: The Battle of Algiers (1966)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 1m
 - **Black and White:** false
@@ -1315,7 +1305,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #159: The Silence of the Lambs (1991)
+### #158: The Silence of the Lambs (1991)
 - **MPAA Rating:** R
 - **Runtime:** 1h 58m
 - **Black and White:** false
@@ -1325,7 +1315,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #160: There Will Be Blood (2007)
+### #159: There Will Be Blood (2007)
 - **MPAA Rating:** R
 - **Runtime:** 2h 38m
 - **Black and White:** false
@@ -1335,17 +1325,7 @@ This is the list of movies!
 - **NYT:** 3
 
 
-### #161: Inglourious Basterds (2009)
-- **MPAA Rating:** R
-- **Runtime:** 2h 33m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 89%
-- **IMDB:** 55
-- **NYT:** 14
-
-
-### #162: The Usual Suspects (1995)
+### #160: The Usual Suspects (1995)
 - **MPAA Rating:** R
 - **Runtime:** 1h 46m
 - **Black and White:** false
@@ -1355,7 +1335,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #163: The Secret in Their Eyes (2009)
+### #161: The Secret in Their Eyes (2009)
 - **MPAA Rating:** R
 - **Runtime:** 2h 9m
 - **Black and White:** false
@@ -1365,7 +1345,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #164: American History X (1998)
+### #162: American History X (1998)
 - **MPAA Rating:** R
 - **Runtime:** 1h 59m
 - **Black and White:** false
@@ -1375,7 +1355,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #165: Reservoir Dogs (1992)
+### #163: Reservoir Dogs (1992)
 - **MPAA Rating:** R
 - **Runtime:** 1h 39m
 - **Black and White:** false
@@ -1385,7 +1365,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #166: Léon: The Professional (1994)
+### #164: Léon: The Professional (1994)
 - **MPAA Rating:** R
 - **Runtime:** 1h 50m
 - **Black and White:** false
@@ -1395,7 +1375,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #167: V for Vendetta (2005)
+### #165: V for Vendetta (2005)
 - **MPAA Rating:** R
 - **Runtime:** 2h 12m
 - **Black and White:** false
@@ -1405,17 +1385,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #168: The Departed (2006)
-- **MPAA Rating:** R
-- **Runtime:** 2h 31m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 91%
-- **IMDB:** 34
-- **NYT:** 31
-
-
-### #169: Into the Wild (2007)
+### #166: Into the Wild (2007)
 - **MPAA Rating:** R
 - **Runtime:** 2h 28m
 - **Black and White:** false
@@ -1425,17 +1395,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #170: The Chaos Class Failed the Class (1975)
-- **MPAA Rating:** undefined
-- **Runtime:** 1h 35m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** N/A
-- **IMDB:** 101
-- **NYT:** N/A
-
-
-### #171: Fargo (1996)
+### #167: Fargo (1996)
 - **MPAA Rating:** R
 - **Runtime:** 1h 38m
 - **Black and White:** false
@@ -1445,7 +1405,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #172: Before Sunrise (1995)
+### #168: Before Sunrise (1995)
 - **MPAA Rating:** R
 - **Runtime:** 1h 41m
 - **Black and White:** false
@@ -1455,7 +1415,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #173: Trainspotting (1996)
+### #169: Trainspotting (1996)
 - **MPAA Rating:** R
 - **Runtime:** 1h 33m
 - **Black and White:** false
@@ -1465,7 +1425,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #174: The Big Lebowski (1998)
+### #170: The Big Lebowski (1998)
 - **MPAA Rating:** R
 - **Runtime:** 1h 57m
 - **Black and White:** false
@@ -1475,17 +1435,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #175: Lock, Stock and Two Smoking Barrels (1998)
-- **MPAA Rating:** R
-- **Runtime:** 1h 47m
-- **Black and White:** false
-- **Animated:** false
-- **RT:** 75%
-- **IMDB:** 184
-- **NYT:** N/A
-
-
-### #176: Judgment at Nuremberg (1961)
+### #171: Judgment at Nuremberg (1961)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 59m
 - **Black and White:** true
@@ -1495,7 +1445,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #177: Stand by Me (1986)
+### #172: Stand by Me (1986)
 - **MPAA Rating:** R
 - **Runtime:** 1h 29m
 - **Black and White:** false
@@ -1505,7 +1455,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #178: Some Like It Hot (1959)
+### #173: Some Like It Hot (1959)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 1m
 - **Black and White:** true
@@ -1515,17 +1465,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #179: All About Eve (1950)
-- **MPAA Rating:** Approved
-- **Runtime:** 2h 18m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 99%
-- **IMDB:** 215
-- **NYT:** N/A
-
-
-### #180: Double Indemnity (1944)
+### #174: Double Indemnity (1944)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 47m
 - **Black and White:** true
@@ -1535,7 +1475,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #181: The Third Man (1949)
+### #175: The Third Man (1949)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 44m
 - **Black and White:** true
@@ -1545,7 +1485,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #182: Gladiator (2000)
+### #176: Gladiator (2000)
 - **MPAA Rating:** R
 - **Runtime:** 2h 35m
 - **Black and White:** false
@@ -1555,13 +1495,73 @@ This is the list of movies!
 - **NYT:** 92
 
 
-### #183: Yojimbo (1961)
+### #177: Yojimbo (1961)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 1h 50m
 - **Black and White:** true
 - **Animated:** false
 - **RT:** 96%
 - **IMDB:** 224
+- **NYT:** N/A
+
+
+### #178: Das Boot (1981)
+- **MPAA Rating:** R
+- **Runtime:** 2h 29m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 98%
+- **IMDB:** 107
+- **NYT:** N/A
+
+
+### #179: The Chaos Class Failed the Class (1975)
+- **MPAA Rating:** undefined
+- **Runtime:** 1h 35m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** N/A
+- **IMDB:** 101
+- **NYT:** N/A
+
+
+### #180: Inglourious Basterds (2009)
+- **MPAA Rating:** R
+- **Runtime:** 2h 33m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 89%
+- **IMDB:** 55
+- **NYT:** 14
+
+
+### #181: The Departed (2006)
+- **MPAA Rating:** R
+- **Runtime:** 2h 31m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 91%
+- **IMDB:** 34
+- **NYT:** 31
+
+
+### #182: Lock, Stock and Two Smoking Barrels (1998)
+- **MPAA Rating:** R
+- **Runtime:** 1h 47m
+- **Black and White:** false
+- **Animated:** false
+- **RT:** 75%
+- **IMDB:** 184
+- **NYT:** N/A
+
+
+### #183: All About Eve (1950)
+- **MPAA Rating:** Approved
+- **Runtime:** 2h 18m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 99%
+- **IMDB:** 215
 - **NYT:** N/A
 
 
@@ -2205,23 +2205,23 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #248: Metropolis (1927)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 33m
-- **Black and White:** true
-- **Animated:** false
-- **RT:** 97%
-- **IMDB:** 193
-- **NYT:** N/A
-
-
-### #249: M (1931)
+### #248: M (1931)
 - **MPAA Rating:** Passed
 - **Runtime:** 1h 39m
 - **Black and White:** true
 - **Animated:** false
 - **RT:** 100%
 - **IMDB:** 143
+- **NYT:** N/A
+
+
+### #249: Metropolis (1927)
+- **MPAA Rating:** Passed
+- **Runtime:** 2h 33m
+- **Black and White:** true
+- **Animated:** false
+- **RT:** 97%
+- **IMDB:** 193
 - **NYT:** N/A
 
 
@@ -2256,7 +2256,7 @@ This is the list of movies!
 
 
 ### #253: Soorarai Pottru (2020)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** TV-MA
 - **Runtime:** 2h 33m
 - **Black and White:** false
 - **Animated:** false
@@ -2266,7 +2266,7 @@ This is the list of movies!
 
 
 ### #254: Kill Bill: Vol. 1 (2003)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 1h 51m
 - **Black and White:** false
 - **Animated:** false
@@ -2276,7 +2276,7 @@ This is the list of movies!
 
 
 ### #255: L.A. Confidential (1997)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 2h 18m
 - **Black and White:** false
 - **Animated:** false
@@ -2316,7 +2316,7 @@ This is the list of movies!
 
 
 ### #259: Shershaah (2021)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** TV-14
 - **Runtime:** 2h 15m
 - **Black and White:** false
 - **Animated:** false
@@ -2336,7 +2336,7 @@ This is the list of movies!
 
 
 ### #261: Senna (2010)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 1h 46m
 - **Black and White:** false
 - **Animated:** false
@@ -2366,7 +2366,7 @@ This is the list of movies!
 
 
 ### #264: The Avengers (2012)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 2h 23m
 - **Black and White:** false
 - **Animated:** false
@@ -2376,7 +2376,7 @@ This is the list of movies!
 
 
 ### #265: Titanic (1997)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 3h 14m
 - **Black and White:** false
 - **Animated:** false
@@ -2386,7 +2386,7 @@ This is the list of movies!
 
 
 ### #266: Guardians of the Galaxy (2014)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 2h 1m
 - **Black and White:** false
 - **Animated:** false
@@ -2396,7 +2396,7 @@ This is the list of movies!
 
 
 ### #267: Deadpool (2016)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 1h 48m
 - **Black and White:** false
 - **Animated:** false
@@ -2406,7 +2406,7 @@ This is the list of movies!
 
 
 ### #268: Dune: Part One (2021)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 2h 35m
 - **Black and White:** false
 - **Animated:** false
@@ -2416,7 +2416,7 @@ This is the list of movies!
 
 
 ### #269: The Martian (2015)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 2h 24m
 - **Black and White:** false
 - **Animated:** false
@@ -2426,7 +2426,7 @@ This is the list of movies!
 
 
 ### #270: The Revenant (2015)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 2h 36m
 - **Black and White:** false
 - **Animated:** false
@@ -2436,7 +2436,7 @@ This is the list of movies!
 
 
 ### #271: Slumdog Millionaire (2008)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 2h 0m
 - **Black and White:** false
 - **Animated:** false
@@ -2446,7 +2446,7 @@ This is the list of movies!
 
 
 ### #272: Donnie Darko (2001)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 1h 53m
 - **Black and White:** false
 - **Animated:** false
@@ -2456,7 +2456,7 @@ This is the list of movies!
 
 
 ### #273: Black Swan (2010)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 1h 48m
 - **Black and White:** false
 - **Animated:** false
@@ -2466,7 +2466,7 @@ This is the list of movies!
 
 
 ### #274: The Imitation Game (2014)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 1h 54m
 - **Black and White:** false
 - **Animated:** false
@@ -2476,7 +2476,7 @@ This is the list of movies!
 
 
 ### #275: Kill Bill: Vol. 2 (2004)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 2h 17m
 - **Black and White:** false
 - **Animated:** false
@@ -2486,7 +2486,7 @@ This is the list of movies!
 
 
 ### #276: Sin City (2005)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 2h 4m
 - **Black and White:** false
 - **Animated:** false
@@ -2506,7 +2506,7 @@ This is the list of movies!
 
 
 ### #278: La La Land (2016)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 2h 8m
 - **Black and White:** false
 - **Animated:** false
@@ -2516,7 +2516,7 @@ This is the list of movies!
 
 
 ### #279: Blade Runner 2049 (2017)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 2h 44m
 - **Black and White:** false
 - **Animated:** false
@@ -2526,7 +2526,7 @@ This is the list of movies!
 
 
 ### #280: Casino Royale (2006)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** PG-13
 - **Runtime:** 2h 24m
 - **Black and White:** false
 - **Animated:** false
@@ -2546,7 +2546,7 @@ This is the list of movies!
 
 
 ### #282: The King's Speech (2010)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 1h 58m
 - **Black and White:** false
 - **Animated:** false
@@ -2556,7 +2556,7 @@ This is the list of movies!
 
 
 ### #283: Her (2013)
-- **MPAA Rating:** Not Rated
+- **MPAA Rating:** R
 - **Runtime:** 2h 6m
 - **Black and White:** false
 - **Animated:** false
