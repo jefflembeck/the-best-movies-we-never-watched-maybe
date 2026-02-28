@@ -20,7 +20,7 @@ async function fetchOMDbData() {
     const { title, year } = movie;
 
     // Use IMDb ID for lookup when available (more reliable), fall back to title+year
-    const params = new URLSearchParams({ apikey: API_KEY });
+    const params = new URLSearchParams({ apikey: API_KEY, tomatoes: "true" });
     if (movie.imdbId) {
       params.set("i", movie.imdbId);
     } else {
