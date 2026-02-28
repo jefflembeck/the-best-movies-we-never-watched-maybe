@@ -50,8 +50,8 @@ async function fetchOMDbData() {
         }
       }
 
-      // Update MPAA rating if currently "Not Rated" and OMDb has a real rating
-      if (movie.rating === "Not Rated" && data.Rated && data.Rated !== "N/A" && data.Rated !== "Not Rated" && data.Rated !== "Unrated") {
+      // Update MPAA rating if missing or "Not Rated" and OMDb has a real rating
+      if ((!movie.rating || movie.rating === "Not Rated") && data.Rated && data.Rated !== "N/A" && data.Rated !== "Not Rated" && data.Rated !== "Unrated") {
         const oldRating = movie.rating;
         movie.rating = data.Rated;
         ratingUpdates++;
