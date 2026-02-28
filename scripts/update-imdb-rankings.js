@@ -270,6 +270,23 @@ async function main() {
     }
   }
 
+  // Step 7b: Backfill MPAA ratings for existing movies missing them
+  if (OMDB_API_KEY) {
+    const needsRating = existingMovies.filter(
+      (m) => (!m.rating || m.rating === "Not Rated") && m.imdbId
+    );
+    if (needsRating.length > 0) {
+      console.log(`\n  Backfilling MPAA ratings for ${needsRating.length} existing movies...`);
+      for (const movie of needsRating) {
+        const rating = await fetchMPAARating(movie.imdbId);
+        if (rating !== "Not Rated") {
+          console.log(`    MPAA: "${movie.title}" -> ${rating}`);
+          movie.rating = rating;
+        }
+      }
+    }
+  }
+
   // Step 8: Write updated movies.json
   fs.writeFileSync(MOVIES_PATH, JSON.stringify(existingMovies, null, 2) + "\n");
 
