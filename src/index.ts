@@ -160,10 +160,17 @@ outputList(unwatched, watched);
 
 function formatMovieEntry(movie: RankedMovie): string {
   const badges: string[] = [];
-  if (movie.onCanonicalList) {
-    if (movie.imdbId && criterionSet.has(movie.imdbId)) badges.push("Criterion Collection");
-    if (movie.nytRank && movie.nytRank !== "N/A") badges.push(`NYT #${movie.nytRank}`);
-  }
+  if (movie.imdbId && criterionSet.has(movie.imdbId)) badges.push("Criterion Collection");
+
+  const ssRankVal = movie.imdbId ? sightAndSoundRank.get(movie.imdbId) : undefined;
+  if (ssRankVal !== undefined) badges.push(`Sight & Sound #${ssRankVal}`);
+
+  const afiRankVal = movie.imdbId ? afiRank.get(movie.imdbId) : undefined;
+  if (afiRankVal !== undefined) badges.push(`AFI #${afiRankVal}`);
+
+  if (movie.nytRank && movie.nytRank !== "N/A") badges.push(`NYT #${movie.nytRank}`);
+  if (movie.rottenTomatoes && movie.rottenTomatoes !== "N/A") badges.push(`RT ${movie.rottenTomatoes}`);
+  if (movie.imdbRank !== undefined) badges.push(`IMDB #${movie.imdbRank}`);
 
   const badgeLine = badges.length > 0 ? `- **Notable:** ${badges.join(" · ")}\n` : "";
   const genreLine =
@@ -176,9 +183,7 @@ function formatMovieEntry(movie: RankedMovie): string {
 - **Runtime:** ${movie.length}
 - **Black and White:** ${movie.blackAndWhite}
 - **Animated:** ${movie.animated}
-${genreLine}- **RT:** ${movie.rottenTomatoes}
-- **IMDB:** ${movie.imdbRank}
-- **NYT:** ${movie.nytRank}
+${genreLine}
 ${badgeLine}`;
 }
 
