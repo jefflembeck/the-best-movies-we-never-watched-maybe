@@ -9,7 +9,7 @@ const readline = require("readline");
 const IMDB_RATINGS_URL = "https://datasets.imdbws.com/title.ratings.tsv.gz";
 const IMDB_BASICS_URL = "https://datasets.imdbws.com/title.basics.tsv.gz";
 const MIN_VOTES = 50000;
-const TOP_N = 250;
+const TOP_N = 500;
 
 const MOVIES_PATH = path.join(__dirname, "..", "src", "data", "movies.json");
 const SUMMARY_PATH = path.join(__dirname, "..", "update-summary.json");

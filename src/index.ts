@@ -1,16 +1,14 @@
 import * as path from "node:path";
 import { readFileSync, writeFileSync } from "node:fs";
 import { Movie } from "./types/movie";
-import { IMDBRanker } from "./lib/imdb-ranker";
 import { DecadeRanker } from "./lib/decade-ranker";
 import { LengthRanker } from "./lib/length-ranker";
 import { RatingRanker } from "./lib/rating-ranker";
 import { BlackAndWhiteRanker } from "./lib/black-and-white-ranker";
 import { AnimationRanker } from "./lib/animation-ranker";
-import { RottenTomatoesRanker } from "./lib/rotten-tomato-ranker";
-import { NYTRanker } from "./lib/nyt-ranker";
 import { IRanker } from "./lib/iranker";
 
+const POOL_SIZE = 250;
 
 function partition<T>(
   array: T[],
@@ -25,57 +23,109 @@ function partition<T>(
 }
 
 interface ScoredMovie extends Movie {
-  totalScore: number;
+  qualityScore: number;
+  accessibilityScore: number;
+  onCanonicalList: boolean;
 }
 
 interface RankedMovie extends ScoredMovie {
   overallRank: number;
 }
 
+// ─── Load movie and canonical list data ───────────────────────────────────────
+
 const moviesFile = readFileSync(path.join(__dirname, "data", "movies.json"), {
   encoding: "utf8",
 });
 const movies: Movie[] = JSON.parse(moviesFile);
 
-const rankedMovies: RankedMovie[] = movies
-  .filter((m: Movie) => Boolean(m.imdbRank))
-  .map((m: Movie) => {
-    return { ...m, totalScore: scoreMovie(m) };
-  }).sort((a: ScoredMovie, b) => {
-    return a.totalScore - b.totalScore;
-  }).map((m: ScoredMovie, index) => {
-    return {...m, overallRank: index + 1 };
-  });
+interface CanonicalEntry {
+  imdbId: string;
+  title: string;
+  year: number;
+  rank?: number;
+}
 
-const [watched, unwatched] = partition(rankedMovies, (m) => !!m.watched);
+const sightAndSoundList: CanonicalEntry[] = JSON.parse(
+  readFileSync(path.join(__dirname, "data", "sight-and-sound.json"), { encoding: "utf8" })
+);
+const afiList: CanonicalEntry[] = JSON.parse(
+  readFileSync(path.join(__dirname, "data", "afi.json"), { encoding: "utf8" })
+);
+const criterionList: { imdbId: string; title: string; year: number }[] = JSON.parse(
+  readFileSync(path.join(__dirname, "data", "criterion.json"), { encoding: "utf8" })
+);
 
-outputList(unwatched, watched);
+// Build lookup maps by imdbId for O(1) access
+const sightAndSoundRank = new Map<string, number>(
+  sightAndSoundList.map((e) => [e.imdbId, e.rank!])
+);
+const afiRank = new Map<string, number>(
+  afiList.map((e) => [e.imdbId, e.rank!])
+);
+const criterionSet = new Set<string>(criterionList.map((e) => e.imdbId));
 
-function scoreMovie(m: Movie): number {
-  const imdbScore = getScoreForAttribute(m.imdbRank, new IMDBRanker());
-  const decadeScore = getScoreForAttribute(m.year, new DecadeRanker());
-  const lengthScore = getScoreForAttribute(m.length, new LengthRanker());
-  const ratingScore = getScoreForAttribute(m.rating, new RatingRanker());
-  const blackAndWhiteScore = getScoreForAttribute(
-    m.blackAndWhite,
-    new BlackAndWhiteRanker(),
-  );
-  const animatedScore = getScoreForAttribute(m.animated, new AnimationRanker());
-  const rtScore = getScoreForAttribute(
-    m.rottenTomatoes,
-    new RottenTomatoesRanker(),
-  );
-  const nytScore = getScoreForAttribute(m.nytRank, new NYTRanker());
+// ─── Stage 1: Quality scoring ─────────────────────────────────────────────────
+// Answers: "Is this film culturally significant enough to be in the pool?"
+// Lower score = more canonical. Take top POOL_SIZE films.
+//
+// Signals and weights:
+//   Sight & Sound rank  weight 3.0   rank/250 (0.004–1.0), not listed → 1.5
+//   Criterion           weight 2.5   listed → 0, not listed → 1.0
+//   AFI rank            weight 2.0   rank/100 (0.01–1.0), not listed → 1.5
+//   NYT rank            weight 2.0   rank/100 (0.01–1.0), not ranked → 1.0
+//   RT score            weight 1.5   (100-score)/100 (0–1.0), unknown → 0.5
+//   IMDb rank           weight 1.0   rank/500 (0.002–1.0), not ranked → 1.5
 
+function qualityScore(m: Movie): number {
+  const id = m.imdbId;
+
+  // Sight & Sound
+  const ssRank = id ? sightAndSoundRank.get(id) : undefined;
+  const ssScore = ssRank !== undefined ? (ssRank / 250) * 3.0 : 1.5 * 3.0;
+
+  // Criterion
+  const criterionScore = id && criterionSet.has(id) ? 0 : 1.0 * 2.5;
+
+  // AFI
+  const afRank = id ? afiRank.get(id) : undefined;
+  const afiScore = afRank !== undefined ? (afRank / 100) * 2.0 : 1.5 * 2.0;
+
+  // NYT
+  const nytVal = m.nytRank;
+  const nytScore =
+    !nytVal || nytVal === "N/A"
+      ? 1.0 * 2.0
+      : (parseFloat(nytVal) / 100) * 2.0;
+
+  // Rotten Tomatoes
+  const rtVal = m.rottenTomatoes;
+  let rtScore: number;
+  if (!rtVal || rtVal === "N/A") {
+    rtScore = 0.5 * 1.5;
+  } else {
+    const pct = parseFloat(rtVal);
+    rtScore = Number.isNaN(pct) ? 0.5 * 1.5 : (1 - pct / 100) * 1.5;
+  }
+
+  // IMDb
+  const imdbScore =
+    m.imdbRank !== undefined ? (m.imdbRank / 500) * 1.0 : 1.5 * 1.0;
+
+  return ssScore + criterionScore + afiScore + nytScore + rtScore + imdbScore;
+}
+
+// ─── Stage 2: Accessibility scoring ──────────────────────────────────────────
+// Answers: "In what order should we watch these for a preteen?"
+// Lower score = more accessible / watch sooner.
+
+function accessibilityScore(m: Movie): number {
   return (
-    imdbScore +
-    decadeScore +
-    lengthScore +
-    ratingScore +
-    blackAndWhiteScore +
-    animatedScore +
-    rtScore +
-    nytScore
+    getScoreForAttribute(m.rating, new RatingRanker()) +
+    getScoreForAttribute(m.length, new LengthRanker()) +
+    getScoreForAttribute(m.year, new DecadeRanker()) +
+    getScoreForAttribute(m.blackAndWhite, new BlackAndWhiteRanker()) +
+    getScoreForAttribute(m.animated, new AnimationRanker())
   );
 }
 
@@ -83,38 +133,71 @@ function getScoreForAttribute(attribute: any, ranker: IRanker) {
   return ranker.rawToScore(attribute) * ranker.multiplier;
 }
 
+// Stage 1: Quality-score all movies, take top POOL_SIZE
+const scoredPool: ScoredMovie[] = movies
+  .map((m: Movie) => ({
+    ...m,
+    qualityScore: qualityScore(m),
+    accessibilityScore: accessibilityScore(m),
+    onCanonicalList: !!(
+      m.imdbId &&
+      (sightAndSoundRank.has(m.imdbId) ||
+        afiRank.has(m.imdbId) ||
+        criterionSet.has(m.imdbId))
+    ),
+  }))
+  .sort((a, b) => a.qualityScore - b.qualityScore)
+  .slice(0, POOL_SIZE);
+
+// Stage 2: Sort that pool by accessibility for a preteen viewer
+const rankedMovies: RankedMovie[] = scoredPool
+  .sort((a, b) => a.accessibilityScore - b.accessibilityScore)
+  .map((m: ScoredMovie, index) => ({ ...m, overallRank: index + 1 }));
+
+const [watched, unwatched] = partition(rankedMovies, (m) => !!m.watched);
+
+outputList(unwatched, watched);
+
+function formatMovieEntry(movie: RankedMovie): string {
+  const badges: string[] = [];
+  if (movie.onCanonicalList) {
+    if (movie.imdbId && criterionSet.has(movie.imdbId)) badges.push("Criterion Collection");
+    if (movie.nytRank && movie.nytRank !== "N/A") badges.push(`NYT #${movie.nytRank}`);
+  }
+
+  const badgeLine = badges.length > 0 ? `- **Notable:** ${badges.join(" · ")}\n` : "";
+  const genreLine =
+    movie.genre && movie.genre.length > 0
+      ? `- **Genre:** ${movie.genre.join(", ")}\n`
+      : "";
+
+  return `### #${movie.overallRank}: ${movie.title} (${movie.year})
+- **MPAA Rating:** ${movie.rating}
+- **Runtime:** ${movie.length}
+- **Black and White:** ${movie.blackAndWhite}
+- **Animated:** ${movie.animated}
+${genreLine}- **RT:** ${movie.rottenTomatoes}
+- **IMDB:** ${movie.imdbRank}
+- **NYT:** ${movie.nytRank}
+${badgeLine}`;
+}
+
 function outputList(sortedMovies: RankedMovie[], watched: RankedMovie[]) {
-  const open = `
-# Movies
+  const open = `# Movies
 
 This is the list of movies!
 
 `;
 
-  const movies = sortedMovies.map((movie: RankedMovie) => {
-    return `### #${movie.overallRank}: ${movie.title} (${movie.year})
-- **MPAA Rating:** ${movie.rating}
-- **Runtime:** ${movie.length}
-- **Black and White:** ${movie.blackAndWhite}
-- **Animated:** ${movie.animated}
-- **RT:** ${movie.rottenTomatoes}
-- **IMDB:** ${movie.imdbRank}
-- **NYT:** ${movie.nytRank}
-`
-  });
+  const unwatchedEntries = sortedMovies.map(formatMovieEntry);
+  const watchedEntries = watched.map(formatMovieEntry);
 
-  const watchedMovies = watched.map((movie: RankedMovie) => {
-    return `### #${movie.overallRank}: ${movie.title} (${movie.year})
-- **MPAA Rating:** ${movie.rating}
-- **Runtime:** ${movie.length}
-- **Black and White:** ${movie.blackAndWhite}
-- **Animated:** ${movie.animated}
-- **RT:** ${movie.rottenTomatoes}
-- **IMDB:** ${movie.imdbRank}
-- **NYT:** ${movie.nytRank}
-`
-  });
-    
-
-  writeFileSync("MOVIES.md", open + `## Unwatched` + `\n\n` + movies.join('\n\n') + '\n\n' + `## Watched` + `\n\n` + watchedMovies.join('\n\n'));
+  writeFileSync(
+    "MOVIES.md",
+    open +
+      `## Unwatched\n\n*${POOL_SIZE} films sorted by accessibility — most appropriate for a preteen first.*\n\n` +
+      unwatchedEntries.join("\n\n") +
+      `\n\n## Watched\n\n` +
+      watchedEntries.join("\n\n")
+  );
 }
