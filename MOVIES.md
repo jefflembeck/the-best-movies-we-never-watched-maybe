@@ -172,7 +172,30 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #25: 2001: A Space Odyssey (1968)
+### #25: Planet of the Apes (1968)
+- **MPAA Rating:** G
+- **Runtime:** 1h 52m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Adventure, Sci-Fi
+- **RT:** 86%
+- **IMDB:** 314
+- **NYT:** N/A
+
+
+### #26: In the Mood for Love (2000)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 38m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Drama, Romance
+- **RT:** 92%
+- **IMDB:** 332
+- **NYT:** N/A
+- **Notable:** Criterion Collection
+
+
+### #27: 2001: A Space Odyssey (1968)
 - **MPAA Rating:** G
 - **Runtime:** 2h 29m
 - **Black and White:** false
@@ -184,7 +207,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection
 
 
-### #26: Singin' in the Rain (1952)
+### #28: Singin' in the Rain (1952)
 - **MPAA Rating:** G
 - **Runtime:** 1h 43m
 - **Black and White:** false
@@ -195,7 +218,19 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #29: The Sound of Music (1965)
+### #31: Castle in the Sky (1986)
+- **MPAA Rating:** PG
+- **Runtime:** 2h 4m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Family
+- **RT:** 96%
+- **IMDB:** 324
+- **NYT:** N/A
+- **Notable:** Criterion Collection
+
+
+### #32: The Sound of Music (1965)
 - **MPAA Rating:** G
 - **Runtime:** 2h 52m
 - **Black and White:** false
@@ -206,7 +241,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #30: Like Stars on Earth (2007)
+### #33: Like Stars on Earth (2007)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 42m
 - **Black and White:** false
@@ -217,7 +252,18 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #33: The Princess Bride (1987)
+### #34: E.T. the Extra-Terrestrial (1982)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 55m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Adventure, Family, Sci-Fi
+- **RT:** 99%
+- **IMDB:** 302
+- **NYT:** N/A
+
+
+### #37: The Princess Bride (1987)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 38m
 - **Black and White:** false
@@ -228,7 +274,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #34: The Wizard of Oz (1939)
+### #38: The Wizard of Oz (1939)
 - **MPAA Rating:** G
 - **Runtime:** 1h 42m
 - **Black and White:** false
@@ -239,7 +285,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #37: Dead Poets Society (1989)
+### #41: Dead Poets Society (1989)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 8m
 - **Black and White:** false
@@ -250,7 +296,18 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #38: Rocky (1976)
+### #42: Annie Hall (1977)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 33m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Comedy, Romance
+- **RT:** 97%
+- **IMDB:** 342
+- **NYT:** N/A
+
+
+### #43: Rocky (1976)
 - **MPAA Rating:** PG
 - **Runtime:** 2h
 - **Black and White:** false
@@ -261,7 +318,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #40: The Father (2020)
+### #45: The Father (2020)
 - **MPAA Rating:** PG-13
 - **Runtime:** 1h 37m
 - **Black and White:** false
@@ -272,18 +329,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #41: The Imitation Game (2014)
-- **MPAA Rating:** PG-13
-- **Runtime:** 1h 54m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Biography, Drama, Thriller
-- **RT:** 90%
-- **IMDB:** 209
-- **NYT:** N/A
-
-
-### #42: Ben-Hur (1959)
+### #46: Ben-Hur (1959)
 - **MPAA Rating:** G
 - **Runtime:** 3h 32m
 - **Black and White:** false
@@ -294,7 +340,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #43: City Lights (1931)
+### #47: City Lights (1931)
 - **MPAA Rating:** G
 - **Runtime:** 1h 27m
 - **Black and White:** true
@@ -305,7 +351,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #44: Modern Times (1936)
+### #48: Modern Times (1936)
 - **MPAA Rating:** G
 - **Runtime:** 1h 27m
 - **Black and White:** true
@@ -316,7 +362,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #45: Cinema Paradiso (1988)
+### #49: Cinema Paradiso (1988)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 54m
 - **Black and White:** false
@@ -327,7 +373,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #46: Amadeus (1984)
+### #50: Amadeus (1984)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 40m
 - **Black and White:** false
@@ -338,7 +384,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #48: Jaws (1975)
+### #52: Jaws (1975)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 4m
 - **Black and White:** false
@@ -349,7 +395,18 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #49: The Sting (1973)
+### #53: All the President's Men (1976)
+- **MPAA Rating:** PG
+- **Runtime:** 2h 18m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Drama, History, Thriller
+- **RT:** 94%
+- **IMDB:** 499
+- **NYT:** N/A
+
+
+### #54: The Sting (1973)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 9m
 - **Black and White:** false
@@ -360,7 +417,18 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #50: A Separation (2011)
+### #55: The Graduate (1967)
+- **MPAA Rating:** PG
+- **Runtime:** 1h 46m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Comedy, Drama, Romance
+- **RT:** 87%
+- **IMDB:** 275
+- **NYT:** N/A
+
+
+### #56: A Separation (2011)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 3m
 - **Black and White:** false
@@ -371,7 +439,7 @@ This is the list of movies!
 - **NYT:** 33
 
 
-### #52: Top Gun: Maverick (2022)
+### #58: Top Gun: Maverick (2022)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 10m
 - **Black and White:** false
@@ -382,7 +450,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #56: The Avengers (2012)
+### #62: The Avengers (2012)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 23m
 - **Black and White:** false
@@ -393,7 +461,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #57: Guardians of the Galaxy (2014)
+### #63: Guardians of the Galaxy (2014)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 1m
 - **Black and White:** false
@@ -404,7 +472,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #58: The Martian (2015)
+### #64: The Martian (2015)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 24m
 - **Black and White:** false
@@ -415,51 +483,19 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #59: La La Land (2016)
+### #65: Crouching Tiger, Hidden Dragon (2000)
 - **MPAA Rating:** PG-13
-- **Runtime:** 2h 8m
+- **Runtime:** 2h 0m
 - **Black and White:** false
 - **Animated:** false
-- **Genre:** Comedy, Drama, Music
-- **RT:** 91%
-- **IMDB:** 213
+- **Genre:** Action, Adventure, Drama
+- **RT:** 98%
+- **IMDB:** 340
 - **NYT:** N/A
+- **Notable:** Criterion Collection
 
 
-### #60: Green Book (2018)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 10m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Biography, Comedy, Drama
-- **RT:** 77%
-- **IMDB:** 122
-- **NYT:** N/A
-
-
-### #61: Warrior (2011)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 20m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Action, Drama, Sport
-- **RT:** 84%
-- **IMDB:** 176
-- **NYT:** N/A
-
-
-### #62: The Bourne Ultimatum (2007)
-- **MPAA Rating:** PG-13
-- **Runtime:** 1h 55m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Action, Mystery, Thriller
-- **RT:** 92%
-- **IMDB:** 222
-- **NYT:** N/A
-
-
-### #63: Princess Mononoke (1997)
+### #66: Princess Mononoke (1997)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 13m
 - **Black and White:** false
@@ -470,7 +506,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #64: The Great Dictator (1940)
+### #67: The Great Dictator (1940)
 - **MPAA Rating:** G
 - **Runtime:** 2h 5m
 - **Black and White:** true
@@ -481,7 +517,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #65: The Elephant Man (1980)
+### #68: The Elephant Man (1980)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 4m
 - **Black and White:** true
@@ -492,7 +528,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #66: Interstellar (2014)
+### #69: Interstellar (2014)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 49m
 - **Black and White:** false
@@ -503,7 +539,7 @@ This is the list of movies!
 - **NYT:** 89
 
 
-### #67: Dune: Part Two (2024)
+### #70: Dune: Part Two (2024)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 46m
 - **Black and White:** false
@@ -514,7 +550,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #68: The Dark Knight Rises (2012)
+### #71: The Dark Knight Rises (2012)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 44m
 - **Black and White:** false
@@ -525,7 +561,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #69: Ford v Ferrari (2019)
+### #72: Ford v Ferrari (2019)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 32m
 - **Black and White:** false
@@ -536,7 +572,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #70: Hamilton (2020)
+### #73: Hamilton (2020)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 40m
 - **Black and White:** false
@@ -547,7 +583,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #71: Rear Window (1954)
+### #74: Rear Window (1954)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 52m
 - **Black and White:** false
@@ -558,7 +594,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #72: Catch Me If You Can (2002)
+### #75: Catch Me If You Can (2002)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 21m
 - **Black and White:** false
@@ -569,7 +605,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #73: Batman Begins (2005)
+### #76: Batman Begins (2005)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 20m
 - **Black and White:** false
@@ -580,7 +616,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #74: The Prestige (2006)
+### #77: The Prestige (2006)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 10m
 - **Black and White:** false
@@ -591,18 +627,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #75: Dial M for Murder (1954)
-- **MPAA Rating:** PG
-- **Runtime:** 1h 45m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Crime, Drama, Mystery
-- **RT:** 90%
-- **IMDB:** 161
-- **NYT:** N/A
-
-
-### #76: Million Dollar Baby (2004)
+### #78: Million Dollar Baby (2004)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 12m
 - **Black and White:** false
@@ -613,7 +638,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #77: Casino Royale (2006)
+### #79: Casino Royale (2006)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 24m
 - **Black and White:** false
@@ -624,7 +649,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #78: Hotel Rwanda (2004)
+### #80: Hotel Rwanda (2004)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 1m
 - **Black and White:** false
@@ -635,40 +660,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #79: Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 23m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Action, Adventure, Fantasy
-- **RT:** 79%
-- **IMDB:** 134
-- **NYT:** N/A
-
-
-### #80: Iron Man (2008)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 6m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Action, Adventure, Sci-Fi
-- **RT:** 94%
-- **IMDB:** 250
-- **NYT:** N/A
-
-
-### #81: A Beautiful Mind (2001)
-- **MPAA Rating:** PG-13
-- **Runtime:** 2h 15m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Biography, Drama, Mystery
-- **RT:** 74%
-- **IMDB:** 104
-- **NYT:** N/A
-
-
-### #82: The Sixth Sense (1999)
+### #81: The Sixth Sense (1999)
 - **MPAA Rating:** PG-13
 - **Runtime:** 1h 47m
 - **Black and White:** false
@@ -679,7 +671,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #83: Life Is Beautiful (1997)
+### #82: Life Is Beautiful (1997)
 - **MPAA Rating:** PG-13
 - **Runtime:** 1h 56m
 - **Black and White:** false
@@ -690,7 +682,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #84: Gone with the Wind (1939)
+### #83: Gone with the Wind (1939)
 - **MPAA Rating:** G
 - **Runtime:** 3h 58m
 - **Black and White:** false
@@ -699,6 +691,18 @@ This is the list of movies!
 - **RT:** 90%
 - **IMDB:** 155
 - **NYT:** N/A
+
+
+### #84: Barry Lyndon (1975)
+- **MPAA Rating:** PG
+- **Runtime:** 3h 5m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Adventure, Drama, War
+- **RT:** 78%
+- **IMDB:** 257
+- **NYT:** N/A
+- **Notable:** Criterion Collection
 
 
 ### #85: Dr. Strangelove or: How I learned to Stop Worrying and Love the Bomb (1964)
@@ -790,18 +794,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #97: Mary and Max (2009)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 1h 32m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Comedy, Drama
-- **RT:** 96%
-- **IMDB:** 203
-- **NYT:** N/A
-
-
-### #98: Jai Bhim (2021)
+### #97: Jai Bhim (2021)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 44m
 - **Black and White:** false
@@ -812,7 +805,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #100: Citizen Kane (1941)
+### #99: Citizen Kane (1941)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 59m
 - **Black and White:** true
@@ -821,6 +814,18 @@ This is the list of movies!
 - **RT:** 99%
 - **IMDB:** 131
 - **NYT:** N/A
+
+
+### #100: Dances with Wolves (1990)
+- **MPAA Rating:** PG-13
+- **Runtime:** 3h 1m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Adventure, Drama, Western
+- **RT:** 87%
+- **IMDB:** 272
+- **NYT:** N/A
+- **Notable:** Criterion Collection
 
 
 ### #101: Casablanca (1942)
@@ -868,29 +873,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection
 
 
-### #105: Andhadhun (2018)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 19m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Crime, Mystery, Thriller
-- **RT:** 100%
-- **IMDB:** 249
-- **NYT:** N/A
-
-
-### #106: The Handmaiden (2016)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 25m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Drama, Romance, Thriller
-- **RT:** 96%
-- **IMDB:** 240
-- **NYT:** N/A
-
-
-### #107: It's a Wonderful Life (1946)
+### #105: It's a Wonderful Life (1946)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 10m
 - **Black and White:** true
@@ -901,7 +884,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #108: Dangal (2016)
+### #106: Dangal (2016)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 41m
 - **Black and White:** false
@@ -912,7 +895,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #109: Memories of Murder (2003)
+### #107: Memories of Murder (2003)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 12m
 - **Black and White:** false
@@ -924,7 +907,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection · NYT #99
 
 
-### #110: La haine (1995)
+### #108: La haine (1995)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 1h 38m
 - **Black and White:** false
@@ -935,7 +918,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #111: Once Upon a Time in the West (1968)
+### #109: Once Upon a Time in the West (1968)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 46m
 - **Black and White:** false
@@ -946,7 +929,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #112: 12th Fail (2023)
+### #110: 12th Fail (2023)
 - **MPAA Rating:** undefined
 - **Runtime:** 2h 27m
 - **Black and White:** false
@@ -955,6 +938,29 @@ This is the list of movies!
 - **RT:** 91%
 - **IMDB:** 68
 - **NYT:** N/A
+
+
+### #111: Spartacus (1960)
+- **MPAA Rating:** PG-13
+- **Runtime:** 3h 4m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Adventure, Biography, Drama
+- **RT:** 93%
+- **IMDB:** 469
+- **NYT:** N/A
+
+
+### #112: Persona (1966)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 1h 23m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Drama, Thriller
+- **RT:** 91%
+- **IMDB:** 405
+- **NYT:** N/A
+- **Notable:** Criterion Collection
 
 
 ### #113: Mad Max: Fury Road (2015)
@@ -1100,7 +1106,18 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #126: To Be or Not to Be (1942)
+### #126: The Maltese Falcon (1941)
+- **MPAA Rating:** Approved
+- **Runtime:** 1h 40m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Crime, Drama, Film-Noir
+- **RT:** 99%
+- **IMDB:** 431
+- **NYT:** N/A
+
+
+### #127: To Be or Not to Be (1942)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 39m
 - **Black and White:** false
@@ -1111,7 +1128,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #127: Parasite (2019)
+### #128: Parasite (2019)
 - **MPAA Rating:** R
 - **Runtime:** 2h 12m
 - **Black and White:** false
@@ -1123,7 +1140,19 @@ This is the list of movies!
 - **Notable:** Criterion Collection · NYT #1
 
 
-### #128: 12 Years a Slave (2013)
+### #129: Portrait of a Lady on Fire (2019)
+- **MPAA Rating:** R
+- **Runtime:** 2h 2m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Drama, Romance
+- **RT:** 97%
+- **IMDB:** 427
+- **NYT:** N/A
+- **Notable:** Criterion Collection
+
+
+### #130: 12 Years a Slave (2013)
 - **MPAA Rating:** R
 - **Runtime:** 2h 14m
 - **Black and White:** false
@@ -1134,7 +1163,7 @@ This is the list of movies!
 - **NYT:** 51
 
 
-### #129: Spotlight (2015)
+### #131: Spotlight (2015)
 - **MPAA Rating:** R
 - **Runtime:** 2h 9m
 - **Black and White:** false
@@ -1145,7 +1174,7 @@ This is the list of movies!
 - **NYT:** 66
 
 
-### #130: Gone Girl (2014)
+### #132: Gone Girl (2014)
 - **MPAA Rating:** R
 - **Runtime:** 2h 29m
 - **Black and White:** false
@@ -1156,7 +1185,7 @@ This is the list of movies!
 - **NYT:** 64
 
 
-### #131: Logan (2017)
+### #133: Logan (2017)
 - **MPAA Rating:** R
 - **Runtime:** 2h 17m
 - **Black and White:** false
@@ -1167,7 +1196,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #132: Incendies (2010)
+### #134: Incendies (2010)
 - **MPAA Rating:** R
 - **Runtime:** 2h 11m
 - **Black and White:** false
@@ -1178,7 +1207,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #133: Her (2013)
+### #135: Her (2013)
 - **MPAA Rating:** R
 - **Runtime:** 2h 6m
 - **Black and White:** false
@@ -1189,7 +1218,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #134: Rush (2013)
+### #136: Rush (2013)
 - **MPAA Rating:** R
 - **Runtime:** 2h 3m
 - **Black and White:** false
@@ -1200,7 +1229,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #135: Capernaum (2018)
+### #137: Capernaum (2018)
 - **MPAA Rating:** R
 - **Runtime:** 2h 6m
 - **Black and White:** false
@@ -1208,28 +1237,6 @@ This is the list of movies!
 - **Genre:** Drama
 - **RT:** 90%
 - **IMDB:** 202
-- **NYT:** N/A
-
-
-### #136: Hacksaw Ridge (2016)
-- **MPAA Rating:** R
-- **Runtime:** 2h 19m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Biography, Drama, History
-- **RT:** 84%
-- **IMDB:** 165
-- **NYT:** N/A
-
-
-### #137: Wild Tales (2014)
-- **MPAA Rating:** R
-- **Runtime:** 2h 2m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Comedy, Drama, Thriller
-- **RT:** 94%
-- **IMDB:** 243
 - **NYT:** N/A
 
 
@@ -1302,29 +1309,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #144: Donnie Darko (2001)
-- **MPAA Rating:** R
-- **Runtime:** 1h 53m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Drama, Mystery, Sci-Fi
-- **RT:** 88%
-- **IMDB:** 206
-- **NYT:** N/A
-
-
-### #145: Gran Torino (2008)
-- **MPAA Rating:** R
-- **Runtime:** 1h 56m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Drama
-- **RT:** 81%
-- **IMDB:** 154
-- **NYT:** N/A
-
-
-### #147: To Kill a Mockingbird (1962)
+### #144: To Kill a Mockingbird (1962)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 9m
 - **Black and White:** true
@@ -1335,7 +1320,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #148: The Apartment (1960)
+### #145: The Apartment (1960)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 5m
 - **Black and White:** true
@@ -1346,7 +1331,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #149: 12 Angry Men (1957)
+### #146: 12 Angry Men (1957)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 36m
 - **Black and White:** true
@@ -1357,7 +1342,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #150: Sunset Boulevard (1950)
+### #147: Sunset Boulevard (1950)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 50m
 - **Black and White:** true
@@ -1368,7 +1353,18 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #151: Witness for the Prosecution (1957)
+### #148: On the Waterfront (1954)
+- **MPAA Rating:** Approved
+- **Runtime:** 1h 48m
+- **Black and White:** true
+- **Animated:** false
+- **Genre:** Crime, Drama, Thriller
+- **RT:** 99%
+- **IMDB:** 284
+- **NYT:** N/A
+
+
+### #149: Witness for the Prosecution (1957)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 56m
 - **Black and White:** true
@@ -1379,18 +1375,31 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #152: On the Waterfront (1954)
-- **MPAA Rating:** Approved
-- **Runtime:** 1h 48m
-- **Black and White:** true
+### #150: Stalker (1979)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 42m
+- **Black and White:** false
 - **Animated:** false
-- **Genre:** Crime, Drama, Thriller
-- **RT:** 99%
-- **IMDB:** 209
+- **Genre:** Drama, Sci-Fi
+- **RT:** 100%
+- **IMDB:** 383
 - **NYT:** N/A
+- **Notable:** Criterion Collection
 
 
-### #153: The Wolf of Wall Street (2013)
+### #151: 8½ (1963)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 2h 18m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Drama
+- **RT:** 97%
+- **IMDB:** 419
+- **NYT:** N/A
+- **Notable:** Criterion Collection
+
+
+### #152: The Wolf of Wall Street (2013)
 - **MPAA Rating:** R
 - **Runtime:** 3h
 - **Black and White:** false
@@ -1401,7 +1410,7 @@ This is the list of movies!
 - **NYT:** 20
 
 
-### #154: Oppenheimer (2023)
+### #153: Oppenheimer (2023)
 - **MPAA Rating:** R
 - **Runtime:** 3h
 - **Black and White:** false
@@ -1412,18 +1421,7 @@ This is the list of movies!
 - **NYT:** 65
 
 
-### #155: High and Low (1963)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 2h 23m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Crime, Drama, Mystery
-- **RT:** 96%
-- **IMDB:** 82
-- **NYT:** N/A
-
-
-### #156: Django Unchained (2012)
+### #154: Django Unchained (2012)
 - **MPAA Rating:** R
 - **Runtime:** 2h 45m
 - **Black and White:** false
@@ -1434,7 +1432,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #157: Harakiri (1962)
+### #155: Harakiri (1962)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 13m
 - **Black and White:** false
@@ -1445,7 +1443,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #158: The Battle of Algiers (1966)
+### #156: The Battle of Algiers (1966)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 1m
 - **Black and White:** false
@@ -1456,7 +1454,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #159: Prisoners (2013)
+### #157: Prisoners (2013)
 - **MPAA Rating:** R
 - **Runtime:** 2h 33m
 - **Black and White:** false
@@ -1467,14 +1465,37 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #160: Blade Runner 2049 (2017)
-- **MPAA Rating:** R
-- **Runtime:** 2h 44m
+### #158: It Happened One Night (1934)
+- **MPAA Rating:** Approved
+- **Runtime:** 1h 45m
 - **Black and White:** false
 - **Animated:** false
-- **Genre:** Action, Drama, Mystery
-- **RT:** 88%
-- **IMDB:** 214
+- **Genre:** Comedy, Romance
+- **RT:** 98%
+- **IMDB:** 371
+- **NYT:** N/A
+
+
+### #159: The 400 Blows (1959)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 1h 39m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Crime, Drama
+- **RT:** 99%
+- **IMDB:** 415
+- **NYT:** N/A
+- **Notable:** Criterion Collection
+
+
+### #160: Mulholland Drive (2001)
+- **MPAA Rating:** R
+- **Runtime:** 2h 27m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Drama, Mystery, Thriller
+- **RT:** 84%
+- **IMDB:** 306
 - **NYT:** N/A
 
 
@@ -1518,7 +1539,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Mystery, Thriller
 - **RT:** 92%
-- **IMDB:** 80
+- **IMDB:** 79
 - **NYT:** 48
 
 
@@ -1544,7 +1565,19 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #167: The Silence of the Lambs (1991)
+### #167: Three Colors: Red (1994)
+- **MPAA Rating:** R
+- **Runtime:** 1h 39m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Drama, Mystery, Romance
+- **RT:** 100%
+- **IMDB:** 380
+- **NYT:** N/A
+- **Notable:** Criterion Collection
+
+
+### #168: The Silence of the Lambs (1991)
 - **MPAA Rating:** R
 - **Runtime:** 1h 58m
 - **Black and White:** false
@@ -1555,7 +1588,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #168: The Usual Suspects (1995)
+### #169: The Usual Suspects (1995)
 - **MPAA Rating:** R
 - **Runtime:** 1h 46m
 - **Black and White:** false
@@ -1566,7 +1599,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #169: Reservoir Dogs (1992)
+### #170: Reservoir Dogs (1992)
 - **MPAA Rating:** R
 - **Runtime:** 1h 39m
 - **Black and White:** false
@@ -1577,7 +1610,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #170: American History X (1998)
+### #171: American History X (1998)
 - **MPAA Rating:** R
 - **Runtime:** 1h 59m
 - **Black and White:** false
@@ -1588,7 +1621,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #171: Fargo (1996)
+### #172: Fargo (1996)
 - **MPAA Rating:** R
 - **Runtime:** 1h 38m
 - **Black and White:** false
@@ -1599,7 +1632,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #172: Before Sunrise (1995)
+### #173: Before Sunrise (1995)
 - **MPAA Rating:** R
 - **Runtime:** 1h 41m
 - **Black and White:** false
@@ -1610,7 +1643,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #173: Léon: The Professional (1994)
+### #174: Léon: The Professional (1994)
 - **MPAA Rating:** R
 - **Runtime:** 1h 50m
 - **Black and White:** false
@@ -1621,7 +1654,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #174: Trainspotting (1996)
+### #175: Trainspotting (1996)
 - **MPAA Rating:** R
 - **Runtime:** 1h 33m
 - **Black and White:** false
@@ -1632,18 +1665,19 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #175: The Big Lebowski (1998)
+### #176: This Is Spinal Tap (1984)
 - **MPAA Rating:** R
-- **Runtime:** 1h 57m
+- **Runtime:** 1h 22m
 - **Black and White:** false
 - **Animated:** false
-- **Genre:** Comedy, Crime
-- **RT:** 80%
-- **IMDB:** 150
+- **Genre:** Comedy, Music
+- **RT:** 98%
+- **IMDB:** 452
 - **NYT:** N/A
+- **Notable:** Criterion Collection
 
 
-### #176: Stand by Me (1986)
+### #177: Stand by Me (1986)
 - **MPAA Rating:** R
 - **Runtime:** 1h 29m
 - **Black and White:** false
@@ -1654,7 +1688,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #177: Some Like It Hot (1959)
+### #178: Some Like It Hot (1959)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 1m
 - **Black and White:** true
@@ -1665,18 +1699,18 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #178: All About Eve (1950)
+### #179: All About Eve (1950)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 18m
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama
 - **RT:** 99%
-- **IMDB:** undefined
+- **IMDB:** 255
 - **NYT:** N/A
 
 
-### #179: Double Indemnity (1944)
+### #180: Double Indemnity (1944)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 47m
 - **Black and White:** true
@@ -1687,30 +1721,42 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #180: The Third Man (1949)
+### #181: The Third Man (1949)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 44m
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Film-Noir, Mystery
 - **RT:** 99%
-- **IMDB:** 213
+- **IMDB:** 267
 - **NYT:** N/A
 
 
-### #181: Yojimbo (1961)
+### #182: Yojimbo (1961)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 1h 50m
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Action, Drama, Thriller
 - **RT:** 96%
-- **IMDB:** undefined
+- **IMDB:** 265
 - **NYT:** N/A
 - **Notable:** Criterion Collection
 
 
-### #182: There Will Be Blood (2007)
+### #183: Rashomon (1950)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 1h 28m
+- **Black and White:** true
+- **Animated:** false
+- **Genre:** Crime, Drama, Mystery
+- **RT:** 98%
+- **IMDB:** 266
+- **NYT:** N/A
+- **Notable:** Criterion Collection
+
+
+### #184: There Will Be Blood (2007)
 - **MPAA Rating:** R
 - **Runtime:** 2h 38m
 - **Black and White:** false
@@ -1722,7 +1768,7 @@ This is the list of movies!
 - **Notable:** NYT #3
 
 
-### #183: Inglourious Basterds (2009)
+### #185: Inglourious Basterds (2009)
 - **MPAA Rating:** R
 - **Runtime:** 2h 33m
 - **Black and White:** false
@@ -1733,7 +1779,7 @@ This is the list of movies!
 - **NYT:** 14
 
 
-### #184: The Departed (2006)
+### #186: The Departed (2006)
 - **MPAA Rating:** R
 - **Runtime:** 2h 31m
 - **Black and White:** false
@@ -1744,7 +1790,7 @@ This is the list of movies!
 - **NYT:** 31
 
 
-### #185: Gladiator (2000)
+### #187: Gladiator (2000)
 - **MPAA Rating:** R
 - **Runtime:** 2h 35m
 - **Black and White:** false
@@ -1755,18 +1801,7 @@ This is the list of movies!
 - **NYT:** 92
 
 
-### #186: Rashomon (1950)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 1h 28m
-- **Black and White:** true
-- **Animated:** false
-- **Genre:** Crime, Drama, Mystery
-- **RT:** 98%
-- **IMDB:** 165
-- **NYT:** N/A
-
-
-### #187: Tokyo Story (1953)
+### #188: Tokyo Story (1953)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 17m
 - **Black and White:** false
@@ -1777,7 +1812,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #188: Downfall (2004)
+### #189: Downfall (2004)
 - **MPAA Rating:** R
 - **Runtime:** 2h 36m
 - **Black and White:** false
@@ -1785,17 +1820,6 @@ This is the list of movies!
 - **Genre:** Biography, Drama, History
 - **RT:** 90%
 - **IMDB:** 140
-- **NYT:** N/A
-
-
-### #189: Amores Perros (2000)
-- **MPAA Rating:** R
-- **Runtime:** 2h 34m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Drama, Thriller
-- **RT:** 93%
-- **IMDB:** 248
 - **NYT:** N/A
 
 
@@ -1909,18 +1933,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #200: In the Name of the Father (1993)
-- **MPAA Rating:** R
-- **Runtime:** 2h 13m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Biography, Crime, Drama
-- **RT:** 94%
-- **IMDB:** 197
-- **NYT:** N/A
-
-
-### #201: Blade Runner (1982)
+### #200: Blade Runner (1982)
 - **MPAA Rating:** R
 - **Runtime:** 1h 57m
 - **Black and White:** false
@@ -1931,7 +1944,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #202: Platoon (1986)
+### #201: Platoon (1986)
 - **MPAA Rating:** R
 - **Runtime:** 2h
 - **Black and White:** false
@@ -1942,7 +1955,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #203: The Terminator (1984)
+### #202: The Terminator (1984)
 - **MPAA Rating:** R
 - **Runtime:** 1h 47m
 - **Black and White:** false
@@ -1953,7 +1966,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #204: Full Metal Jacket (1987)
+### #203: Full Metal Jacket (1987)
 - **MPAA Rating:** R
 - **Runtime:** 1h 56m
 - **Black and White:** false
@@ -1964,7 +1977,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #205: The Thing (1982)
+### #204: The Thing (1982)
 - **MPAA Rating:** R
 - **Runtime:** 1h 49m
 - **Black and White:** false
@@ -1975,37 +1988,49 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #206: The Treasure of the Sierra Madre (1948)
+### #205: The Treasure of the Sierra Madre (1948)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 6m
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Adventure, Drama, Western
 - **RT:** 100%
-- **IMDB:** undefined
+- **IMDB:** 269
 - **NYT:** N/A
 
 
-### #207: The Grapes of Wrath (1940)
+### #206: The Grapes of Wrath (1940)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 9m
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama
 - **RT:** 100%
-- **IMDB:** 244
+- **IMDB:** 399
 - **NYT:** N/A
 
 
-### #208: The Gold Rush (1925)
+### #207: The Gold Rush (1925)
 - **MPAA Rating:** Approved
 - **Runtime:** 1h 35m
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Adventure, Comedy, Drama
 - **RT:** 98%
-- **IMDB:** 200
+- **IMDB:** 352
 - **NYT:** N/A
+
+
+### #208: The Seventh Seal (1957)
+- **MPAA Rating:** Not Rated
+- **Runtime:** 1h 36m
+- **Black and White:** true
+- **Animated:** false
+- **Genre:** Drama, Fantasy
+- **RT:** 93%
+- **IMDB:** 251
+- **NYT:** N/A
+- **Notable:** Criterion Collection
 
 
 ### #209: Wild Strawberries (1957)
@@ -2015,22 +2040,12 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Romance
 - **RT:** 94%
-- **IMDB:** 210
+- **IMDB:** 359
 - **NYT:** N/A
+- **Notable:** Criterion Collection
 
 
-### #210: The Seventh Seal (1957)
-- **MPAA Rating:** Not Rated
-- **Runtime:** 1h 36m
-- **Black and White:** true
-- **Animated:** false
-- **Genre:** Drama, Fantasy
-- **RT:** 93%
-- **IMDB:** 220
-- **NYT:** N/A
-
-
-### #211: Bicycle Thieves (1948)
+### #210: Bicycle Thieves (1948)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 1h 29m
 - **Black and White:** true
@@ -2042,7 +2057,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection
 
 
-### #212: Pulp Fiction (1994)
+### #211: Pulp Fiction (1994)
 - **MPAA Rating:** R
 - **Runtime:** 2h 34m
 - **Black and White:** false
@@ -2053,7 +2068,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #213: Saving Private Ryan (1998)
+### #212: Saving Private Ryan (1998)
 - **MPAA Rating:** R
 - **Runtime:** 2h 49m
 - **Black and White:** false
@@ -2064,7 +2079,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #214: Heat (1995)
+### #213: Heat (1995)
 - **MPAA Rating:** R
 - **Runtime:** 2h 50m
 - **Black and White:** false
@@ -2075,29 +2090,18 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #215: Braveheart (1995)
+### #214: Braveheart (1995)
 - **MPAA Rating:** R
 - **Runtime:** 2h 58m
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, War
 - **RT:** 76%
-- **IMDB:** 79
+- **IMDB:** 80
 - **NYT:** N/A
 
 
-### #216: Casino (1995)
-- **MPAA Rating:** R
-- **Runtime:** 2h 58m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Crime, Drama
-- **RT:** 79%
-- **IMDB:** 124
-- **NYT:** N/A
-
-
-### #217: The Shining (1980)
+### #215: The Shining (1980)
 - **MPAA Rating:** R
 - **Runtime:** 2h 26m
 - **Black and White:** false
@@ -2109,7 +2113,19 @@ This is the list of movies!
 - **Notable:** Criterion Collection
 
 
-### #218: Aliens (1986)
+### #216: Brazil (1985)
+- **MPAA Rating:** R
+- **Runtime:** 2h 12m
+- **Black and White:** false
+- **Animated:** false
+- **Genre:** Drama, Sci-Fi, Thriller
+- **RT:** 98%
+- **IMDB:** 486
+- **NYT:** N/A
+- **Notable:** Criterion Collection
+
+
+### #217: Aliens (1986)
 - **MPAA Rating:** R
 - **Runtime:** 2h 17m
 - **Black and White:** false
@@ -2120,7 +2136,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #219: Das Boot (1981)
+### #218: Das Boot (1981)
 - **MPAA Rating:** R
 - **Runtime:** 2h 29m
 - **Black and White:** false
@@ -2131,7 +2147,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #220: Die Hard (1988)
+### #219: Die Hard (1988)
 - **MPAA Rating:** R
 - **Runtime:** 2h 12m
 - **Black and White:** false
@@ -2142,7 +2158,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #221: Taxi Driver (1976)
+### #220: Taxi Driver (1976)
 - **MPAA Rating:** R
 - **Runtime:** 1h 54m
 - **Black and White:** false
@@ -2154,7 +2170,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection
 
 
-### #222: Monty Python's Life of Brian (1979)
+### #221: Monty Python's Life of Brian (1979)
 - **MPAA Rating:** R
 - **Runtime:** 1h 34m
 - **Black and White:** false
@@ -2166,7 +2182,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection
 
 
-### #223: Alien (1979)
+### #222: Alien (1979)
 - **MPAA Rating:** R
 - **Runtime:** 1h 57m
 - **Black and White:** false
@@ -2177,7 +2193,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #224: The Best Years of Our Lives (1946)
+### #223: The Best Years of Our Lives (1946)
 - **MPAA Rating:** Approved
 - **Runtime:** 2h 50m
 - **Black and White:** true
@@ -2188,6 +2204,17 @@ This is the list of movies!
 - **NYT:** N/A
 
 
+### #224: Mr. Smith Goes to Washington (1939)
+- **MPAA Rating:** Approved
+- **Runtime:** 2h 9m
+- **Black and White:** true
+- **Animated:** false
+- **Genre:** Comedy, Drama
+- **RT:** 85%
+- **IMDB:** 343
+- **NYT:** N/A
+
+
 ### #225: Ikiru (1952)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 23m
@@ -2195,7 +2222,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama
 - **RT:** 98%
-- **IMDB:** undefined
+- **IMDB:** 290
 - **NYT:** N/A
 - **Notable:** Criterion Collection
 
@@ -2218,7 +2245,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Action, Drama, War
 - **RT:** 96%
-- **IMDB:** undefined
+- **IMDB:** 253
 - **NYT:** N/A
 - **Notable:** Criterion Collection
 
@@ -2288,22 +2315,11 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama
 - **RT:** 91%
-- **IMDB:** 238
+- **IMDB:** 278
 - **NYT:** N/A
 
 
-### #234: Sherlock Jr. (1924)
-- **MPAA Rating:** Passed
-- **Runtime:** 45m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Action, Comedy, Romance
-- **RT:** 86%
-- **IMDB:** 201
-- **NYT:** N/A
-
-
-### #235: The Wages of Fear (1953)
+### #234: The Wages of Fear (1953)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 2h 36m
 - **Black and White:** true
@@ -2314,7 +2330,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #236: Raging Bull (1980)
+### #235: Raging Bull (1980)
 - **MPAA Rating:** R
 - **Runtime:** 2h 9m
 - **Black and White:** true
@@ -2325,7 +2341,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #237: Once Upon a Time in America (1984)
+### #236: Once Upon a Time in America (1984)
 - **MPAA Rating:** R
 - **Runtime:** 3h 49m
 - **Black and White:** false
@@ -2336,7 +2352,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #238: The Godfather (1972)
+### #237: The Godfather (1972)
 - **MPAA Rating:** R
 - **Runtime:** 2h 55m
 - **Black and White:** false
@@ -2347,7 +2363,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #239: For a Few Dollars More (1965)
+### #238: For a Few Dollars More (1965)
 - **MPAA Rating:** R
 - **Runtime:** 2h 12m
 - **Black and White:** false
@@ -2358,7 +2374,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #240: The Passion of Joan of Arc (1928)
+### #239: The Passion of Joan of Arc (1928)
 - **MPAA Rating:** Passed
 - **Runtime:** 1h 54m
 - **Black and White:** false
@@ -2369,7 +2385,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #241: Seven Samurai (1954)
+### #240: Seven Samurai (1954)
 - **MPAA Rating:** Not Rated
 - **Runtime:** 3h 27m
 - **Black and White:** true
@@ -2381,7 +2397,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection
 
 
-### #242: Schindler's List (1993)
+### #241: Schindler's List (1993)
 - **MPAA Rating:** R
 - **Runtime:** 3h 15m
 - **Black and White:** true
@@ -2392,7 +2408,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #243: The Deer Hunter (1978)
+### #242: The Deer Hunter (1978)
 - **MPAA Rating:** R
 - **Runtime:** 3h 3m
 - **Black and White:** false
@@ -2404,7 +2420,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection
 
 
-### #244: The Godfather Part II (1974)
+### #243: The Godfather Part II (1974)
 - **MPAA Rating:** R
 - **Runtime:** 3h 22m
 - **Black and White:** false
@@ -2415,7 +2431,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #245: Psycho (1960)
+### #244: Psycho (1960)
 - **MPAA Rating:** R
 - **Runtime:** 1h 49m
 - **Black and White:** true
@@ -2426,7 +2442,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #246: The Good, the Bad and the Ugly (1966)
+### #245: The Good, the Bad and the Ugly (1966)
 - **MPAA Rating:** R
 - **Runtime:** 2h 58m
 - **Black and White:** false
@@ -2437,14 +2453,25 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #247: The General (1926)
+### #246: The General (1926)
 - **MPAA Rating:** Passed
 - **Runtime:** 1h 18m
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Action, Adventure, Comedy
 - **RT:** 92%
-- **IMDB:** 206
+- **IMDB:** 406
+- **NYT:** N/A
+
+
+### #247: The Kid (1921)
+- **MPAA Rating:** Passed
+- **Runtime:** 1h 8m
+- **Black and White:** true
+- **Animated:** false
+- **Genre:** Comedy, Drama, Family
+- **RT:** 100%
+- **IMDB:** 259
 - **NYT:** N/A
 
 
@@ -2584,7 +2611,7 @@ This is the list of movies!
 - **Notable:** Criterion Collection · NYT #9
 
 
-### #27: The Truman Show (1998)
+### #29: The Truman Show (1998)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 43m
 - **Black and White:** false
@@ -2595,7 +2622,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #28: Groundhog Day (1993)
+### #30: Groundhog Day (1993)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 41m
 - **Black and White:** false
@@ -2606,7 +2633,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #31: Raiders of the Lost Ark (1981)
+### #35: Raiders of the Lost Ark (1981)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 55m
 - **Black and White:** false
@@ -2617,7 +2644,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #32: Back to the Future (1985)
+### #36: Back to the Future (1985)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 56m
 - **Black and White:** false
@@ -2628,7 +2655,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #35: Star Wars: Episode V - The Empire Strikes Back (1980)
+### #39: Star Wars: Episode V - The Empire Strikes Back (1980)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 4m
 - **Black and White:** false
@@ -2639,7 +2666,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #36: Star Wars: Episode VI - Return of the Jedi (1983)
+### #40: Star Wars: Episode VI - Return of the Jedi (1983)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 11m
 - **Black and White:** false
@@ -2650,7 +2677,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #39: Monty Python and the Holy Grail (1975)
+### #44: Monty Python and the Holy Grail (1975)
 - **MPAA Rating:** PG
 - **Runtime:** 1h 31m
 - **Black and White:** false
@@ -2661,7 +2688,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #47: Star Wars: Episode IV - A New Hope (1977)
+### #51: Star Wars: Episode IV - A New Hope (1977)
 - **MPAA Rating:** PG
 - **Runtime:** 2h 1m
 - **Black and White:** false
@@ -2672,7 +2699,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #51: Inception (2010)
+### #57: Inception (2010)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 28m
 - **Black and White:** false
@@ -2683,7 +2710,7 @@ This is the list of movies!
 - **NYT:** 55
 
 
-### #53: Avengers: Infinity War (2018)
+### #59: Avengers: Infinity War (2018)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 29m
 - **Black and White:** false
@@ -2694,7 +2721,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #54: Harry Potter and the Deathly Hallows: Part 2 (2011)
+### #60: Harry Potter and the Deathly Hallows: Part 2 (2011)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 10m
 - **Black and White:** false
@@ -2705,7 +2732,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #55: Spider-Man: No Way Home (2021)
+### #61: Spider-Man: No Way Home (2021)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 28m
 - **Black and White:** false
@@ -2761,7 +2788,7 @@ This is the list of movies!
 - **NYT:** N/A
 
 
-### #99: Indiana Jones and the Last Crusade (1989)
+### #98: Indiana Jones and the Last Crusade (1989)
 - **MPAA Rating:** PG-13
 - **Runtime:** 2h 7m
 - **Black and White:** false
@@ -2769,15 +2796,4 @@ This is the list of movies!
 - **Genre:** Action, Adventure
 - **RT:** 84%
 - **IMDB:** 112
-- **NYT:** N/A
-
-
-### #146: Snatch (2000)
-- **MPAA Rating:** R
-- **Runtime:** 1h 42m
-- **Black and White:** false
-- **Animated:** false
-- **Genre:** Comedy, Crime
-- **RT:** 74%
-- **IMDB:** 109
 - **NYT:** N/A
