@@ -189,33 +189,13 @@ This is the list of movies!
 
 `;
 
-  // Film as Literature section: films on Criterion, S&S, or AFI, sorted by quality score
-  const filmAsLit = [...sortedMovies, ...watched]
-    .filter((m) => m.onCanonicalList)
-    .sort((a, b) => a.qualityScore - b.qualityScore)
-    .slice(0, 30);
-
-  const filmAsLitEntries = filmAsLit.map((movie) => {
-    const badges: string[] = [];
-    if (movie.imdbId && criterionSet.has(movie.imdbId)) badges.push("Criterion Collection");
-    if (movie.nytRank && movie.nytRank !== "N/A") badges.push(`NYT #${movie.nytRank}`);
-    return `### ${movie.title} (${movie.year}) — Watch order #${movie.overallRank}
-- **MPAA Rating:** ${movie.rating}
-- **Runtime:** ${movie.length}
-- **Genre:** ${(movie.genre || []).join(", ")}
-- **RT:** ${movie.rottenTomatoes}
-${badges.length > 0 ? `- **Notable:** ${badges.join(" · ")}\n` : ""}`;
-  });
-
   const unwatchedEntries = sortedMovies.map(formatMovieEntry);
   const watchedEntries = watched.map(formatMovieEntry);
 
   writeFileSync(
     "MOVIES.md",
     open +
-      `## Film as Literature Picks\n\n*Top 30 most culturally significant films — on Criterion, Sight & Sound, or AFI lists — sorted by editorial standing.*\n\n` +
-      filmAsLitEntries.join("\n") +
-      `\n## Unwatched\n\n*${POOL_SIZE} films sorted by accessibility — most appropriate for a preteen first.*\n\n` +
+      `## Unwatched\n\n*${POOL_SIZE} films sorted by accessibility — most appropriate for a preteen first.*\n\n` +
       unwatchedEntries.join("\n\n") +
       `\n\n## Watched\n\n` +
       watchedEntries.join("\n\n")
