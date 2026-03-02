@@ -1,5 +1,6 @@
 export type Movie = {
   imdbRank?: number;
+  imdbId?: string;
   title?: string;
   year?: string;
   length?: string;
@@ -10,4 +11,5 @@ export type Movie = {
   nytRank?: string;
   watched?: boolean;
   genre?: string[];
+  criterion?: boolean;
 }
