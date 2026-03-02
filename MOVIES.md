@@ -12,9 +12,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 98%
-- **IMDB:** 83
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #83
 
 
 ### #2: WALL·E (2008)
@@ -23,9 +22,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Family
-- **RT:** 95%
-- **IMDB:** 55
-- **NYT:** 34
+
+- **Notable:** NYT #34 · RT 95% · IMDB #55
 
 
 ### #3: Ratatouille (2007)
@@ -34,9 +32,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 96%
-- **IMDB:** 147
-- **NYT:** 73
+
+- **Notable:** NYT #73 · RT 96% · IMDB #147
 
 
 ### #4: Finding Nemo (2003)
@@ -45,9 +42,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 99%
-- **IMDB:** 97
-- **NYT:** N/A
+
+- **Notable:** RT 99% · IMDB #97
 
 
 ### #5: Monsters, Inc. (2001)
@@ -56,9 +52,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 96%
-- **IMDB:** 142
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #142
 
 
 ### #6: Toy Story (1995)
@@ -67,9 +62,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 100%
-- **IMDB:** 77
-- **NYT:** N/A
+
+- **Notable:** AFI #99 · RT 100% · IMDB #77
 
 
 ### #7: The Lion King (1994)
@@ -78,9 +72,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Drama
-- **RT:** 93%
-- **IMDB:** 37
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #37
 
 
 ### #8: Aladdin (1992)
@@ -89,9 +82,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 96%
-- **IMDB:** 236
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #236
 
 
 ### #9: Beauty and the Beast (1991)
@@ -100,9 +92,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Family, Fantasy
-- **RT:** 95%
-- **IMDB:** 235
-- **NYT:** N/A
+
+- **Notable:** RT 95% · IMDB #235
 
 
 ### #10: My Neighbor Totoro (1988)
@@ -111,10 +102,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 94%
-- **IMDB:** 186
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #85 · RT 94% · IMDB #186
 
 
 ### #15: Klaus (2019)
@@ -123,9 +112,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 95%
-- **IMDB:** 194
-- **NYT:** N/A
+
+- **Notable:** RT 95% · IMDB #194
 
 
 ### #17: Zootopia (2016)
@@ -134,9 +122,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Action, Adventure
-- **RT:** 98%
-- **IMDB:** 225
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #225
 
 
 ### #18: Soul (2020)
@@ -145,9 +132,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 95%
-- **IMDB:** 241
-- **NYT:** N/A
+
+- **Notable:** RT 95% · IMDB #241
 
 
 ### #22: The Incredibles (2004)
@@ -156,9 +142,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Action, Adventure
-- **RT:** 97%
-- **IMDB:** 207
-- **NYT:** N/A
+
+- **Notable:** RT 97% · IMDB #207
 
 
 ### #23: The Iron Giant (1999)
@@ -167,9 +152,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Action, Adventure
-- **RT:** 96%
-- **IMDB:** 237
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #237
 
 
 ### #25: Planet of the Apes (1968)
@@ -178,9 +162,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Sci-Fi
-- **RT:** 86%
-- **IMDB:** 314
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #53 · RT 86% · IMDB #314
 
 
 ### #26: In the Mood for Love (2000)
@@ -189,10 +172,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance
-- **RT:** 92%
-- **IMDB:** 332
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #5 · RT 92% · IMDB #332
 
 
 ### #27: 2001: A Space Odyssey (1968)
@@ -201,10 +182,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Sci-Fi
-- **RT:** 90%
-- **IMDB:** 87
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #6 · AFI #15 · RT 90% · IMDB #87
 
 
 ### #28: Singin' in the Rain (1952)
@@ -213,9 +192,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Musical, Romance
-- **RT:** 100%
-- **IMDB:** 129
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #10 · AFI #5 · RT 100% · IMDB #129
 
 
 ### #31: Castle in the Sky (1986)
@@ -224,10 +202,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Family
-- **RT:** 96%
-- **IMDB:** 324
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · RT 96% · IMDB #324
 
 
 ### #32: The Sound of Music (1965)
@@ -236,9 +212,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, Family
-- **RT:** 83%
-- **IMDB:** 228
-- **NYT:** N/A
+
+- **Notable:** AFI #40 · RT 83% · IMDB #228
 
 
 ### #33: Like Stars on Earth (2007)
@@ -247,9 +222,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Family
-- **RT:** 93%
-- **IMDB:** 148
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #148
 
 
 ### #34: E.T. the Extra-Terrestrial (1982)
@@ -258,9 +232,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Family, Sci-Fi
-- **RT:** 99%
-- **IMDB:** 302
-- **NYT:** N/A
+
+- **Notable:** AFI #24 · RT 99% · IMDB #302
 
 
 ### #37: The Princess Bride (1987)
@@ -269,9 +242,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Comedy, Family
-- **RT:** 96%
-- **IMDB:** 238
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #238
 
 
 ### #38: The Wizard of Oz (1939)
@@ -280,9 +252,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Family, Fantasy
-- **RT:** 98%
-- **IMDB:** 185
-- **NYT:** N/A
+
+- **Notable:** AFI #10 · RT 98% · IMDB #185
 
 
 ### #41: Dead Poets Society (1989)
@@ -291,9 +262,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama
-- **RT:** 85%
-- **IMDB:** 167
-- **NYT:** N/A
+
+- **Notable:** RT 85% · IMDB #167
 
 
 ### #42: Annie Hall (1977)
@@ -302,9 +272,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Romance
-- **RT:** 97%
-- **IMDB:** 342
-- **NYT:** N/A
+
+- **Notable:** AFI #35 · RT 97% · IMDB #342
 
 
 ### #43: Rocky (1976)
@@ -313,9 +282,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Sport
-- **RT:** 93%
-- **IMDB:** 164
-- **NYT:** N/A
+
+- **Notable:** AFI #57 · RT 93% · IMDB #164
 
 
 ### #45: The Father (2020)
@@ -324,9 +292,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery
-- **RT:** 98%
-- **IMDB:** 188
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #188
 
 
 ### #46: Ben-Hur (1959)
@@ -335,9 +302,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama
-- **RT:** 87%
-- **IMDB:** 233
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #112 · AFI #100 · RT 87% · IMDB #233
 
 
 ### #47: City Lights (1931)
@@ -346,9 +312,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Comedy, Drama, Romance
-- **RT:** 95%
-- **IMDB:** 89
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #118 · AFI #11 · RT 95% · IMDB #89
 
 
 ### #48: Modern Times (1936)
@@ -357,9 +322,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Comedy, Drama, Romance
-- **RT:** 98%
-- **IMDB:** 71
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #119 · AFI #78 · RT 98% · IMDB #71
 
 
 ### #49: Cinema Paradiso (1988)
@@ -368,9 +332,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance
-- **RT:** 91%
-- **IMDB:** 67
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #67
 
 
 ### #50: Amadeus (1984)
@@ -379,9 +342,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, Music
-- **RT:** 90%
-- **IMDB:** 72
-- **NYT:** N/A
+
+- **Notable:** RT 90% · IMDB #72
 
 
 ### #52: Jaws (1975)
@@ -390,9 +352,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Horror, Thriller
-- **RT:** 97%
-- **IMDB:** 163
-- **NYT:** N/A
+
+- **Notable:** AFI #56 · RT 97% · IMDB #163
 
 
 ### #53: All the President's Men (1976)
@@ -401,9 +362,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, History, Thriller
-- **RT:** 94%
-- **IMDB:** 499
-- **NYT:** N/A
+
+- **Notable:** AFI #77 · RT 94% · IMDB #499
 
 
 ### #54: The Sting (1973)
@@ -412,9 +372,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Crime, Drama
-- **RT:** 93%
-- **IMDB:** 170
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #170
 
 
 ### #55: The Graduate (1967)
@@ -423,9 +382,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama, Romance
-- **RT:** 87%
-- **IMDB:** 275
-- **NYT:** N/A
+
+- **Notable:** AFI #17 · RT 87% · IMDB #275
 
 
 ### #56: A Separation (2011)
@@ -434,9 +392,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 99%
-- **IMDB:** 130
-- **NYT:** 33
+
+- **Notable:** NYT #33 · RT 99% · IMDB #130
 
 
 ### #58: Top Gun: Maverick (2022)
@@ -445,9 +402,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Drama
-- **RT:** 96%
-- **IMDB:** 114
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #114
 
 
 ### #62: The Avengers (2012)
@@ -456,9 +412,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Sci-Fi
-- **RT:** 91%
-- **IMDB:** 187
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #187
 
 
 ### #63: Guardians of the Galaxy (2014)
@@ -467,9 +422,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Comedy
-- **RT:** 91%
-- **IMDB:** 193
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #193
 
 
 ### #64: The Martian (2015)
@@ -478,9 +432,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Sci-Fi
-- **RT:** 91%
-- **IMDB:** 201
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #201
 
 
 ### #65: Crouching Tiger, Hidden Dragon (2000)
@@ -489,10 +442,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Drama
-- **RT:** 98%
-- **IMDB:** 340
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · RT 98% · IMDB #340
 
 
 ### #66: Princess Mononoke (1997)
@@ -501,9 +452,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Fantasy
-- **RT:** 93%
-- **IMDB:** 93
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #93
 
 
 ### #67: The Great Dictator (1940)
@@ -512,9 +462,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Comedy, Drama, War
-- **RT:** 92%
-- **IMDB:** 101
-- **NYT:** N/A
+
+- **Notable:** RT 92% · IMDB #101
 
 
 ### #68: The Elephant Man (1980)
@@ -523,9 +472,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Biography, Drama
-- **RT:** 91%
-- **IMDB:** 174
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #174
 
 
 ### #69: Interstellar (2014)
@@ -534,9 +482,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Sci-Fi
-- **RT:** 73%
-- **IMDB:** 15
-- **NYT:** 89
+
+- **Notable:** NYT #89 · RT 73% · IMDB #15
 
 
 ### #70: Dune: Part Two (2024)
@@ -545,9 +492,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Drama
-- **RT:** 92%
-- **IMDB:** 64
-- **NYT:** N/A
+
+- **Notable:** RT 92% · IMDB #64
 
 
 ### #71: The Dark Knight Rises (2012)
@@ -556,9 +502,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Crime, Drama
-- **RT:** 87%
-- **IMDB:** 49
-- **NYT:** N/A
+
+- **Notable:** RT 87% · IMDB #49
 
 
 ### #72: Ford v Ferrari (2019)
@@ -567,9 +512,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Biography, Drama
-- **RT:** 92%
-- **IMDB:** 172
-- **NYT:** N/A
+
+- **Notable:** RT 92% · IMDB #172
 
 
 ### #73: Hamilton (2020)
@@ -578,9 +522,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, History
-- **RT:** 98%
-- **IMDB:** 230
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #230
 
 
 ### #74: Rear Window (1954)
@@ -589,9 +532,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Thriller
-- **RT:** 98%
-- **IMDB:** 48
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #21 · AFI #48 · RT 98% · IMDB #48
 
 
 ### #75: Catch Me If You Can (2002)
@@ -600,9 +542,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Crime, Drama
-- **RT:** 96%
-- **IMDB:** 136
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #136
 
 
 ### #76: Batman Begins (2005)
@@ -611,9 +552,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Crime, Drama
-- **RT:** 85%
-- **IMDB:** 92
-- **NYT:** N/A
+
+- **Notable:** RT 85% · IMDB #92
 
 
 ### #77: The Prestige (2006)
@@ -622,9 +562,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Sci-Fi
-- **RT:** 77%
-- **IMDB:** 32
-- **NYT:** N/A
+
+- **Notable:** RT 77% · IMDB #32
 
 
 ### #78: Million Dollar Baby (2004)
@@ -633,9 +572,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Sport
-- **RT:** 90%
-- **IMDB:** 162
-- **NYT:** N/A
+
+- **Notable:** RT 90% · IMDB #162
 
 
 ### #79: Casino Royale (2006)
@@ -644,9 +582,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Thriller
-- **RT:** 94%
-- **IMDB:** 215
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #215
 
 
 ### #80: Hotel Rwanda (2004)
@@ -655,9 +592,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, History
-- **RT:** 91%
-- **IMDB:** 196
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #196
 
 
 ### #81: The Sixth Sense (1999)
@@ -666,9 +602,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Thriller
-- **RT:** 86%
-- **IMDB:** 102
-- **NYT:** N/A
+
+- **Notable:** AFI #89 · RT 86% · IMDB #102
 
 
 ### #82: Life Is Beautiful (1997)
@@ -677,9 +612,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama, Romance
-- **RT:** 81%
-- **IMDB:** 28
-- **NYT:** N/A
+
+- **Notable:** RT 81% · IMDB #28
 
 
 ### #83: Gone with the Wind (1939)
@@ -688,9 +622,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance, War
-- **RT:** 90%
-- **IMDB:** 155
-- **NYT:** N/A
+
+- **Notable:** AFI #6 · RT 90% · IMDB #155
 
 
 ### #84: Barry Lyndon (1975)
@@ -699,10 +632,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, War
-- **RT:** 78%
-- **IMDB:** 257
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #24 · RT 78% · IMDB #257
 
 
 ### #85: Dr. Strangelove or: How I learned to Stop Worrying and Love the Bomb (1964)
@@ -711,10 +642,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Comedy, War
-- **RT:** 98%
-- **IMDB:** 90
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #58 · AFI #39 · RT 98% · IMDB #90
 
 
 ### #87: Vertigo (1958)
@@ -723,9 +652,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Mystery, Romance, Thriller
-- **RT:** 93%
-- **IMDB:** 133
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #2 · AFI #9 · RT 93% · IMDB #133
 
 
 ### #89: The Dark Knight (2008)
@@ -734,9 +662,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Crime, Drama
-- **RT:** 94%
-- **IMDB:** 3
-- **NYT:** 28
+
+- **Notable:** NYT #28 · RT 94% · IMDB #3
 
 
 ### #91: 3 Idiots (2009)
@@ -745,9 +672,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama
-- **RT:** 100%
-- **IMDB:** 70
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #70
 
 
 ### #92: Forrest Gump (1994)
@@ -756,9 +682,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance
-- **RT:** 75%
-- **IMDB:** 11
-- **NYT:** N/A
+
+- **Notable:** AFI #76 · RT 75% · IMDB #11
 
 
 ### #93: Jurassic Park (1993)
@@ -767,9 +692,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Sci-Fi
-- **RT:** 91%
-- **IMDB:** 100
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #100
 
 
 ### #94: Lawrence of Arabia (1962)
@@ -778,9 +702,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Biography, Drama
-- **RT:** 93%
-- **IMDB:** 119
-- **NYT:** N/A
+
+- **Notable:** AFI #7 · RT 93% · IMDB #119
 
 
 ### #95: The Bridge on the River Kwai (1957)
@@ -789,9 +712,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, War
-- **RT:** 96%
-- **IMDB:** 239
-- **NYT:** N/A
+
+- **Notable:** AFI #36 · RT 96% · IMDB #239
 
 
 ### #97: Jai Bhim (2021)
@@ -800,9 +722,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 100%
-- **IMDB:** 66
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #66
 
 
 ### #99: Citizen Kane (1941)
@@ -811,9 +732,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Mystery
-- **RT:** 99%
-- **IMDB:** 131
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #3 · AFI #1 · RT 99% · IMDB #131
 
 
 ### #100: Dances with Wolves (1990)
@@ -822,10 +742,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Western
-- **RT:** 87%
-- **IMDB:** 272
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #15 · RT 87% · IMDB #272
 
 
 ### #101: Casablanca (1942)
@@ -834,9 +752,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Romance, War
-- **RT:** 99%
-- **IMDB:** 46
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #110 · AFI #3 · RT 99% · IMDB #46
 
 
 ### #102: Titanic (1997)
@@ -845,9 +762,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance
-- **RT:** 88%
-- **IMDB:** 192
-- **NYT:** N/A
+
+- **Notable:** AFI #83 · RT 88% · IMDB #192
 
 
 ### #103: Your Name. (2016)
@@ -856,9 +772,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Drama, Fantasy
-- **RT:** 98%
-- **IMDB:** 84
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #84
 
 
 ### #104: Grave of the Fireflies (1988)
@@ -867,10 +782,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Drama, War
-- **RT:** 100%
-- **IMDB:** 62
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · RT 100% · IMDB #62
 
 
 ### #105: It's a Wonderful Life (1946)
@@ -879,9 +792,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Family, Fantasy
-- **RT:** 94%
-- **IMDB:** 31
-- **NYT:** N/A
+
+- **Notable:** AFI #20 · RT 94% · IMDB #31
 
 
 ### #106: Dangal (2016)
@@ -890,9 +802,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Biography, Drama
-- **RT:** 89%
-- **IMDB:** 141
-- **NYT:** N/A
+
+- **Notable:** RT 89% · IMDB #141
 
 
 ### #107: Memories of Murder (2003)
@@ -901,10 +812,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Mystery
-- **RT:** 95%
-- **IMDB:** 234
-- **NYT:** 99
-- **Notable:** Criterion Collection · NYT #99
+
+- **Notable:** Criterion Collection · NYT #99 · RT 95% · IMDB #234
 
 
 ### #108: La haine (1995)
@@ -913,9 +822,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 96%
-- **IMDB:** 246
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #246
 
 
 ### #109: Once Upon a Time in the West (1968)
@@ -924,9 +832,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Western
-- **RT:** 96%
-- **IMDB:** 60
-- **NYT:** N/A
+
+- **Notable:** AFI #73 · RT 96% · IMDB #60
 
 
 ### #110: 12th Fail (2023)
@@ -935,9 +842,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama
-- **RT:** 91%
-- **IMDB:** 68
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #68
 
 
 ### #111: Spartacus (1960)
@@ -946,9 +852,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Biography, Drama
-- **RT:** 93%
-- **IMDB:** 469
-- **NYT:** N/A
+
+- **Notable:** AFI #81 · RT 93% · IMDB #469
 
 
 ### #112: Persona (1966)
@@ -957,10 +862,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Thriller
-- **RT:** 91%
-- **IMDB:** 405
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #68 · RT 91% · IMDB #405
 
 
 ### #113: Mad Max: Fury Road (2015)
@@ -969,9 +872,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Sci-Fi
-- **RT:** 97%
-- **IMDB:** 138
-- **NYT:** 11
+
+- **Notable:** NYT #11 · RT 97% · IMDB #138
 
 
 ### #114: The Grand Budapest Hotel (2014)
@@ -980,9 +882,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama
-- **RT:** 92%
-- **IMDB:** 146
-- **NYT:** 22
+
+- **Notable:** NYT #22 · RT 92% · IMDB #146
 
 
 ### #115: Whiplash (2014)
@@ -991,9 +892,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Music
-- **RT:** 94%
-- **IMDB:** 40
-- **NYT:** 60
+
+- **Notable:** NYT #60 · RT 94% · IMDB #40
 
 
 ### #116: The Hunt (2012)
@@ -1002,9 +902,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 92%
-- **IMDB:** 105
-- **NYT:** N/A
+
+- **Notable:** RT 92% · IMDB #105
 
 
 ### #117: 1917 (2019)
@@ -1013,9 +912,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Drama, War
-- **RT:** 88%
-- **IMDB:** 117
-- **NYT:** N/A
+
+- **Notable:** RT 88% · IMDB #117
 
 
 ### #118: The Intouchables (2011)
@@ -1024,9 +922,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama
-- **RT:** 75%
-- **IMDB:** 42
-- **NYT:** N/A
+
+- **Notable:** RT 75% · IMDB #42
 
 
 ### #119: Room (2015)
@@ -1035,9 +932,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Thriller
-- **RT:** 93%
-- **IMDB:** 182
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #182
 
 
 ### #120: Three Billboards Outside Ebbing, Missouri (2017)
@@ -1046,9 +942,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Crime, Drama
-- **RT:** 90%
-- **IMDB:** 169
-- **NYT:** N/A
+
+- **Notable:** RT 90% · IMDB #169
 
 
 ### #121: The King's Speech (2010)
@@ -1057,9 +952,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, History
-- **RT:** 94%
-- **IMDB:** 217
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #217
 
 
 ### #122: Before Sunset (2004)
@@ -1068,9 +962,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance
-- **RT:** 94%
-- **IMDB:** 219
-- **NYT:** 49
+
+- **Notable:** NYT #49 · RT 94% · IMDB #219
 
 
 ### #123: The Great Escape (1963)
@@ -1079,9 +972,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Thriller
-- **RT:** 94%
-- **IMDB:** 178
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #178
 
 
 ### #124: North by Northwest (1959)
@@ -1090,9 +982,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Mystery
-- **RT:** 97%
-- **IMDB:** 116
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #113 · AFI #55 · RT 97% · IMDB #116
 
 
 ### #125: Paths of Glory (1957)
@@ -1101,9 +992,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, War
-- **RT:** 96%
-- **IMDB:** 113
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #113
 
 
 ### #126: The Maltese Falcon (1941)
@@ -1112,9 +1002,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Film-Noir
-- **RT:** 99%
-- **IMDB:** 431
-- **NYT:** N/A
+
+- **Notable:** AFI #31 · RT 99% · IMDB #431
 
 
 ### #127: To Be or Not to Be (1942)
@@ -1123,9 +1012,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Romance, War
-- **RT:** 96%
-- **IMDB:** 243
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #243
 
 
 ### #128: Parasite (2019)
@@ -1134,10 +1022,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Thriller
-- **RT:** 99%
-- **IMDB:** 39
-- **NYT:** 1
-- **Notable:** Criterion Collection · NYT #1
+
+- **Notable:** Criterion Collection · Sight & Sound #40 · NYT #1 · RT 99% · IMDB #39
 
 
 ### #129: Portrait of a Lady on Fire (2019)
@@ -1146,10 +1032,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance
-- **RT:** 97%
-- **IMDB:** 427
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #32 · RT 97% · IMDB #427
 
 
 ### #130: 12 Years a Slave (2013)
@@ -1158,9 +1042,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, History
-- **RT:** 95%
-- **IMDB:** 157
-- **NYT:** 51
+
+- **Notable:** NYT #51 · RT 95% · IMDB #157
 
 
 ### #131: Spotlight (2015)
@@ -1169,9 +1052,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Crime, Drama
-- **RT:** 97%
-- **IMDB:** 175
-- **NYT:** 66
+
+- **Notable:** NYT #66 · RT 97% · IMDB #175
 
 
 ### #132: Gone Girl (2014)
@@ -1180,9 +1062,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Thriller
-- **RT:** 88%
-- **IMDB:** 139
-- **NYT:** 64
+
+- **Notable:** NYT #64 · RT 88% · IMDB #139
 
 
 ### #133: Logan (2017)
@@ -1191,9 +1072,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Drama, Sci-Fi
-- **RT:** 93%
-- **IMDB:** 149
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #149
 
 
 ### #134: Incendies (2010)
@@ -1202,9 +1082,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, War
-- **RT:** 91%
-- **IMDB:** 137
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #137
 
 
 ### #135: Her (2013)
@@ -1213,9 +1092,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance, Sci-Fi
-- **RT:** 95%
-- **IMDB:** 218
-- **NYT:** N/A
+
+- **Notable:** RT 95% · IMDB #218
 
 
 ### #136: Rush (2013)
@@ -1224,9 +1102,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, Sport
-- **RT:** 88%
-- **IMDB:** 173
-- **NYT:** N/A
+
+- **Notable:** RT 88% · IMDB #173
 
 
 ### #137: Capernaum (2018)
@@ -1235,9 +1112,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 90%
-- **IMDB:** 202
-- **NYT:** N/A
+
+- **Notable:** RT 90% · IMDB #202
 
 
 ### #138: Eternal Sunshine of the Spotless Mind (2004)
@@ -1246,10 +1122,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance, Sci-Fi
-- **RT:** 92%
-- **IMDB:** 76
-- **NYT:** 7
-- **Notable:** Criterion Collection · NYT #7
+
+- **Notable:** Criterion Collection · Sight & Sound #66 · NYT #7 · RT 92% · IMDB #76
 
 
 ### #139: Oldboy (2003)
@@ -1258,10 +1132,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Drama, Mystery
-- **RT:** 82%
-- **IMDB:** 88
-- **NYT:** 43
-- **Notable:** Criterion Collection · NYT #43
+
+- **Notable:** Criterion Collection · NYT #43 · RT 82% · IMDB #88
 
 
 ### #140: Memento (2000)
@@ -1270,10 +1142,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Thriller
-- **RT:** 94%
-- **IMDB:** 53
-- **NYT:** 62
-- **Notable:** Criterion Collection · NYT #62
+
+- **Notable:** Criterion Collection · NYT #62 · RT 94% · IMDB #53
 
 
 ### #141: Pan's Labyrinth (2006)
@@ -1282,9 +1152,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Fantasy, War
-- **RT:** 95%
-- **IMDB:** 118
-- **NYT:** 54
+
+- **Notable:** NYT #54 · RT 95% · IMDB #118
 
 
 ### #142: Kill Bill: Vol. 1 (2003)
@@ -1293,9 +1162,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Crime, Thriller
-- **RT:** 85%
-- **IMDB:** 96
-- **NYT:** N/A
+
+- **Notable:** RT 85% · IMDB #96
 
 
 ### #143: Slumdog Millionaire (2008)
@@ -1304,9 +1172,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Romance
-- **RT:** 92%
-- **IMDB:** 205
-- **NYT:** N/A
+
+- **Notable:** RT 92% · IMDB #205
 
 
 ### #144: To Kill a Mockingbird (1962)
@@ -1315,9 +1182,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 93%
-- **IMDB:** 156
-- **NYT:** N/A
+
+- **Notable:** AFI #25 · RT 93% · IMDB #156
 
 
 ### #145: The Apartment (1960)
@@ -1326,9 +1192,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Comedy, Drama, Romance
-- **RT:** 93%
-- **IMDB:** 160
-- **NYT:** N/A
+
+- **Notable:** AFI #80 · RT 93% · IMDB #160
 
 
 ### #146: 12 Angry Men (1957)
@@ -1337,9 +1202,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 100%
-- **IMDB:** 7
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #88 · AFI #87 · RT 100% · IMDB #7
 
 
 ### #147: Sunset Boulevard (1950)
@@ -1348,9 +1212,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Film-Noir
-- **RT:** 98%
-- **IMDB:** 99
-- **NYT:** N/A
+
+- **Notable:** AFI #16 · RT 98% · IMDB #99
 
 
 ### #148: On the Waterfront (1954)
@@ -1359,9 +1222,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Crime, Drama, Thriller
-- **RT:** 99%
-- **IMDB:** 284
-- **NYT:** N/A
+
+- **Notable:** AFI #19 · RT 99% · IMDB #284
 
 
 ### #149: Witness for the Prosecution (1957)
@@ -1370,9 +1232,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Crime, Drama, Mystery
-- **RT:** 100%
-- **IMDB:** 159
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #159
 
 
 ### #150: Stalker (1979)
@@ -1381,10 +1242,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Sci-Fi
-- **RT:** 100%
-- **IMDB:** 383
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #35 · RT 100% · IMDB #383
 
 
 ### #151: 8½ (1963)
@@ -1393,10 +1252,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 97%
-- **IMDB:** 419
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #55 · RT 97% · IMDB #419
 
 
 ### #152: The Wolf of Wall Street (2013)
@@ -1405,9 +1262,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Comedy, Crime
-- **RT:** 79%
-- **IMDB:** 91
-- **NYT:** 20
+
+- **Notable:** NYT #20 · RT 79% · IMDB #91
 
 
 ### #153: Oppenheimer (2023)
@@ -1416,9 +1272,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, History
-- **RT:** 93%
-- **IMDB:** 108
-- **NYT:** 65
+
+- **Notable:** NYT #65 · RT 93% · IMDB #108
 
 
 ### #154: Django Unchained (2012)
@@ -1427,9 +1282,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Western
-- **RT:** 87%
-- **IMDB:** 29
-- **NYT:** N/A
+
+- **Notable:** RT 87% · IMDB #29
 
 
 ### #155: Harakiri (1962)
@@ -1438,9 +1292,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery
-- **RT:** 100%
-- **IMDB:** 190
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #190
 
 
 ### #156: The Battle of Algiers (1966)
@@ -1449,9 +1302,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, War
-- **RT:** 99%
-- **IMDB:** 242
-- **NYT:** N/A
+
+- **Notable:** RT 99% · IMDB #242
 
 
 ### #157: Prisoners (2013)
@@ -1460,9 +1312,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Mystery
-- **RT:** 81%
-- **IMDB:** 111
-- **NYT:** N/A
+
+- **Notable:** RT 81% · IMDB #111
 
 
 ### #158: It Happened One Night (1934)
@@ -1471,9 +1322,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Romance
-- **RT:** 98%
-- **IMDB:** 371
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #117 · AFI #46 · RT 98% · IMDB #371
 
 
 ### #159: The 400 Blows (1959)
@@ -1482,10 +1332,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 99%
-- **IMDB:** 415
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #42 · RT 99% · IMDB #415
 
 
 ### #160: Mulholland Drive (2001)
@@ -1494,9 +1342,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Thriller
-- **RT:** 84%
-- **IMDB:** 306
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #8 · RT 84% · IMDB #306
 
 
 ### #161: No Country for Old Men (2007)
@@ -1505,9 +1352,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Thriller
-- **RT:** 93%
-- **IMDB:** 98
-- **NYT:** 6
+
+- **Notable:** NYT #6 · RT 93% · IMDB #98
 
 
 ### #162: City of God (2002)
@@ -1516,9 +1362,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 91%
-- **IMDB:** 27
-- **NYT:** 15
+
+- **Notable:** NYT #15 · RT 91% · IMDB #27
 
 
 ### #163: Amélie (2001)
@@ -1527,9 +1372,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Romance
-- **RT:** 90%
-- **IMDB:** 85
-- **NYT:** 41
+
+- **Notable:** NYT #41 · RT 90% · IMDB #85
 
 
 ### #164: The Lives of Others (2006)
@@ -1538,9 +1382,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Thriller
-- **RT:** 92%
-- **IMDB:** 79
-- **NYT:** 48
+
+- **Notable:** NYT #48 · RT 92% · IMDB #79
 
 
 ### #165: The Pianist (2002)
@@ -1549,9 +1392,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, Music
-- **RT:** 95%
-- **IMDB:** 43
-- **NYT:** N/A
+
+- **Notable:** RT 95% · IMDB #43
 
 
 ### #166: The Secret in Their Eyes (2009)
@@ -1560,9 +1402,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Romance
-- **RT:** 89%
-- **IMDB:** 189
-- **NYT:** N/A
+
+- **Notable:** RT 89% · IMDB #189
 
 
 ### #167: Three Colors: Red (1994)
@@ -1571,10 +1412,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Romance
-- **RT:** 100%
-- **IMDB:** 380
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #31 · RT 100% · IMDB #380
 
 
 ### #168: The Silence of the Lambs (1991)
@@ -1583,9 +1422,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Horror
-- **RT:** 95%
-- **IMDB:** 20
-- **NYT:** N/A
+
+- **Notable:** AFI #74 · RT 95% · IMDB #20
 
 
 ### #169: The Usual Suspects (1995)
@@ -1594,9 +1432,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Mystery
-- **RT:** 87%
-- **IMDB:** 38
-- **NYT:** N/A
+
+- **Notable:** RT 87% · IMDB #38
 
 
 ### #170: Reservoir Dogs (1992)
@@ -1605,9 +1442,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Thriller
-- **RT:** 90%
-- **IMDB:** 78
-- **NYT:** N/A
+
+- **Notable:** RT 90% · IMDB #78
 
 
 ### #171: American History X (1998)
@@ -1616,9 +1452,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 84%
-- **IMDB:** 36
-- **NYT:** N/A
+
+- **Notable:** RT 84% · IMDB #36
 
 
 ### #172: Fargo (1996)
@@ -1627,9 +1462,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Thriller
-- **RT:** 95%
-- **IMDB:** 158
-- **NYT:** N/A
+
+- **Notable:** RT 95% · IMDB #158
 
 
 ### #173: Before Sunrise (1995)
@@ -1638,9 +1472,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama, Romance
-- **RT:** 100%
-- **IMDB:** 199
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #199
 
 
 ### #174: Léon: The Professional (1994)
@@ -1649,9 +1482,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Crime, Drama
-- **RT:** 75%
-- **IMDB:** 35
-- **NYT:** N/A
+
+- **Notable:** RT 75% · IMDB #35
 
 
 ### #175: Trainspotting (1996)
@@ -1660,9 +1492,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 90%
-- **IMDB:** 161
-- **NYT:** N/A
+
+- **Notable:** RT 90% · IMDB #161
 
 
 ### #176: This Is Spinal Tap (1984)
@@ -1671,10 +1502,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Music
-- **RT:** 98%
-- **IMDB:** 452
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · RT 98% · IMDB #452
 
 
 ### #177: Stand by Me (1986)
@@ -1683,9 +1512,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Comedy, Drama
-- **RT:** 92%
-- **IMDB:** 180
-- **NYT:** N/A
+
+- **Notable:** RT 92% · IMDB #180
 
 
 ### #178: Some Like It Hot (1959)
@@ -1694,9 +1522,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Comedy, Music, Romance
-- **RT:** 95%
-- **IMDB:** 168
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #38 · AFI #22 · RT 95% · IMDB #168
 
 
 ### #179: All About Eve (1950)
@@ -1705,9 +1532,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 99%
-- **IMDB:** 255
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #64 · AFI #28 · RT 99% · IMDB #255
 
 
 ### #180: Double Indemnity (1944)
@@ -1716,9 +1542,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Crime, Drama, Film-Noir
-- **RT:** 97%
-- **IMDB:** 183
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #114 · AFI #29 · RT 97% · IMDB #183
 
 
 ### #181: The Third Man (1949)
@@ -1727,9 +1552,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Film-Noir, Mystery
-- **RT:** 99%
-- **IMDB:** 267
-- **NYT:** N/A
+
+- **Notable:** RT 99% · IMDB #267
 
 
 ### #182: Yojimbo (1961)
@@ -1738,10 +1562,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Action, Drama, Thriller
-- **RT:** 96%
-- **IMDB:** 265
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #103 · RT 96% · IMDB #265
 
 
 ### #183: Rashomon (1950)
@@ -1750,10 +1572,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Crime, Drama, Mystery
-- **RT:** 98%
-- **IMDB:** 266
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #57 · RT 98% · IMDB #266
 
 
 ### #184: There Will Be Blood (2007)
@@ -1762,10 +1582,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 91%
-- **IMDB:** 120
-- **NYT:** 3
-- **Notable:** NYT #3
+
+- **Notable:** Sight & Sound #34 · NYT #3 · RT 91% · IMDB #120
 
 
 ### #185: Inglourious Basterds (2009)
@@ -1774,9 +1592,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, War
-- **RT:** 89%
-- **IMDB:** 50
-- **NYT:** 14
+
+- **Notable:** NYT #14 · RT 89% · IMDB #50
 
 
 ### #186: The Departed (2006)
@@ -1785,9 +1602,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Thriller
-- **RT:** 91%
-- **IMDB:** 33
-- **NYT:** 31
+
+- **Notable:** NYT #31 · RT 91% · IMDB #33
 
 
 ### #187: Gladiator (2000)
@@ -1796,9 +1612,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Drama
-- **RT:** 80%
-- **IMDB:** 30
-- **NYT:** 92
+
+- **Notable:** NYT #92 · RT 80% · IMDB #30
 
 
 ### #188: Tokyo Story (1953)
@@ -1807,9 +1622,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 100%
-- **IMDB:** 214
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #214
 
 
 ### #189: Downfall (2004)
@@ -1818,9 +1632,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, History
-- **RT:** 90%
-- **IMDB:** 140
-- **NYT:** N/A
+
+- **Notable:** RT 90% · IMDB #140
 
 
 ### #190: Goodfellas (1990)
@@ -1829,9 +1642,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Crime, Drama
-- **RT:** 94%
-- **IMDB:** 18
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #95 · AFI #92 · RT 94% · IMDB #18
 
 
 ### #191: The Shawshank Redemption (1994)
@@ -1840,9 +1652,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 89%
-- **IMDB:** 1
-- **NYT:** N/A
+
+- **Notable:** AFI #72 · RT 89% · IMDB #1
 
 
 ### #192: Unforgiven (1992)
@@ -1851,9 +1662,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Western
-- **RT:** 96%
-- **IMDB:** 132
-- **NYT:** N/A
+
+- **Notable:** AFI #68 · RT 96% · IMDB #132
 
 
 ### #193: Good Will Hunting (1997)
@@ -1862,9 +1672,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Romance
-- **RT:** 97%
-- **IMDB:** 57
-- **NYT:** N/A
+
+- **Notable:** RT 97% · IMDB #57
 
 
 ### #194: Terminator 2: Judgment Day (1991)
@@ -1873,9 +1682,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Sci-Fi
-- **RT:** 91%
-- **IMDB:** 24
-- **NYT:** N/A
+
+- **Notable:** RT 91% · IMDB #24
 
 
 ### #195: L.A. Confidential (1997)
@@ -1884,9 +1692,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Mystery
-- **RT:** 99%
-- **IMDB:** 123
-- **NYT:** N/A
+
+- **Notable:** RT 99% · IMDB #123
 
 
 ### #196: Se7en (1995)
@@ -1895,9 +1702,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Mystery
-- **RT:** 84%
-- **IMDB:** 19
-- **NYT:** N/A
+
+- **Notable:** RT 84% · IMDB #19
 
 
 ### #197: The Matrix (1999)
@@ -1906,9 +1712,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Sci-Fi
-- **RT:** 83%
-- **IMDB:** 16
-- **NYT:** N/A
+
+- **Notable:** RT 83% · IMDB #16
 
 
 ### #198: Fight Club (1999)
@@ -1917,9 +1722,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Thriller
-- **RT:** 81%
-- **IMDB:** 10
-- **NYT:** N/A
+
+- **Notable:** RT 81% · IMDB #10
 
 
 ### #199: American Beauty (1999)
@@ -1928,9 +1732,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 87%
-- **IMDB:** 73
-- **NYT:** N/A
+
+- **Notable:** RT 87% · IMDB #73
 
 
 ### #200: Blade Runner (1982)
@@ -1939,9 +1742,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Drama, Sci-Fi
-- **RT:** 89%
-- **IMDB:** 153
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #43 · AFI #97 · RT 89% · IMDB #153
 
 
 ### #201: Platoon (1986)
@@ -1950,9 +1752,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, War
-- **RT:** 89%
-- **IMDB:** 184
-- **NYT:** N/A
+
+- **Notable:** AFI #86 · RT 89% · IMDB #184
 
 
 ### #202: The Terminator (1984)
@@ -1961,9 +1762,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Sci-Fi
-- **RT:** 100%
-- **IMDB:** 145
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #145
 
 
 ### #203: Full Metal Jacket (1987)
@@ -1972,9 +1772,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, War
-- **RT:** 90%
-- **IMDB:** 115
-- **NYT:** N/A
+
+- **Notable:** RT 90% · IMDB #115
 
 
 ### #204: The Thing (1982)
@@ -1983,9 +1782,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Horror, Mystery, Sci-Fi
-- **RT:** 85%
-- **IMDB:** 127
-- **NYT:** N/A
+
+- **Notable:** RT 85% · IMDB #127
 
 
 ### #205: The Treasure of the Sierra Madre (1948)
@@ -1994,9 +1792,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Adventure, Drama, Western
-- **RT:** 100%
-- **IMDB:** 269
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #92 · AFI #38 · RT 100% · IMDB #269
 
 
 ### #206: The Grapes of Wrath (1940)
@@ -2005,9 +1802,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 100%
-- **IMDB:** 399
-- **NYT:** N/A
+
+- **Notable:** AFI #23 · RT 100% · IMDB #399
 
 
 ### #207: The Gold Rush (1925)
@@ -2016,9 +1812,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Adventure, Comedy, Drama
-- **RT:** 98%
-- **IMDB:** 352
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #120 · AFI #58 · RT 98% · IMDB #352
 
 
 ### #208: The Seventh Seal (1957)
@@ -2027,10 +1822,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Fantasy
-- **RT:** 93%
-- **IMDB:** 251
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #65 · RT 93% · IMDB #251
 
 
 ### #209: Wild Strawberries (1957)
@@ -2039,10 +1832,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Romance
-- **RT:** 94%
-- **IMDB:** 359
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #81 · RT 94% · IMDB #359
 
 
 ### #210: Bicycle Thieves (1948)
@@ -2051,10 +1842,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 99%
-- **IMDB:** 224
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #16 · RT 99% · IMDB #224
 
 
 ### #211: Pulp Fiction (1994)
@@ -2063,9 +1852,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 92%
-- **IMDB:** 12
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #96 · AFI #94 · RT 92% · IMDB #12
 
 
 ### #212: Saving Private Ryan (1998)
@@ -2074,9 +1862,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, War
-- **RT:** 94%
-- **IMDB:** 21
-- **NYT:** N/A
+
+- **Notable:** AFI #71 · RT 94% · IMDB #21
 
 
 ### #213: Heat (1995)
@@ -2085,9 +1872,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Crime, Drama
-- **RT:** 84%
-- **IMDB:** 86
-- **NYT:** N/A
+
+- **Notable:** RT 84% · IMDB #86
 
 
 ### #214: Braveheart (1995)
@@ -2096,9 +1882,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, War
-- **RT:** 76%
-- **IMDB:** 80
-- **NYT:** N/A
+
+- **Notable:** RT 76% · IMDB #80
 
 
 ### #215: The Shining (1980)
@@ -2107,10 +1892,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Horror
-- **RT:** 83%
-- **IMDB:** 56
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #51 · RT 83% · IMDB #56
 
 
 ### #216: Brazil (1985)
@@ -2119,10 +1902,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Sci-Fi, Thriller
-- **RT:** 98%
-- **IMDB:** 486
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · RT 98% · IMDB #486
 
 
 ### #217: Aliens (1986)
@@ -2131,9 +1912,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Horror
-- **RT:** 94%
-- **IMDB:** 59
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #59
 
 
 ### #218: Das Boot (1981)
@@ -2142,9 +1922,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, War
-- **RT:** 98%
-- **IMDB:** 126
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #126
 
 
 ### #219: Die Hard (1988)
@@ -2153,9 +1932,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Thriller
-- **RT:** 94%
-- **IMDB:** 106
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #106
 
 
 ### #220: Taxi Driver (1976)
@@ -2164,10 +1942,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 89%
-- **IMDB:** 107
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #74 · AFI #52 · RT 89% · IMDB #107
 
 
 ### #221: Monty Python's Life of Brian (1979)
@@ -2176,10 +1952,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy
-- **RT:** 96%
-- **IMDB:** 242
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #115 · RT 96% · IMDB #242
 
 
 ### #222: Alien (1979)
@@ -2188,9 +1962,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Horror, Sci-Fi
-- **RT:** 93%
-- **IMDB:** 41
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #41
 
 
 ### #223: The Best Years of Our Lives (1946)
@@ -2199,9 +1972,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Romance, War
-- **RT:** 98%
-- **IMDB:** 226
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #226
 
 
 ### #224: Mr. Smith Goes to Washington (1939)
@@ -2210,9 +1982,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Comedy, Drama
-- **RT:** 85%
-- **IMDB:** 343
-- **NYT:** N/A
+
+- **Notable:** AFI #26 · RT 85% · IMDB #343
 
 
 ### #225: Ikiru (1952)
@@ -2221,10 +1992,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 98%
-- **IMDB:** 290
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #91 · RT 98% · IMDB #290
 
 
 ### #226: The Green Mile (1999)
@@ -2233,9 +2002,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama, Fantasy
-- **RT:** 79%
-- **IMDB:** 23
-- **NYT:** N/A
+
+- **Notable:** RT 79% · IMDB #23
 
 
 ### #227: Ran (1985)
@@ -2244,10 +2012,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Drama, War
-- **RT:** 96%
-- **IMDB:** 253
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #84 · RT 96% · IMDB #253
 
 
 ### #228: Scarface (1983)
@@ -2256,9 +2022,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 79%
-- **IMDB:** 81
-- **NYT:** N/A
+
+- **Notable:** RT 79% · IMDB #81
 
 
 ### #229: Apocalypse Now (1979)
@@ -2267,10 +2032,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, War
-- **RT:** 90%
-- **IMDB:** 63
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #20 · AFI #30 · RT 90% · IMDB #63
 
 
 ### #230: Chinatown (1974)
@@ -2279,10 +2042,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Mystery, Thriller
-- **RT:** 98%
-- **IMDB:** 198
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #52 · AFI #21 · RT 98% · IMDB #198
 
 
 ### #231: A Clockwork Orange (1971)
@@ -2291,10 +2052,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Sci-Fi
-- **RT:** 86%
-- **IMDB:** 110
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #98 · AFI #70 · RT 86% · IMDB #110
 
 
 ### #232: One Flew Over the Cuckoo's Nest (1975)
@@ -2303,9 +2062,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 93%
-- **IMDB:** 25
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #100 · AFI #33 · RT 93% · IMDB #25
 
 
 ### #233: Network (1976)
@@ -2314,9 +2072,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 91%
-- **IMDB:** 278
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #99 · AFI #64 · RT 91% · IMDB #278
 
 
 ### #234: The Wages of Fear (1953)
@@ -2325,9 +2082,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Adventure, Drama, Thriller
-- **RT:** 100%
-- **IMDB:** 207
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #207
 
 
 ### #235: Raging Bull (1980)
@@ -2336,9 +2092,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Biography, Drama, Sport
-- **RT:** 92%
-- **IMDB:** 191
-- **NYT:** N/A
+
+- **Notable:** AFI #4 · RT 92% · IMDB #191
 
 
 ### #236: Once Upon a Time in America (1984)
@@ -2347,9 +2102,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 86%
-- **IMDB:** 103
-- **NYT:** N/A
+
+- **Notable:** RT 86% · IMDB #103
 
 
 ### #237: The Godfather (1972)
@@ -2358,9 +2112,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 97%
-- **IMDB:** 2
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #107 · AFI #2 · RT 97% · IMDB #2
 
 
 ### #238: For a Few Dollars More (1965)
@@ -2369,9 +2122,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, Western
-- **RT:** 92%
-- **IMDB:** 171
-- **NYT:** N/A
+
+- **Notable:** RT 92% · IMDB #171
 
 
 ### #239: The Passion of Joan of Arc (1928)
@@ -2380,9 +2132,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Biography, Drama, History
-- **RT:** 98%
-- **IMDB:** 230
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #230
 
 
 ### #240: Seven Samurai (1954)
@@ -2391,10 +2142,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Action, Drama
-- **RT:** 100%
-- **IMDB:** 44
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #90 · RT 100% · IMDB #44
 
 
 ### #241: Schindler's List (1993)
@@ -2403,9 +2152,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Biography, Drama, History
-- **RT:** 98%
-- **IMDB:** 5
-- **NYT:** N/A
+
+- **Notable:** AFI #8 · RT 98% · IMDB #5
 
 
 ### #242: The Deer Hunter (1978)
@@ -2414,10 +2162,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama, War
-- **RT:** 86%
-- **IMDB:** 197
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #108 · AFI #53 · RT 86% · IMDB #197
 
 
 ### #243: The Godfather Part II (1974)
@@ -2426,9 +2172,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Crime, Drama
-- **RT:** 96%
-- **IMDB:** 6
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #109 · AFI #32 · RT 96% · IMDB #6
 
 
 ### #244: Psycho (1960)
@@ -2437,9 +2182,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Horror, Mystery
-- **RT:** 97%
-- **IMDB:** 45
-- **NYT:** N/A
+
+- **Notable:** Sight & Sound #22 · AFI #14 · RT 97% · IMDB #45
 
 
 ### #245: The Good, the Bad and the Ugly (1966)
@@ -2448,9 +2192,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Western
-- **RT:** 97%
-- **IMDB:** 14
-- **NYT:** N/A
+
+- **Notable:** RT 97% · IMDB #14
 
 
 ### #246: The General (1926)
@@ -2459,9 +2202,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Action, Adventure, Comedy
-- **RT:** 92%
-- **IMDB:** 406
-- **NYT:** N/A
+
+- **Notable:** AFI #18 · RT 92% · IMDB #406
 
 
 ### #247: The Kid (1921)
@@ -2470,9 +2212,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Comedy, Drama, Family
-- **RT:** 100%
-- **IMDB:** 259
-- **NYT:** N/A
+
+- **Notable:** RT 100% · IMDB #259
 
 
 ### #248: M (1931)
@@ -2481,10 +2222,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Crime, Mystery, Thriller
-- **RT:** 100%
-- **IMDB:** 181
-- **NYT:** N/A
-- **Notable:** Criterion Collection
+
+- **Notable:** Criterion Collection · Sight & Sound #94 · RT 100% · IMDB #181
 
 
 ### #249: Metropolis (1927)
@@ -2493,9 +2232,8 @@ This is the list of movies!
 - **Black and White:** true
 - **Animated:** false
 - **Genre:** Drama, Sci-Fi
-- **RT:** 97%
-- **IMDB:** 220
-- **NYT:** N/A
+
+- **Notable:** RT 97% · IMDB #220
 
 
 ### #250: Requiem for a Dream (2000)
@@ -2504,9 +2242,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Drama
-- **RT:** 78%
-- **IMDB:** 82
-- **NYT:** N/A
+
+- **Notable:** RT 78% · IMDB #82
 
 
 ## Watched
@@ -2517,9 +2254,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Action, Adventure
-- **RT:** 97%
-- **IMDB:** 61
-- **NYT:** N/A
+
+- **Notable:** RT 97% · IMDB #61
 
 
 ### #12: Coco (2017)
@@ -2528,9 +2264,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Drama
-- **RT:** 97%
-- **IMDB:** 65
-- **NYT:** N/A
+
+- **Notable:** RT 97% · IMDB #65
 
 
 ### #13: How to Train Your Dragon (2010)
@@ -2539,9 +2274,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Action, Adventure
-- **RT:** 99%
-- **IMDB:** 152
-- **NYT:** N/A
+
+- **Notable:** RT 99% · IMDB #152
 
 
 ### #14: Inside Out (2015)
@@ -2550,9 +2284,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 98%
-- **IMDB:** 151
-- **NYT:** N/A
+
+- **Notable:** RT 98% · IMDB #151
 
 
 ### #16: The Wild Robot (2024)
@@ -2561,9 +2294,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Family
-- **RT:** 96%
-- **IMDB:** 204
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #204
 
 
 ### #19: Spider-Man: Across the Spider-Verse (2023)
@@ -2572,9 +2304,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Action, Adventure
-- **RT:** 95%
-- **IMDB:** 51
-- **NYT:** N/A
+
+- **Notable:** RT 95% · IMDB #51
 
 
 ### #20: Up (2009)
@@ -2583,9 +2314,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Comedy
-- **RT:** 98%
-- **IMDB:** 74
-- **NYT:** 50
+
+- **Notable:** NYT #50 · RT 98% · IMDB #74
 
 
 ### #21: Howl's Moving Castle (2004)
@@ -2594,9 +2324,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Family
-- **RT:** 88%
-- **IMDB:** 128
-- **NYT:** N/A
+
+- **Notable:** RT 88% · IMDB #128
 
 
 ### #24: Spirited Away (2001)
@@ -2605,10 +2334,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** true
 - **Genre:** Animation, Adventure, Family
-- **RT:** 96%
-- **IMDB:** 26
-- **NYT:** 9
-- **Notable:** Criterion Collection · NYT #9
+
+- **Notable:** Criterion Collection · Sight & Sound #86 · NYT #9 · RT 96% · IMDB #26
 
 
 ### #29: The Truman Show (1998)
@@ -2617,9 +2344,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama
-- **RT:** 94%
-- **IMDB:** 95
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #95
 
 
 ### #30: Groundhog Day (1993)
@@ -2628,9 +2354,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Comedy, Drama, Fantasy
-- **RT:** 94%
-- **IMDB:** 216
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #216
 
 
 ### #35: Raiders of the Lost Ark (1981)
@@ -2639,9 +2364,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure
-- **RT:** 94%
-- **IMDB:** 58
-- **NYT:** N/A
+
+- **Notable:** AFI #66 · RT 94% · IMDB #58
 
 
 ### #36: Back to the Future (1985)
@@ -2650,9 +2374,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Comedy, Sci-Fi
-- **RT:** 93%
-- **IMDB:** 34
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #34
 
 
 ### #39: Star Wars: Episode V - The Empire Strikes Back (1980)
@@ -2661,9 +2384,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Fantasy
-- **RT:** 93%
-- **IMDB:** 17
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #17
 
 
 ### #40: Star Wars: Episode VI - Return of the Jedi (1983)
@@ -2672,9 +2394,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Fantasy
-- **RT:** 83%
-- **IMDB:** 75
-- **NYT:** N/A
+
+- **Notable:** RT 83% · IMDB #75
 
 
 ### #44: Monty Python and the Holy Grail (1975)
@@ -2683,9 +2404,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Comedy, Fantasy
-- **RT:** 92%
-- **IMDB:** 125
-- **NYT:** N/A
+
+- **Notable:** RT 92% · IMDB #125
 
 
 ### #51: Star Wars: Episode IV - A New Hope (1977)
@@ -2694,9 +2414,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Fantasy
-- **RT:** 94%
-- **IMDB:** 22
-- **NYT:** N/A
+
+- **Notable:** AFI #13 · RT 94% · IMDB #22
 
 
 ### #57: Inception (2010)
@@ -2705,9 +2424,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Sci-Fi
-- **RT:** 87%
-- **IMDB:** 9
-- **NYT:** 55
+
+- **Notable:** NYT #55 · RT 87% · IMDB #9
 
 
 ### #59: Avengers: Infinity War (2018)
@@ -2716,9 +2434,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Sci-Fi
-- **RT:** 85%
-- **IMDB:** 54
-- **NYT:** N/A
+
+- **Notable:** RT 85% · IMDB #54
 
 
 ### #60: Harry Potter and the Deathly Hallows: Part 2 (2011)
@@ -2727,9 +2444,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Family, Fantasy
-- **RT:** 96%
-- **IMDB:** 143
-- **NYT:** N/A
+
+- **Notable:** RT 96% · IMDB #143
 
 
 ### #61: Spider-Man: No Way Home (2021)
@@ -2738,9 +2454,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Fantasy
-- **RT:** 93%
-- **IMDB:** 144
-- **NYT:** N/A
+
+- **Notable:** RT 93% · IMDB #144
 
 
 ### #86: Avengers: Endgame (2019)
@@ -2749,9 +2464,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure, Sci-Fi
-- **RT:** 94%
-- **IMDB:** 52
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #52
 
 
 ### #88: The Lord of the Rings: The Fellowship of the Ring (2001)
@@ -2760,10 +2474,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Fantasy
-- **RT:** 92%
-- **IMDB:** 8
-- **NYT:** 87
-- **Notable:** NYT #87
+
+- **Notable:** AFI #50 · NYT #87 · RT 92% · IMDB #8
 
 
 ### #90: The Lord of the Rings: The Two Towers (2002)
@@ -2772,9 +2484,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Fantasy
-- **RT:** 95%
-- **IMDB:** 13
-- **NYT:** N/A
+
+- **Notable:** RT 95% · IMDB #13
 
 
 ### #96: The Lord of the Rings: The Return of the King (2003)
@@ -2783,9 +2494,8 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Adventure, Drama, Fantasy
-- **RT:** 94%
-- **IMDB:** 4
-- **NYT:** N/A
+
+- **Notable:** RT 94% · IMDB #4
 
 
 ### #98: Indiana Jones and the Last Crusade (1989)
@@ -2794,6 +2504,5 @@ This is the list of movies!
 - **Black and White:** false
 - **Animated:** false
 - **Genre:** Action, Adventure
-- **RT:** 84%
-- **IMDB:** 112
-- **NYT:** N/A
+
+- **Notable:** RT 84% · IMDB #112
