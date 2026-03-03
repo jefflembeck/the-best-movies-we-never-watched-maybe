@@ -14,7 +14,8 @@
       "Animation",
       "Adventure",
       "Comedy"
-    ]
+    ],
+    "watched": true
   },
   {
     "imdbRank": 83,
@@ -31,7 +32,8 @@
       "Animation",
       "Adventure",
       "Comedy"
-    ]
+    ],
+    "watched": true
   },
   {
     "imdbRank": 55,
@@ -48,7 +50,8 @@
       "Animation",
       "Adventure",
       "Family"
-    ]
+    ],
+    "watched": true
   },
   {
     "imdbRank": 97,
@@ -65,7 +68,8 @@
       "Animation",
       "Adventure",
       "Comedy"
-    ]
+    ],
+    "watched": true
   },
   {
     "imdbRank": 142,
@@ -82,7 +86,8 @@
       "Animation",
       "Adventure",
       "Comedy"
-    ]
+    ],
+    "watched": true
   },
   {
     "imdbRank": 37,
@@ -99,7 +104,8 @@
       "Animation",
       "Adventure",
       "Drama"
-    ]
+    ],
+    "watched": true
   },
   {
     "imdbRank": 147,
@@ -4554,7 +4560,7 @@
     "animated": true,
     "rottenTomatoes": "96%",
     "nytRank": "N/A",
-    "watched": false,
+    "watched": true,
     "genre": [
       "Animation",
       "Adventure",
