@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A family movie ranking system that scores IMDb Top 250 movies for family viewing. It combines IMDb popularity, Rotten Tomatoes critics' scores, and The New York Times editorial rankings into a single "early-watch" score. Lower scores mean "watch sooner." The project is designed to help a family choose age-appropriate, entertaining movies for a preteen.
+A two-stage family movie ranking system. Stage 1 scores all movies for cultural significance and selects the top 250. Stage 2 orders that pool by how accessible they are for a preteen viewer (age-appropriate rating, runtime, era, color, animation). Lower accessibility score = watch sooner.
 
 ## Tech Stack
 
@@ -16,44 +16,46 @@ A family movie ranking system that scores IMDb Top 250 movies for family viewing
 
 ```
 src/
-├── index.ts              # Main entry point — scoring, sorting, and output generation
+├── index.ts                      # Main entry — both scoring stages, sorting, output
 ├── types/
-│   └── movie.ts          # Movie type definition
+│   └── movie.ts                  # Movie type definition
 ├── lib/
-│   ├── iranker.ts         # IRanker interface (multiplier + rawToScore)
-│   ├── imdb-ranker.ts     # IMDb rank scoring (weight: 0.2)
-│   ├── rotten-tomato-ranker.ts  # RT score (weight: 0.3)
-│   ├── nyt-ranker.ts      # NYT ranking (weight: 0.5)
-│   ├── rating-ranker.ts   # MPAA rating scoring (weight: 2.5)
-│   ├── decade-ranker.ts   # Release year scoring (weight: 1.2)
-│   ├── length-ranker.ts   # Runtime scoring (weight: 1.0)
-│   ├── black-and-white-ranker.ts  # B&W detection (weight: 1.0)
-│   └── animation-ranker.ts       # Animation detection (weight: 1.0)
+│   ├── iranker.ts                # IRanker interface (multiplier + rawToScore)
+│   ├── rating-ranker.ts          # MPAA rating → accessibility score (multiplier 2.5)
+│   ├── decade-ranker.ts          # Release year → accessibility score (multiplier 1.2)
+│   ├── length-ranker.ts          # Runtime → accessibility score (multiplier 1.0)
+│   ├── black-and-white-ranker.ts # B&W flag → accessibility score (multiplier 1.0)
+│   ├── animation-ranker.ts       # Animated flag → accessibility score (multiplier 1.0)
+│   ├── imdb-ranker.ts            # ORPHANED — not imported by index.ts
+│   ├── rotten-tomato-ranker.ts   # ORPHANED — not imported by index.ts
+│   └── nyt-ranker.ts             # ORPHANED — not imported by index.ts
 ├── data/
-│   └── movies.json        # Movie database (~250 movies)
+│   ├── movies.json               # Movie database — single source of truth
+│   ├── sight-and-sound.json      # Sight & Sound top films (with rank + imdbId)
+│   ├── afi.json                  # AFI top 100 (with rank + imdbId)
+│   └── criterion.json            # Criterion Collection titles (imdbId list)
 scripts/
-├── update-imdb-rankings.js  # Monthly IMDb Top 250 update (downloads IMDb datasets)
-├── add-nyt-ranking.js       # Merges NYT rankings into movie data
-└── fetch-rotten.js          # Fetches RT ratings via OMDb API (requires OMDBAPIKEY in .env)
+├── update-imdb-rankings.js       # Monthly IMDb Top 250 update (downloads IMDb datasets)
+├── add-nyt-ranking.js            # Merges NYT rankings into movies.json
+└── fetch-rotten.js               # Fetches RT ratings via OMDb API (requires OMDBAPIKEY)
 .github/workflows/
-└── update-imdb-rankings.yml # Monthly cron — runs update script and opens a PR
-build/                       # Compiled JS output (generated)
-reveal.js/                   # Presentation output directory
-MOVIES.md                    # Generated ranked movie list
+└── update-imdb-rankings.yml      # Monthly cron — runs update script and opens a PR
+build/                            # Compiled JS output (generated — do not edit)
+MOVIES.md                         # Generated ranked movie list (do not edit)
 ```
 
 ## Commands
 
-- `npm run create-list` — Run the main scoring pipeline via `ts-node src/index.ts`. Generates the reveal.js presentation and `MOVIES.md`.
-- `npm run update-imdb` — Download IMDb datasets and update rankings in `movies.json`. Adds new Top 250 entries and updates existing ranks.
+- `npm run create-list` — Run the full pipeline via `ts-node src/index.ts`. Regenerates `MOVIES.md`.
+- `npm run update-imdb` — Download IMDb datasets and update rankings in `movies.json`.
 - `npm run build` — Compile TypeScript to JavaScript in `build/`.
-- `npm test` — Not yet implemented (placeholder only).
+- `npm test` — Not implemented (placeholder only).
 
 ## Architecture
 
-### Scoring System
+### IRanker Interface (`src/lib/iranker.ts`)
 
-All rankers implement the `IRanker` interface (`src/lib/iranker.ts`):
+Used exclusively for Stage 2 (accessibility) rankers:
 
 ```typescript
 interface IRanker {
@@ -62,27 +64,81 @@ interface IRanker {
 }
 ```
 
-Each movie attribute is scored by its ranker, multiplied by its weight, and all components are summed. The `scoreMovie()` function in `src/index.ts` orchestrates this.
+Score contribution = `rawToScore(value) * multiplier`. Lower = more accessible / watch sooner.
+
+### Stage 1: Quality Scoring
+
+**Location:** `qualityScore()` function in `src/index.ts` — inline logic, NOT using IRanker classes.
+
+Selects the top 250 most culturally significant films. Lower score = more canonical.
+
+| Signal | Weight | Scoring logic |
+|---|---|---|
+| Sight & Sound rank | 3.0 | `rank / 250` (0.004–1.0); not listed → `1.5 × 3.0` |
+| Criterion Collection | 2.5 | listed → `0`; not listed → `1.0 × 2.5` |
+| AFI rank | 2.0 | `rank / 100` (0.01–1.0); not listed → `1.5 × 2.0` |
+| NYT rank | 2.0 | `rank / 100` (0.01–1.0); not ranked → `1.0 × 2.0` |
+| Rotten Tomatoes | 1.5 | `(100 − score) / 100`; unknown → `0.5 × 1.5` |
+| IMDb rank | 1.0 | `rank / 500` (0.002–1.0); not ranked → `1.5 × 1.0` |
+
+Canonical list data is loaded from `data/sight-and-sound.json`, `data/afi.json`, and `data/criterion.json` at startup and accessed via `Map`/`Set` lookups by `imdbId`.
+
+### Stage 2: Accessibility Scoring
+
+**Location:** `accessibilityScore()` function in `src/index.ts`, delegating to 5 IRanker classes.
+
+Orders the top-250 pool for a preteen viewer. Lower score = watch sooner.
+
+| Ranker | Field | Multiplier | Key scores |
+|---|---|---|---|
+| `RatingRanker` | `rating` | 2.5 | G→0, PG→1, PG-13→2, R→4, unknown→3.5 |
+| `DecadeRanker` | `year` | 1.2 | 2010+→0, 2000s→0.5, 1990s→1 … pre-1940→4 |
+| `LengthRanker` | `length` | 1.0 | ≤90m→0, 91-120m→0.5, 121-150m→1, 151-180m→1.5, >180m→2 |
+| `BlackAndWhiteRanker` | `blackAndWhite` | 1.0 | false→0, true→1 |
+| `AnimationRanker` | `animated` | 1.0 | false→0, true→**−1** (bonus) |
+
+`length` is stored as a string like `"1h 30m"` and parsed by `LengthRanker`.
 
 ### Key Types
 
-- `Movie` — Base movie data (`src/types/movie.ts`)
-- `ScoredMovie` — Movie with `totalScore` (defined in `src/index.ts`)
-- `RankedMovie` — ScoredMovie with `overallRank` (defined in `src/index.ts`)
+**`Movie`** (`src/types/movie.ts`) — all fields optional:
+```
+imdbRank, imdbId, title, year, length, rating,
+blackAndWhite, animated, rottenTomatoes, nytRank,
+watched, genre, criterion
+```
+Note: `Movie.criterion` is a legacy field — Criterion membership is now sourced from `data/criterion.json`.
+
+**`ScoredMovie`** (defined in `src/index.ts`) — extends Movie with:
+- `qualityScore: number` — Stage 1 result
+- `accessibilityScore: number` — Stage 2 result
+- `onCanonicalList: boolean` — true if in Sight & Sound, AFI, or Criterion
+
+**`RankedMovie`** (defined in `src/index.ts`) — extends ScoredMovie with:
+- `overallRank: number` — 1-indexed position after Stage 2 sort
 
 ### Data Flow
 
-1. `movies.json` is loaded and parsed
-2. Each movie is scored by all 8 rankers
-3. Movies are sorted by score ascending (lower = watch sooner)
-4. Partitioned into watched/unwatched
-5. Output as both a reveal.js presentation and `MOVIES.md`
+1. Load `movies.json` and the three canonical list JSON files
+2. Build `Map`/`Set` lookups by `imdbId` for O(1) canonical list access
+3. Score every movie with `qualityScore()` → sort ascending → take top 250 (`POOL_SIZE`)
+4. Score the pool with `accessibilityScore()` → sort ascending → assign `overallRank`
+5. Partition into watched / unwatched
+6. Write `MOVIES.md`
+
+### Where to Make Changes
+
+- **Add/adjust a quality signal** → edit `qualityScore()` in `src/index.ts`
+- **Add/adjust an accessibility signal** → add/edit an IRanker class in `src/lib/`, import and call it in `accessibilityScore()` in `src/index.ts`
+- **Add a new movie** → add an entry to `src/data/movies.json`
+- **Mark a movie watched** → set `"watched": true` in its `movies.json` entry
+- **Update IMDb data** → run `npm run update-imdb`
 
 ## Code Conventions
 
-- **Classes:** PascalCase (e.g., `IMDBRanker`, `RottenTomatoesRanker`)
+- **Classes:** PascalCase (e.g., `RatingRanker`, `AnimationRanker`)
 - **Functions:** camelCase
-- **Pattern:** Strategy pattern via IRanker interface — each ranker is a separate class
+- **Pattern:** Strategy pattern via IRanker for accessibility rankers; quality scoring is plain functions
 - **Modules:** One class per file in `src/lib/`
 - **Types:** Defined in `src/types/`
 - **No linter or formatter configured** — follow existing code style
@@ -91,27 +147,23 @@ Each movie attribute is scored by its ranker, multiplied by its weight, and all 
 
 A GitHub Actions workflow (`.github/workflows/update-imdb-rankings.yml`) runs monthly on the 1st and can be triggered manually via `workflow_dispatch`.
 
-**How it works:**
-1. Downloads free IMDb bulk datasets (`title.ratings.tsv.gz` and `title.basics.tsv.gz`)
-2. Computes the Top 250 using IMDb's Bayesian weighted rating formula
-3. Matches existing movies by `imdbId` (falls back to title+year if no ID yet)
+1. Downloads IMDb bulk datasets (`title.ratings.tsv.gz`, `title.basics.tsv.gz`)
+2. Computes Top 250 using IMDb's Bayesian weighted rating formula
+3. Matches movies by `imdbId` (falls back to title+year if no ID yet)
 4. Updates ranks, adds new entries, flags dropped movies
-5. If `movies.json` changed, opens a PR on the `automated/imdb-rankings-update` branch
+5. If `movies.json` changed, opens a PR on `automated/imdb-rankings-update`
 
-**New movies** entering the Top 250 are added with default values (`rating: "Not Rated"`, `blackAndWhite: false`, `animated: false`, etc.) and should be reviewed manually in the PR before merging.
-
-**The `imdbId` field** is a stable IMDb identifier (e.g., `tt0111161`) used for matching across updates. It is populated automatically on the first run via title+year matching. Movies that can't be matched are logged in the PR for manual resolution.
+New movies are added with default values (`rating: "Not Rated"`, `blackAndWhite: false`, `animated: false`, etc.) and should be reviewed manually before merging.
 
 ## Environment Variables
 
-- `OMDBAPIKEY` — Required only for `scripts/fetch-rotten.js` (OMDb API key). Loaded via `dotenv` from `.env`.
+- `OMDBAPIKEY` — Required only for `scripts/fetch-rotten.js`. Loaded via `dotenv` from `.env`.
 
 ## Important Notes
 
-- `.env`, `.npmrc`, `node_modules`, and `update-summary.json` are gitignored — never commit these
-- The `movies.json` file is the single source of truth for movie data
-- When movies are watched, they are marked with `"watched": true` in `movies.json`
-- Each movie may have an `imdbId` field (e.g., `tt0111161`) for stable identification across IMDb updates
-- There is no test suite — the test script is a placeholder
-- Commit messages in this repo are casual and track which movies have been watched
-- The `build/` directory contains compiled output and should not be edited directly
+- Never commit: `.env`, `.npmrc`, `node_modules/`, `update-summary.json`, `build/`
+- Never edit `MOVIES.md` or `build/` directly — both are generated output
+- `movies.json` is the single source of truth for per-movie data
+- `imdbId` (e.g., `tt0111161`) is the stable identifier used for matching across all data sources
+- There is no test suite — `npm test` is a placeholder
+- Commit messages in this repo are casual and often note which movies have been watched
