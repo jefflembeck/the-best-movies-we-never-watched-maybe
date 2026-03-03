@@ -6,26 +6,6 @@ This is the list of movies!
 
 *250 films sorted by accessibility — most appropriate for a preteen first.*
 
-### #1: Toy Story 3 (2010)
-- **MPAA Rating:** G
-- **Runtime:** 1h 43m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Adventure, Comedy
-
-- **Notable:** RT 98% · IMDB #83
-
-
-### #2: WALL·E (2008)
-- **MPAA Rating:** G
-- **Runtime:** 1h 38m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Adventure, Family
-
-- **Notable:** NYT #34 · RT 95% · IMDB #55
-
-
 ### #3: Ratatouille (2007)
 - **MPAA Rating:** G
 - **Runtime:** 1h 51m
@@ -34,56 +14,6 @@ This is the list of movies!
 - **Genre:** Animation, Adventure, Comedy
 
 - **Notable:** NYT #73 · RT 96% · IMDB #147
-
-
-### #4: Finding Nemo (2003)
-- **MPAA Rating:** G
-- **Runtime:** 1h 40m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Adventure, Comedy
-
-- **Notable:** RT 99% · IMDB #97
-
-
-### #5: Monsters, Inc. (2001)
-- **MPAA Rating:** G
-- **Runtime:** 1h 32m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Adventure, Comedy
-
-- **Notable:** RT 96% · IMDB #142
-
-
-### #6: Toy Story (1995)
-- **MPAA Rating:** G
-- **Runtime:** 1h 21m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Adventure, Comedy
-
-- **Notable:** AFI #99 · RT 100% · IMDB #77
-
-
-### #7: The Lion King (1994)
-- **MPAA Rating:** G
-- **Runtime:** 1h 28m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Adventure, Drama
-
-- **Notable:** RT 93% · IMDB #37
-
-
-### #8: Aladdin (1992)
-- **MPAA Rating:** G
-- **Runtime:** 1h 30m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Adventure, Comedy
-
-- **Notable:** RT 96% · IMDB #236
 
 
 ### #9: Beauty and the Beast (1991)
@@ -2247,6 +2177,76 @@ This is the list of movies!
 
 
 ## Watched
+
+### #1: Toy Story 3 (2010)
+- **MPAA Rating:** G
+- **Runtime:** 1h 43m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Comedy
+
+- **Notable:** RT 98% · IMDB #83
+
+
+### #2: WALL·E (2008)
+- **MPAA Rating:** G
+- **Runtime:** 1h 38m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Family
+
+- **Notable:** NYT #34 · RT 95% · IMDB #55
+
+
+### #4: Finding Nemo (2003)
+- **MPAA Rating:** G
+- **Runtime:** 1h 40m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Comedy
+
+- **Notable:** RT 99% · IMDB #97
+
+
+### #5: Monsters, Inc. (2001)
+- **MPAA Rating:** G
+- **Runtime:** 1h 32m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Comedy
+
+- **Notable:** RT 96% · IMDB #142
+
+
+### #6: Toy Story (1995)
+- **MPAA Rating:** G
+- **Runtime:** 1h 21m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Comedy
+
+- **Notable:** AFI #99 · RT 100% · IMDB #77
+
+
+### #7: The Lion King (1994)
+- **MPAA Rating:** G
+- **Runtime:** 1h 28m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Drama
+
+- **Notable:** RT 93% · IMDB #37
+
+
+### #8: Aladdin (1992)
+- **MPAA Rating:** G
+- **Runtime:** 1h 30m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Comedy
+
+- **Notable:** RT 96% · IMDB #236
+
 
 ### #11: Spider-Man: Into the Spider-Verse (2018)
 - **MPAA Rating:** PG
