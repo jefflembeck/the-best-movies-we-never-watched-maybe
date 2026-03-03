@@ -4473,7 +4473,7 @@
     "animated": true,
     "rottenTomatoes": "98%",
     "nytRank": "N/A",
-    "watched": false,
+    "watched": true,
     "genre": [
       "Animation",
       "Action",
