@@ -16,16 +16,6 @@ This is the list of movies!
 - **Notable:** NYT #73 · RT 96% · IMDB #147
 
 
-### #9: Beauty and the Beast (1991)
-- **MPAA Rating:** G
-- **Runtime:** 1h 24m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Family, Fantasy
-
-- **Notable:** RT 95% · IMDB #235
-
-
 ### #10: My Neighbor Totoro (1988)
 - **MPAA Rating:** G
 - **Runtime:** 1h 26m
@@ -2236,6 +2226,16 @@ This is the list of movies!
 - **Genre:** Animation, Adventure, Comedy
 
 - **Notable:** RT 96% · IMDB #236
+
+
+### #9: Beauty and the Beast (1991)
+- **MPAA Rating:** G
+- **Runtime:** 1h 24m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Family, Fantasy
+
+- **Notable:** RT 95% · IMDB #235
 
 
 ### #11: Spider-Man: Into the Spider-Verse (2018)
