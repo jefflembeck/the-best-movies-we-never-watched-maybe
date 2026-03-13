@@ -183,7 +183,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Action, Biography, Crime
 
-- **Notable:** Sight & Sound #211 · RT 93% · IMDB #379
+- **Notable:** Sight & Sound #211 · RT 93% · IMDB #380
 
 
 ### #25: A Separation (2011)
@@ -203,7 +203,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Action, Adventure, Drama
 
-- **Notable:** Criterion Collection · RT 98% · IMDB #340
+- **Notable:** Criterion Collection · RT 98% · IMDB #341
 
 
 ### #28: Rear Window (1954)
@@ -546,7 +546,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Romance
 
-- **Notable:** NYT #49 · RT 94% · IMDB #219
+- **Notable:** NYT #49 · RT 94% · IMDB #220
 
 
 ### #64: Beau travail (1998)
@@ -686,7 +686,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Biography, Drama, History
 
-- **Notable:** NYT #51 · RT 95% · IMDB #157
+- **Notable:** NYT #51 · RT 95% · IMDB #158
 
 
 ### #79: Spotlight (2015)
@@ -857,7 +857,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Film-Noir
 
-- **Notable:** Sight & Sound #78 · AFI #16 · RT 98% · IMDB #99
+- **Notable:** Sight & Sound #78 · AFI #16 · RT 98% · IMDB #98
 
 
 ### #97: On the Waterfront (1954)
@@ -887,7 +887,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Sci-Fi
 
-- **Notable:** Criterion Collection · Sight & Sound #43 · RT 100% · IMDB #383
+- **Notable:** Criterion Collection · Sight & Sound #43 · RT 100% · IMDB #384
 
 
 ### #100: 8½ (1963)
@@ -957,7 +957,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Crime, Drama, Thriller
 
-- **Notable:** NYT #6 · RT 93% · IMDB #98
+- **Notable:** NYT #6 · RT 93% · IMDB #99
 
 
 ### #107: City of God (2002)
@@ -997,7 +997,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Mystery, Romance
 
-- **Notable:** Criterion Collection · RT 100% · IMDB #380
+- **Notable:** Criterion Collection · RT 100% · IMDB #381
 
 
 ### #111: The Silence of the Lambs (1991)
@@ -1641,7 +1641,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Fantasy
 
-- **Notable:** Criterion Collection · Sight & Sound #136 · RT 93% · IMDB #251
+- **Notable:** Criterion Collection · Sight & Sound #136 · RT 93% · IMDB #252
 
 
 ### #180: Bicycle Thieves (1948)
@@ -1701,7 +1701,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama
 
-- **Notable:** Sight & Sound #185 · RT 95% · IMDB #323
+- **Notable:** Sight & Sound #185 · RT 95% · IMDB #322
 
 
 ### #186: Brazil (1985)
@@ -1711,7 +1711,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Sci-Fi, Thriller
 
-- **Notable:** Criterion Collection · RT 98% · IMDB #486
+- **Notable:** Criterion Collection · RT 98% · IMDB #488
 
 
 ### #187: Taxi Driver (1976)
@@ -1779,7 +1779,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama
 
-- **Notable:** Criterion Collection · Sight & Sound #157 · RT 98% · IMDB #290
+- **Notable:** Criterion Collection · Sight & Sound #157 · RT 98% · IMDB #289
 
 
 ### #194: Pather Panchali (1955)
@@ -2310,7 +2310,7 @@ This is the list of movies!
 - **Animated:** false
 - **Genre:** Drama, Sci-Fi
 
-- **Notable:** Sight & Sound #67 · RT 97% · IMDB #220
+- **Notable:** Sight & Sound #67 · RT 97% · IMDB #219
 
 
 ## Watched
