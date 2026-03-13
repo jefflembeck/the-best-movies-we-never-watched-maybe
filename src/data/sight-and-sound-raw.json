@@ -1,1322 +1,266 @@
 [
-    {
-        "title": "Born in Flames",
-        "rank": "=243",
-        "yearLocation": "1983"
-    },
-    {
-        "title": "Pandora's Box",
-        "rank": "=243",
-        "yearLocation": "1928 Germany"
-    },
-    {
-        "title": "Sullivan's Travels",
-        "rank": "=243",
-        "yearLocation": "1941 USA"
-    },
-    {
-        "title": "Annie Hall",
-        "rank": "=243",
-        "yearLocation": "1977 USA"
-    },
-    {
-        "title": "Earth",
-        "rank": "=243",
-        "yearLocation": "1930 USSR, Ukrainian SSR"
-    },
-    {
-        "title": "My Darling Clementine",
-        "rank": "=243",
-        "yearLocation": "1946 USA"
-    },
-    {
-        "title": "Mouchette",
-        "rank": "=243",
-        "yearLocation": "1966 France"
-    },
-    {
-        "title": "A Clockwork Orange",
-        "rank": "=243",
-        "yearLocation": "1971 USA, United Kingdom"
-    },
-    {
-        "title": "A Canterbury Tale",
-        "rank": "=243",
-        "yearLocation": "1944 United Kingdom"
-    },
-    {
-        "title": "Videodrome",
-        "rank": "=243",
-        "yearLocation": "1983 Canada"
-    },
-    {
-        "title": "Possession",
-        "rank": "=243",
-        "yearLocation": "1981 France, Federal Republic of Germany"
-    },
-    {
-        "title": "Soleil Ô",
-        "rank": "=243",
-        "yearLocation": "1970 France"
-    },
-    {
-        "title": "Distant Voices, Still Lives",
-        "rank": "=243",
-        "yearLocation": "1988 United Kingdom, Federal Republic of Germany"
-    },
-    {
-        "title": "Nostalgia for the Light",
-        "rank": "=243",
-        "yearLocation": "2010 France, Germany, Chile, Spain, USA"
-    },
-    {
-        "title": "Syndromes and a Century",
-        "rank": "=243",
-        "yearLocation": "2006 Thailand, France, Austria, Netherlands"
-    },
-    {
-        "title": "The Intruder",
-        "rank": "=243",
-        "yearLocation": "2004 France, Republic of Korea"
-    },
-    {
-        "title": "Morvern Callar",
-        "rank": "=243",
-        "yearLocation": "2001 United Kingdom, Canada"
-    },
-    {
-        "title": "In Vanda's Room",
-        "rank": "=243",
-        "yearLocation": "2000 Portugal, Germany, Switzerland"
-    },
-    {
-        "title": "Werckmeister Harmonies",
-        "rank": "=243",
-        "yearLocation": "2000 Hungary, Germany, France, Switzerland, Italy"
-    },
-    {
-        "title": "Taste of Cherry",
-        "rank": "=243",
-        "yearLocation": "1997 Iran"
-    },
-    {
-        "title": "The Quince Tree Sun",
-        "rank": "=243",
-        "yearLocation": "1992 Spain"
-    },
-    {
-        "title": "The Last Laugh",
-        "rank": "=243",
-        "yearLocation": "1924 Germany"
-    },
-    {
-        "title": "Harlan County, USA",
-        "rank": "=225",
-        "yearLocation": "1976 USA"
-    },
-    {
-        "title": "Cries and Whispers",
-        "rank": "=225",
-        "yearLocation": "1972 Sweden"
-    },
-    {
-        "title": "Star Wars",
-        "rank": "=225",
-        "yearLocation": "1977 USA"
-    },
-    {
-        "title": "Intolerance",
-        "rank": "=225",
-        "yearLocation": "1916 USA"
-    },
-    {
-        "title": "The Hour of the Furnaces",
-        "rank": "=225",
-        "yearLocation": "1968 Argentina"
-    },
-    {
-        "title": "Europa '51",
-        "rank": "=225",
-        "yearLocation": "1952 Italy"
-    },
-    {
-        "title": "Napoléon",
-        "rank": "=225",
-        "yearLocation": "1927 France"
-    },
-    {
-        "title": "The Crowd",
-        "rank": "=225",
-        "yearLocation": "1928 USA"
-    },
-    {
-        "title": "A Touch of Zen",
-        "rank": "=225",
-        "yearLocation": "1969 Taiwan"
-    },
-    {
-        "title": "Je, tu, il, elle",
-        "rank": "=225",
-        "yearLocation": "1974 Belgium"
-    },
-    {
-        "title": "Petite maman",
-        "rank": "=225",
-        "yearLocation": "2021 France"
-    },
-    {
-        "title": "As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty",
-        "rank": "=225",
-        "yearLocation": "2000 USA"
-    },
-    {
-        "title": "Flowers of Shanghai",
-        "rank": "=225",
-        "yearLocation": "1998 Taiwan, Japan"
-    },
-    {
-        "title": "Happy Together",
-        "rank": "=225",
-        "yearLocation": "1997 Hong Kong"
-    },
-    {
-        "title": "Crash",
-        "rank": "=225",
-        "yearLocation": "1996 Canada"
-    },
-    {
-        "title": "Blue",
-        "rank": "=225",
-        "yearLocation": "1993 United Kingdom, Japan"
-    },
-    {
-        "title": "Grave of the Fireflies",
-        "rank": "=225",
-        "yearLocation": "1988 Japan"
-    },
-    {
-        "title": "The Green Ray",
-        "rank": "=225",
-        "yearLocation": "1986 France"
-    },
-    {
-        "title": "By the Bluest of Seas",
-        "rank": "=211",
-        "yearLocation": "1935 USSR, Russian SFSR, Azerbaijan SSR"
-    },
-    {
-        "title": "Duck Soup",
-        "rank": "=211",
-        "yearLocation": "1933 USA"
-    },
-    {
-        "title": "All about Eve",
-        "rank": "=211",
-        "yearLocation": "1950 USA"
-    },
-    {
-        "title": "Brief Encounter",
-        "rank": "=211",
-        "yearLocation": "1945 United Kingdom"
-    },
-    {
-        "title": "Suspiria",
-        "rank": "=211",
-        "yearLocation": "1977 Italy"
-    },
-    {
-        "title": "In a Lonely Place",
-        "rank": "=211",
-        "yearLocation": "1950 USA"
-    },
-    {
-        "title": "The Deer Hunter",
-        "rank": "=211",
-        "yearLocation": "1978 USA"
-    },
-    {
-        "title": "Army of Shadows",
-        "rank": "=211",
-        "yearLocation": "1969 France, Italy"
-    },
-    {
-        "title": "Melancholia",
-        "rank": "=211",
-        "yearLocation": "2011 Denmark, Sweden, France, Germany, Italy"
-    },
-    {
-        "title": "Twenty Years Later",
-        "rank": "=211",
-        "yearLocation": "1984 Brazil"
-    },
-    {
-        "title": "Twin Peaks: Fire Walk with Me",
-        "rank": "=211",
-        "yearLocation": "1992 USA"
-    },
-    {
-        "title": "Pink Flamingos",
-        "rank": "=211",
-        "yearLocation": "1972 USA"
-    },
-    {
-        "title": "Raiders of the Lost Ark",
-        "rank": "=211",
-        "yearLocation": "1981 USA"
-    },
-    {
-        "title": "Limite",
-        "rank": "=211",
-        "yearLocation": "1931 Brazil"
-    },
-    {
-        "title": "The Life and Death of Colonel Blimp",
-        "rank": "=196",
-        "yearLocation": "1943 United Kingdom"
-    },
-    {
-        "title": "Wavelength",
-        "rank": "=196",
-        "yearLocation": "1967 Canada"
-    },
-    {
-        "title": "I Know Where I’m Going!",
-        "rank": "=196",
-        "yearLocation": "1945 United Kingdom"
-    },
-    {
-        "title": "L' eclisse",
-        "rank": "=196",
-        "yearLocation": "1962 Italy, France"
-    },
-    {
-        "title": "Double Indemnity",
-        "rank": "=196",
-        "yearLocation": "1944 USA"
-    },
-    {
-        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-        "rank": "=196",
-        "yearLocation": "1963 United Kingdom, USA"
-    },
-    {
-        "title": "One Way or Another",
-        "rank": "=196",
-        "yearLocation": "1977 Cuba"
-    },
-    {
-        "title": "Nosferatu",
-        "rank": "=196",
-        "yearLocation": "1922 Germany"
-    },
-    {
-        "title": "Paisan",
-        "rank": "=196",
-        "yearLocation": "1946 Italy"
-    },
-    {
-        "title": "Zama",
-        "rank": "=196",
-        "yearLocation": "2017 Argentina, Brazil, Spain, France, Mexico, Netherlands, Monaco, Portugal, USA, Lebanon, United Kingdom, Dominican Republic"
-    },
-    {
-        "title": "Mad Max: Fury Road",
-        "rank": "=196",
-        "yearLocation": "2015 USA, Australia"
-    },
-    {
-        "title": "The Tree of Life",
-        "rank": "=196",
-        "yearLocation": "2010 USA"
-    },
-    {
-        "title": "Uncle Boonmee Who Can Recall His Past Lives",
-        "rank": "=196",
-        "yearLocation": "2010 Thailand, United Kingdom, France, Germany, Spain, Netherlands"
-    },
-    {
-        "title": "The Headless Woman",
-        "rank": "=196",
-        "yearLocation": "2008 Argentina, Spain, France, Italy"
-    },
-    {
-        "title": "Paris Is Burning",
-        "rank": "=196",
-        "yearLocation": "1990 USA, United Kingdom"
-    },
-    {
-        "title": "Paris, Texas",
-        "rank": "=185",
-        "yearLocation": "1984 Federal Republic of Germany, France, United Kingdom"
-    },
-    {
-        "title": "Les Demoiselles de Rochefort",
-        "rank": "=185",
-        "yearLocation": "1967 France"
-    },
-    {
-        "title": "The Birds",
-        "rank": "=185",
-        "yearLocation": "1963 USA"
-    },
-    {
-        "title": "The River",
-        "rank": "=185",
-        "yearLocation": "1951 USA"
-    },
-    {
-        "title": "An Autumn Afternoon",
-        "rank": "=185",
-        "yearLocation": "1962 Japan"
-    },
-    {
-        "title": "Love Streams",
-        "rank": "=185",
-        "yearLocation": "1984 USA"
-    },
-    {
-        "title": "Greed",
-        "rank": "=185",
-        "yearLocation": "1923 USA"
-    },
-    {
-        "title": "Ran",
-        "rank": "=185",
-        "yearLocation": "1985 France, Japan"
-    },
-    {
-        "title": "Pyaasa",
-        "rank": "=185",
-        "yearLocation": "1957 India"
-    },
-    {
-        "title": "Wings of Desire",
-        "rank": "=185",
-        "yearLocation": "1987 Federal Republic of Germany, France"
-    },
-    {
-        "title": "Magnolia",
-        "rank": "=185",
-        "yearLocation": "1999 USA"
-    },
-    {
-        "title": "The Magnificent Ambersons",
-        "rank": "=169",
-        "yearLocation": "1942 USA"
-    },
-    {
-        "title": "Hiroshima mon amour",
-        "rank": "=169",
-        "yearLocation": "1959 France, Japan"
-    },
-    {
-        "title": "Letter from an Unknown Woman",
-        "rank": "=169",
-        "yearLocation": "1948 USA"
-    },
-    {
-        "title": "Charulata",
-        "rank": "=169",
-        "yearLocation": "1964 India"
-    },
-    {
-        "title": "The Good, the Bad and the Ugly",
-        "rank": "=169",
-        "yearLocation": "1966 Italy"
-    },
-    {
-        "title": "Red Desert",
-        "rank": "=169",
-        "yearLocation": "1964 Italy, France"
-    },
-    {
-        "title": "Black Narcissus",
-        "rank": "=169",
-        "yearLocation": "1947 United Kingdom"
-    },
-    {
-        "title": "Memories of Underdevelopment",
-        "rank": "=169",
-        "yearLocation": "1968 Cuba"
-    },
-    {
-        "title": "The Exterminating Angel",
-        "rank": "=169",
-        "yearLocation": "1962 Mexico"
-    },
-    {
-        "title": "Under the Skin",
-        "rank": "=169",
-        "yearLocation": "2013 United Kingdom, USA, Switzerland"
-    },
-    {
-        "title": "Heat",
-        "rank": "=169",
-        "yearLocation": "1995 USA"
-    },
-    {
-        "title": "Symbiopsychotaxiplasm: Take One",
-        "rank": "=169",
-        "yearLocation": "1967 USA"
-    },
-    {
-        "title": "Out 1",
-        "rank": "=169",
-        "yearLocation": "1990 France"
-    },
-    {
-        "title": "Un chien andalou",
-        "rank": "=169",
-        "yearLocation": "1928 France"
-    },
-    {
-        "title": "L'Argent",
-        "rank": "=169",
-        "yearLocation": "1983 France, Switzerland"
-    },
-    {
-        "title": "Last Year at Marienbad",
-        "rank": "=169",
-        "yearLocation": "1961 France, Italy"
-    },
-    {
-        "title": "Los olvidados",
-        "rank": "=157",
-        "yearLocation": "1950 Mexico"
-    },
-    {
-        "title": "Ikiru",
-        "rank": "=157",
-        "yearLocation": "1952 Japan"
-    },
-    {
-        "title": "Out of the Past",
-        "rank": "=157",
-        "yearLocation": "1947 USA"
-    },
-    {
-        "title": "Vivre sa vie",
-        "rank": "=157",
-        "yearLocation": "1962 France"
-    },
-    {
-        "title": "Amarcord",
-        "rank": "=157",
-        "yearLocation": "1972 Italy, France"
-    },
-    {
-        "title": "Once upon a Time in America",
-        "rank": "=157",
-        "yearLocation": "1983 USA, Italy"
-    },
-    {
-        "title": "The Gospel According to St. Matthew",
-        "rank": "=157",
-        "yearLocation": "1964 Italy, France"
-    },
-    {
-        "title": "Where Is the Friend's House?",
-        "rank": "=157",
-        "yearLocation": "1987 Iran"
-    },
-    {
-        "title": "All about My Mother",
-        "rank": "=157",
-        "yearLocation": "1999 Spain, France"
-    },
-    {
-        "title": "A City of Sadness",
-        "rank": "=157",
-        "yearLocation": "1989 Taiwan"
-    },
-    {
-        "title": "Orlando",
-        "rank": "=157",
-        "yearLocation": "1992 United Kingdom, Russian Federation, Italy, France, Netherlands"
-    },
-    {
-        "title": "West of the Tracks",
-        "rank": "=157",
-        "yearLocation": "2002 People's Republic of China"
-    },
-    {
-        "title": "Le Bonheur",
-        "rank": "=152",
-        "yearLocation": "1965 France"
-    },
-    {
-        "title": "Meghe Dhaka Tara",
-        "rank": "=152",
-        "yearLocation": "1960 India"
-    },
-    {
-        "title": "Days of Heaven",
-        "rank": "=152",
-        "yearLocation": "1978 USA"
-    },
-    {
-        "title": "West Indies: The Fugitive Slaves of Liberty",
-        "rank": "=152",
-        "yearLocation": "1979 France, Mauritania"
-    },
-    {
-        "title": "Twin Peaks: The Return",
-        "rank": "=152",
-        "yearLocation": "2017 USA"
-    },
-    {
-        "title": "Chinatown",
-        "rank": "=146",
-        "yearLocation": "1974 USA"
-    },
-    {
-        "title": "La Grande Illusion",
-        "rank": "=146",
-        "yearLocation": "1937 France"
-    },
-    {
-        "title": "India Song",
-        "rank": "=146",
-        "yearLocation": "1975 France"
-    },
-    {
-        "title": "Alien",
-        "rank": "=146",
-        "yearLocation": "1979 USA, United Kingdom"
-    },
-    {
-        "title": "Vampyr",
-        "rank": "=146",
-        "yearLocation": "1932 Germany, France"
-    },
-    {
-        "title": "The Watermelon Woman",
-        "rank": "=146",
-        "yearLocation": "1997 USA"
-    },
-    {
-        "title": "Gertrud",
-        "rank": "=136",
-        "yearLocation": "1964 Denmark"
-    },
-    {
-        "title": "All That Heaven Allows",
-        "rank": "=136",
-        "yearLocation": "1955 USA"
-    },
-    {
-        "title": "Partie de campagne",
-        "rank": "=136",
-        "yearLocation": "1936 France"
-    },
-    {
-        "title": "Pickpocket",
-        "rank": "=136",
-        "yearLocation": "1959 France"
-    },
-    {
-        "title": "The Seventh Seal",
-        "rank": "=136",
-        "yearLocation": "1957 Sweden"
-    },
-    {
-        "title": "Trouble in Paradise",
-        "rank": "=136",
-        "yearLocation": "1932 USA"
-    },
-    {
-        "title": "Sambizanga",
-        "rank": "=136",
-        "yearLocation": "1972 Angola, France, Congo"
-    },
-    {
-        "title": "The Wild Bunch",
-        "rank": "=136",
-        "yearLocation": "1969 USA"
-    },
-    {
-        "title": "Les Enfants du paradis",
-        "rank": "=136",
-        "yearLocation": "1945 France"
-    },
-    {
-        "title": "La ciénaga",
-        "rank": "=136",
-        "yearLocation": "2001 Argentina, USA, Japan, France, Switzerland, Spain, Brazil"
-    },
-    {
-        "title": "It's a Wonderful Life",
-        "rank": "=133",
-        "yearLocation": "1947 USA"
-    },
-    {
-        "title": "Notorious",
-        "rank": "=133",
-        "yearLocation": "1946 USA"
-    },
-    {
-        "title": "Lawrence of Arabia",
-        "rank": "=133",
-        "yearLocation": "1962 United Kingdom"
-    },
-    {
-        "title": "Pulp Fiction",
-        "rank": "=129",
-        "yearLocation": "1994 USA"
-    },
-    {
-        "title": "Raging Bull",
-        "rank": "=129",
-        "yearLocation": "1980 USA"
-    },
-    {
-        "title": "His Girl Friday",
-        "rank": "=129",
-        "yearLocation": "1939 USA"
-    },
-    {
-        "title": "Fanny and Alexander",
-        "rank": "=129",
-        "yearLocation": "1982 Sweden, France, Federal Republic of Germany"
-    },
-    {
-        "title": "The Ascent",
-        "rank": "128",
-        "yearLocation": "1976 USSR, Russian SFSR"
-    },
-    {
-        "title": "Only Angels Have Wings",
-        "rank": "=122",
-        "yearLocation": "1939 USA"
-    },
-    {
-        "title": "The Umbrellas of Cherbourg",
-        "rank": "=122",
-        "yearLocation": "1964 France, Federal Republic of Germany"
-    },
-    {
-        "title": "Johnny Guitar",
-        "rank": "=122",
-        "yearLocation": "1954 USA"
-    },
-    {
-        "title": "The Colour of Pomegranates",
-        "rank": "=122",
-        "yearLocation": "1968 USSR, Armenian SSR"
-    },
-    {
-        "title": "The Matrix",
-        "rank": "=122",
-        "yearLocation": "1999 USA, Australia"
-    },
-    {
-        "title": "There Will Be Blood",
-        "rank": "=122",
-        "yearLocation": "2007 USA"
-    },
-    {
-        "title": "The Thing",
-        "rank": "=118",
-        "yearLocation": "1982 USA"
-    },
-    {
-        "title": "The Texas Chain Saw Massacre",
-        "rank": "=118",
-        "yearLocation": "1974 USA"
-    },
-    {
-        "title": "The Conformist",
-        "rank": "=118",
-        "yearLocation": "1970 Italy, France, Federal Republic of Germany"
-    },
-    {
-        "title": "Aguirre, Wrath of God",
-        "rank": "=118",
-        "yearLocation": "1972 Federal Republic of Germany"
-    },
-    {
-        "title": "Don't Look Now",
-        "rank": "=114",
-        "yearLocation": "1973 United Kingdom, Italy"
-    },
-    {
-        "title": "Nashville",
-        "rank": "=114",
-        "yearLocation": "1975 USA"
-    },
-    {
-        "title": "A Woman under the Influence",
-        "rank": "=114",
-        "yearLocation": "1974 USA"
-    },
-    {
-        "title": "To Be or Not to Be",
-        "rank": "=114",
-        "yearLocation": "1942 USA"
-    },
-    {
-        "title": "Bringing Up Baby",
-        "rank": "=108",
-        "yearLocation": "1938 USA"
-    },
-    {
-        "title": "The Man Who Shot Liberty Valance",
-        "rank": "=108",
-        "yearLocation": "1962 USA"
-    },
-    {
-        "title": "Touch of Evil",
-        "rank": "=108",
-        "yearLocation": "1958 USA"
-    },
-    {
-        "title": "Wild Strawberries",
-        "rank": "=108",
-        "yearLocation": "1957 Sweden"
-    },
-    {
-        "title": "The Wizard of Oz",
-        "rank": "=108",
-        "yearLocation": "1939 USA"
-    },
-    {
-        "title": "Goodbye, Dragon Inn",
-        "rank": "=108",
-        "yearLocation": "2003 Taiwan"
-    },
-    {
-        "title": "The Godfather Part II",
-        "rank": "=104",
-        "yearLocation": "1974 USA"
-    },
-    {
-        "title": "Jaws",
-        "rank": "=104",
-        "yearLocation": "1975 USA"
-    },
-    {
-        "title": "Come and See",
-        "rank": "=104",
-        "yearLocation": "1985 USSR, Byelorussian SSR, Russian SFSR"
-    },
-    {
-        "title": "La Maman et la Putain",
-        "rank": "=104",
-        "yearLocation": "1973 France"
-    },
-    {
-        "title": "Vagabond",
-        "rank": "=101",
-        "yearLocation": "1985 France, United Kingdom"
-    },
-    {
-        "title": "The House Is Black",
-        "rank": "=101",
-        "yearLocation": "1962 Iran"
-    },
-    {
-        "title": "Rio Bravo",
-        "rank": "=101",
-        "yearLocation": "1958 USA"
-    },
-    {
-        "title": "Once upon a Time in the West",
-        "rank": "=95",
-        "yearLocation": "1968 Italy, USA"
-    },
-    {
-        "title": "A Man Escaped",
-        "rank": "=95",
-        "yearLocation": "1956 France"
-    },
-    {
-        "title": "The General",
-        "rank": "=95",
-        "yearLocation": "1926 USA"
-    },
-    {
-        "title": "Black Girl",
-        "rank": "=95",
-        "yearLocation": "1965 Senegal, France"
-    },
-    {
-        "title": "Tropical Malady",
-        "rank": "=95",
-        "yearLocation": "2004 France, Thailand, Germany, Italy, Switzerland"
-    },
-    {
-        "title": "Get Out",
-        "rank": "=95",
-        "yearLocation": "2017 USA, Japan"
-    },
-    {
-        "title": "Parasite",
-        "rank": "=90",
-        "yearLocation": "2019 Republic of Korea"
-    },
-    {
-        "title": "Yi Yi",
-        "rank": "=90",
-        "yearLocation": "1999 Taiwan, Japan"
-    },
-    {
-        "title": "Ugetsu Monogatari",
-        "rank": "=90",
-        "yearLocation": "1953 Japan"
-    },
-    {
-        "title": "The Leopard",
-        "rank": "=90",
-        "yearLocation": "1962 Italy, France"
-    },
-    {
-        "title": "Madame de...",
-        "rank": "=90",
-        "yearLocation": "1953 France, Italy"
-    },
-    {
-        "title": "The Shining",
-        "rank": "=88",
-        "yearLocation": "1980 USA, United Kingdom"
-    },
-    {
-        "title": "CHUNGKING EXPRESS",
-        "rank": "=88",
-        "yearLocation": "1994 Hong Kong"
-    },
-    {
-        "title": "Blue Velvet",
-        "rank": "=85",
-        "yearLocation": "1986 USA"
-    },
-    {
-        "title": "The Spirit of the Beehive",
-        "rank": "=85",
-        "yearLocation": "1973 Spain"
-    },
-    {
-        "title": "Pierrot le fou",
-        "rank": "=85",
-        "yearLocation": "1965 France, Italy"
-    },
-    {
-        "title": "Histoire(s) du Cinéma",
-        "rank": "=78",
-        "yearLocation": "1988 France, Switzerland"
-    },
-    {
-        "title": "A Matter of Life and Death",
-        "rank": "=78",
-        "yearLocation": "1946 United Kingdom"
-    },
-    {
-        "title": "Modern Times",
-        "rank": "=78",
-        "yearLocation": "1936 USA"
-    },
-    {
-        "title": "Sunset Blvd.",
-        "rank": "=78",
-        "yearLocation": "1950 USA"
-    },
-    {
-        "title": "Céline and Julie Go Boating",
-        "rank": "=78",
-        "yearLocation": "1974 France"
-    },
-    {
-        "title": "A Brighter Summer Day",
-        "rank": "=78",
-        "yearLocation": "1991 Taiwan"
-    },
-    {
-        "title": "Sátántangó",
-        "rank": "=78",
-        "yearLocation": "1994 Hungary, Germany, Switzerland"
-    },
-    {
-        "title": "Spirited Away",
-        "rank": "=75",
-        "yearLocation": "2001 Japan"
-    },
-    {
-        "title": "Sansho the Bailiff",
-        "rank": "=75",
-        "yearLocation": "1954 Japan"
-    },
-    {
-        "title": "Imitation of Life",
-        "rank": "=75",
-        "yearLocation": "1959 USA"
-    },
-    {
-        "title": "L'avventura",
-        "rank": "=72",
-        "yearLocation": "1960 Italy, France"
-    },
-    {
-        "title": "Journey to Italy",
-        "rank": "=72",
-        "yearLocation": "1954 Italy, France"
-    },
-    {
-        "title": "My Neighbour Totoro",
-        "rank": "=72",
-        "yearLocation": "1988 Japan"
-    },
-    {
-        "title": "The Red Shoes",
-        "rank": "=67",
-        "yearLocation": "1948 United Kingdom"
-    },
-    {
-        "title": "Metropolis",
-        "rank": "=67",
-        "yearLocation": "1927 Germany"
-    },
-    {
-        "title": "Andrei Rublev",
-        "rank": "=67",
-        "yearLocation": "1966 USSR, Russian SFSR"
-    },
-    {
-        "title": "La Jetée",
-        "rank": "=67",
-        "yearLocation": "1962 France"
-    },
-    {
-        "title": "The Gleaners and I",
-        "rank": "=67",
-        "yearLocation": "2000 France"
-    },
-    {
-        "title": "Touki Bouki",
-        "rank": "66",
-        "yearLocation": "1973 Senegal"
-    },
-    {
-        "title": "The Third Man",
-        "rank": "=63",
-        "yearLocation": "1949 United Kingdom"
-    },
-    {
-        "title": "GoodFellas",
-        "rank": "=63",
-        "yearLocation": "1990 USA"
-    },
-    {
-        "title": "Casablanca",
-        "rank": "=63",
-        "yearLocation": "1942 USA"
-    },
-    {
-        "title": "Daughters of the Dust",
-        "rank": "=60",
-        "yearLocation": "1991 USA"
-    },
-    {
-        "title": "La dolce vita",
-        "rank": "=60",
-        "yearLocation": "1960 Italy, France"
-    },
-    {
-        "title": "Moonlight",
-        "rank": "=60",
-        "yearLocation": "2016 USA"
-    },
-    {
-        "title": "Sans soleil",
-        "rank": "59",
-        "yearLocation": "1982 France"
-    },
-    {
-        "title": "The Apartment",
-        "rank": "=54",
-        "yearLocation": "1960 USA"
-    },
-    {
-        "title": "Sherlock Jr.",
-        "rank": "=54",
-        "yearLocation": "1924 USA"
-    },
-    {
-        "title": "Le Mépris",
-        "rank": "=54",
-        "yearLocation": "1963 France, Italy"
-    },
-    {
-        "title": "Battleship Potemkin",
-        "rank": "=54",
-        "yearLocation": "1925 USSR"
-    },
-    {
-        "title": "Blade Runner",
-        "rank": "=54",
-        "yearLocation": "1982 USA, Hong Kong"
-    },
-    {
-        "title": "News from Home",
-        "rank": "=52",
-        "yearLocation": "1976 France, Belgium"
-    },
-    {
-        "title": "Fear Eats the Soul",
-        "rank": "=52",
-        "yearLocation": "1974 Federal Republic of Germany"
-    },
-    {
-        "title": "The Piano",
-        "rank": "=50",
-        "yearLocation": "1992 Australia, France"
-    },
-    {
-        "title": "The 400 Blows",
-        "rank": "=50",
-        "yearLocation": "1959 France"
-    },
-    {
-        "title": "Ordet",
-        "rank": "=48",
-        "yearLocation": "1955 Denmark"
-    },
-    {
-        "title": "Wanda",
-        "rank": "=48",
-        "yearLocation": "1970 USA"
-    },
-    {
-        "title": "Barry Lyndon",
-        "rank": "=45",
-        "yearLocation": "1975 USA, United Kingdom"
-    },
-    {
-        "title": "North by Northwest",
-        "rank": "=45",
-        "yearLocation": "1959 USA"
-    },
-    {
-        "title": "The Battle of Algiers",
-        "rank": "=45",
-        "yearLocation": "1966 Italy, Algeria"
-    },
-    {
-        "title": "Stalker",
-        "rank": "=43",
-        "yearLocation": "1979 USSR, Russian SFSR"
-    },
-    {
-        "title": "Killer of Sheep",
-        "rank": "=43",
-        "yearLocation": "1977 USA"
-    },
-    {
-        "title": "Rashomon",
-        "rank": "=41",
-        "yearLocation": "1950 Japan"
-    },
-    {
-        "title": "Bicycle Thieves",
-        "rank": "=41",
-        "yearLocation": "1948 Italy"
-    },
-    {
-        "title": "Rear Window",
-        "rank": "=38",
-        "yearLocation": "1954 USA"
-    },
-    {
-        "title": "À bout de souffle",
-        "rank": "=38",
-        "yearLocation": "1960 France"
-    },
-    {
-        "title": "Some Like It Hot",
-        "rank": "=38",
-        "yearLocation": "1959 USA"
-    },
-    {
-        "title": "M",
-        "rank": "=36",
-        "yearLocation": "1931 Germany"
-    },
-    {
-        "title": "City Lights",
-        "rank": "=36",
-        "yearLocation": "1931 USA"
-    },
-    {
-        "title": "Pather Panchali",
-        "rank": "35",
-        "yearLocation": "1955 India"
-    },
-    {
-        "title": "L'Atalante",
-        "rank": "34",
-        "yearLocation": "1934 France"
-    },
-    {
-        "title": "8½",
-        "rank": "=31",
-        "yearLocation": "1963 Italy, France"
-    },
-    {
-        "title": "Psycho",
-        "rank": "=31",
-        "yearLocation": "1960 USA"
-    },
-    {
-        "title": "Mirror",
-        "rank": "=31",
-        "yearLocation": "1975 USSR, Russian SFSR"
-    },
-    {
-        "title": "Portrait of a Lady on Fire",
-        "rank": "30",
-        "yearLocation": "2019 France"
-    },
-    {
-        "title": "Taxi Driver",
-        "rank": "29",
-        "yearLocation": "1976 USA"
-    },
-    {
-        "title": "Daisies",
-        "rank": "28",
-        "yearLocation": "1966 Czechoslovakia"
-    },
-    {
-        "title": "Shoah",
-        "rank": "27",
-        "yearLocation": "1985 France"
-    },
-    {
-        "title": "The Night of the Hunter",
-        "rank": "=25",
-        "yearLocation": "1955 USA"
-    },
-    {
-        "title": "Au hasard Balthazar",
-        "rank": "=25",
-        "yearLocation": "1966 France, Sweden"
-    },
-    {
-        "title": "Do the Right Thing",
-        "rank": "24",
-        "yearLocation": "1989 USA"
-    },
-    {
-        "title": "Playtime",
-        "rank": "23",
-        "yearLocation": "1967 France"
-    },
-    {
-        "title": "Late Spring",
-        "rank": "=21",
-        "yearLocation": "1949 Japan"
-    },
-    {
-        "title": "The Passion of Joan of Arc",
-        "rank": "=21",
-        "yearLocation": "1927 France"
-    },
-    {
-        "title": "Seven Samurai",
-        "rank": "20",
-        "yearLocation": "1954 Japan"
-    },
-    {
-        "title": "Apocalypse Now",
-        "rank": "19",
-        "yearLocation": "1979 USA"
-    },
-    {
-        "title": "Persona",
-        "rank": "18",
-        "yearLocation": "1966 Sweden"
-    },
-    {
-        "title": "Close-up",
-        "rank": "17",
-        "yearLocation": "1989 Iran"
-    },
-    {
-        "title": "Meshes of the Afternoon",
-        "rank": "16",
-        "yearLocation": "1943 USA"
-    },
-    {
-        "title": "The Searchers",
-        "rank": "15",
-        "yearLocation": "1956 USA"
-    },
-    {
-        "title": "Cléo from 5 to 7",
-        "rank": "14",
-        "yearLocation": "1962 France, Italy"
-    },
-    {
-        "title": "La Règle du jeu",
-        "rank": "13",
-        "yearLocation": "1939 France"
-    },
-    {
-        "title": "The Godfather",
-        "rank": "12",
-        "yearLocation": "1972 USA"
-    },
-    {
-        "title": "Sunrise A Song of Two Humans",
-        "rank": "11",
-        "yearLocation": "1927 USA"
-    },
-    {
-        "title": "Singin' in the Rain",
-        "rank": "10",
-        "yearLocation": "1951 USA"
-    },
-    {
-        "title": "Man with a Movie Camera",
-        "rank": "9",
-        "yearLocation": "1929 Ukrainian SSR, USSR"
-    },
-    {
-        "title": "Mulholland Dr.",
-        "rank": "8",
-        "yearLocation": "2001 France, USA"
-    },
-    {
-        "title": "Beau travail",
-        "rank": "7",
-        "yearLocation": "1998 France"
-    },
-    {
-        "title": "2001: A Space Odyssey",
-        "rank": "6",
-        "yearLocation": "1968 USA, United Kingdom"
-    },
-    {
-        "title": "In the Mood for Love",
-        "rank": "5",
-        "yearLocation": "2000 Hong Kong, France"
-    },
-    {
-        "title": "Tokyo Story",
-        "rank": "4",
-        "yearLocation": "1953 Japan"
-    },
-    {
-        "title": "Citizen Kane",
-        "rank": "3",
-        "yearLocation": "1941 USA"
-    },
-    {
-        "title": "Vertigo",
-        "rank": "2",
-        "yearLocation": "1958 USA"
-    },
-    {
-        "title": "Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",
-        "rank": "1",
-        "yearLocation": "1975 Belgium, France"
-    }
+{"title":"Born in Flames","rank":"=243","yearLocation":"1983"},
+{"title":"Pandora's Box","rank":"=243","yearLocation":"1928 Germany"},
+{"title":"Sullivan's Travels","rank":"=243","yearLocation":"1941 USA"},
+{"title":"Annie Hall","rank":"=243","yearLocation":"1977 USA"},
+{"title":"Earth","rank":"=243","yearLocation":"1930 USSR, Ukrainian SSR"},
+{"title":"My Darling Clementine","rank":"=243","yearLocation":"1946 USA"},
+{"title":"Mouchette","rank":"=243","yearLocation":"1966 France"},
+{"title":"A Clockwork Orange","rank":"=243","yearLocation":"1971 USA, United Kingdom"},
+{"title":"A Canterbury Tale","rank":"=243","yearLocation":"1944 United Kingdom"},
+{"title":"Videodrome","rank":"=243","yearLocation":"1983 Canada"},
+{"title":"Possession","rank":"=243","yearLocation":"1981 France, Federal Republic of Germany"},
+{"title":"Soleil Ô","rank":"=243","yearLocation":"1970 France"},
+{"title":"Distant Voices, Still Lives","rank":"=243","yearLocation":"1988 United Kingdom, Federal Republic of Germany"},
+{"title":"Nostalgia for the Light","rank":"=243","yearLocation":"2010 France, Germany, Chile, Spain, USA"},
+{"title":"Syndromes and a Century","rank":"=243","yearLocation":"2006 Thailand, France, Austria, Netherlands"},
+{"title":"The Intruder","rank":"=243","yearLocation":"2004 France, Republic of Korea"},
+{"title":"Morvern Callar","rank":"=243","yearLocation":"2001 United Kingdom, Canada"},
+{"title":"In Vanda's Room","rank":"=243","yearLocation":"2000 Portugal, Germany, Switzerland"},
+{"title":"Werckmeister Harmonies","rank":"=243","yearLocation":"2000 Hungary, Germany, France, Switzerland, Italy"},
+{"title":"Taste of Cherry","rank":"=243","yearLocation":"1997 Iran"},
+{"title":"The Quince Tree Sun","rank":"=243","yearLocation":"1992 Spain"},
+{"title":"The Last Laugh","rank":"=243","yearLocation":"1924 Germany"},
+{"title":"Harlan County, USA","rank":"=225","yearLocation":"1976 USA"},
+{"title":"Cries and Whispers","rank":"=225","yearLocation":"1972 Sweden"},
+{"title":"Star Wars","rank":"=225","yearLocation":"1977 USA"},
+{"title":"Intolerance","rank":"=225","yearLocation":"1916 USA"},
+{"title":"The Hour of the Furnaces","rank":"=225","yearLocation":"1968 Argentina"},
+{"title":"Europa '51","rank":"=225","yearLocation":"1952 Italy"},
+{"title":"Napoléon","rank":"=225","yearLocation":"1927 France"},
+{"title":"The Crowd","rank":"=225","yearLocation":"1928 USA"},
+{"title":"A Touch of Zen","rank":"=225","yearLocation":"1969 Taiwan"},
+{"title":"Je, tu, il, elle","rank":"=225","yearLocation":"1974 Belgium"},
+{"title":"Petite maman","rank":"=225","yearLocation":"2021 France"},
+{"title":"As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty","rank":"=225","yearLocation":"2000 USA"},
+{"title":"Flowers of Shanghai","rank":"=225","yearLocation":"1998 Taiwan, Japan"},
+{"title":"Happy Together","rank":"=225","yearLocation":"1997 Hong Kong"},
+{"title":"Crash","rank":"=225","yearLocation":"1996 Canada"},
+{"title":"Blue","rank":"=225","yearLocation":"1993 United Kingdom, Japan"},
+{"title":"Grave of the Fireflies","rank":"=225","yearLocation":"1988 Japan"},
+{"title":"The Green Ray","rank":"=225","yearLocation":"1986 France"},
+{"title":"By the Bluest of Seas","rank":"=211","yearLocation":"1935 USSR, Russian SFSR, Azerbaijan SSR"},
+{"title":"Duck Soup","rank":"=211","yearLocation":"1933 USA"},
+{"title":"All about Eve","rank":"=211","yearLocation":"1950 USA"},
+{"title":"Brief Encounter","rank":"=211","yearLocation":"1945 United Kingdom"},
+{"title":"Suspiria","rank":"=211","yearLocation":"1977 Italy"},
+{"title":"In a Lonely Place","rank":"=211","yearLocation":"1950 USA"},
+{"title":"The Deer Hunter","rank":"=211","yearLocation":"1978 USA"},
+{"title":"Army of Shadows","rank":"=211","yearLocation":"1969 France, Italy"},
+{"title":"Melancholia","rank":"=211","yearLocation":"2011 Denmark, Sweden, France, Germany, Italy"},
+{"title":"Twenty Years Later","rank":"=211","yearLocation":"1984 Brazil"},
+{"title":"Twin Peaks: Fire Walk with Me","rank":"=211","yearLocation":"1992 USA"},
+{"title":"Pink Flamingos","rank":"=211","yearLocation":"1972 USA"},
+{"title":"Raiders of the Lost Ark","rank":"=211","yearLocation":"1981 USA"},
+{"title":"Limite","rank":"=211","yearLocation":"1931 Brazil"},
+{"title":"The Life and Death of Colonel Blimp","rank":"=196","yearLocation":"1943 United Kingdom"},
+{"title":"Wavelength","rank":"=196","yearLocation":"1967 Canada"},
+{"title":"I Know Where I’m Going!","rank":"=196","yearLocation":"1945 United Kingdom"},
+{"title":"L' eclisse","rank":"=196","yearLocation":"1962 Italy, France"},
+{"title":"Double Indemnity","rank":"=196","yearLocation":"1944 USA"},
+{"title":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","rank":"=196","yearLocation":"1963 United Kingdom, USA"},
+{"title":"One Way or Another","rank":"=196","yearLocation":"1977 Cuba"},
+{"title":"Nosferatu","rank":"=196","yearLocation":"1922 Germany"},
+{"title":"Paisan","rank":"=196","yearLocation":"1946 Italy"},
+{"title":"Zama","rank":"=196","yearLocation":"2017 Argentina, Brazil, Spain, France, Mexico, Netherlands, Monaco, Portugal, USA, Lebanon, United Kingdom, Dominican Republic"},
+{"title":"Mad Max: Fury Road","rank":"=196","yearLocation":"2015 USA, Australia"},
+{"title":"The Tree of Life","rank":"=196","yearLocation":"2010 USA"},
+{"title":"Uncle Boonmee Who Can Recall His Past Lives","rank":"=196","yearLocation":"2010 Thailand, United Kingdom, France, Germany, Spain, Netherlands"},
+{"title":"The Headless Woman","rank":"=196","yearLocation":"2008 Argentina, Spain, France, Italy"},
+{"title":"Paris Is Burning","rank":"=196","yearLocation":"1990 USA, United Kingdom"},
+{"title":"Paris, Texas","rank":"=185","yearLocation":"1984 Federal Republic of Germany, France, United Kingdom"},
+{"title":"Les Demoiselles de Rochefort","rank":"=185","yearLocation":"1967 France"},
+{"title":"The Birds","rank":"=185","yearLocation":"1963 USA"},
+{"title":"The River","rank":"=185","yearLocation":"1951 USA"},
+{"title":"An Autumn Afternoon","rank":"=185","yearLocation":"1962 Japan"},
+{"title":"Love Streams","rank":"=185","yearLocation":"1984 USA"},
+{"title":"Greed","rank":"=185","yearLocation":"1923 USA"},
+{"title":"Ran","rank":"=185","yearLocation":"1985 France, Japan"},
+{"title":"Pyaasa","rank":"=185","yearLocation":"1957 India"},
+{"title":"Wings of Desire","rank":"=185","yearLocation":"1987 Federal Republic of Germany, France"},
+{"title":"Magnolia","rank":"=185","yearLocation":"1999 USA"},
+{"title":"The Magnificent Ambersons","rank":"=169","yearLocation":"1942 USA"},
+{"title":"Hiroshima mon amour","rank":"=169","yearLocation":"1959 France, Japan"},
+{"title":"Letter from an Unknown Woman","rank":"=169","yearLocation":"1948 USA"},
+{"title":"Charulata","rank":"=169","yearLocation":"1964 India"},
+{"title":"The Good, the Bad and the Ugly","rank":"=169","yearLocation":"1966 Italy"},
+{"title":"Red Desert","rank":"=169","yearLocation":"1964 Italy, France"},
+{"title":"Black Narcissus","rank":"=169","yearLocation":"1947 United Kingdom"},
+{"title":"Memories of Underdevelopment","rank":"=169","yearLocation":"1968 Cuba"},
+{"title":"The Exterminating Angel","rank":"=169","yearLocation":"1962 Mexico"},
+{"title":"Under the Skin","rank":"=169","yearLocation":"2013 United Kingdom, USA, Switzerland"},
+{"title":"Heat","rank":"=169","yearLocation":"1995 USA"},
+{"title":"Symbiopsychotaxiplasm: Take One","rank":"=169","yearLocation":"1967 USA"},
+{"title":"Out 1","rank":"=169","yearLocation":"1990 France"},
+{"title":"Un chien andalou","rank":"=169","yearLocation":"1928 France"},
+{"title":"L'Argent","rank":"=169","yearLocation":"1983 France, Switzerland"},
+{"title":"Last Year at Marienbad","rank":"=169","yearLocation":"1961 France, Italy"},
+{"title":"Los olvidados","rank":"=157","yearLocation":"1950 Mexico"},
+{"title":"Ikiru","rank":"=157","yearLocation":"1952 Japan"},
+{"title":"Out of the Past","rank":"=157","yearLocation":"1947 USA"},
+{"title":"Vivre sa vie","rank":"=157","yearLocation":"1962 France"},
+{"title":"Amarcord","rank":"=157","yearLocation":"1972 Italy, France"},
+{"title":"Once upon a Time in America","rank":"=157","yearLocation":"1983 USA, Italy"},
+{"title":"The Gospel According to St. Matthew","rank":"=157","yearLocation":"1964 Italy, France"},
+{"title":"Where Is the Friend's House?","rank":"=157","yearLocation":"1987 Iran"},
+{"title":"All about My Mother","rank":"=157","yearLocation":"1999 Spain, France"},
+{"title":"A City of Sadness","rank":"=157","yearLocation":"1989 Taiwan"},
+{"title":"Orlando","rank":"=157","yearLocation":"1992 United Kingdom, Russian Federation, Italy, France, Netherlands"},
+{"title":"West of the Tracks","rank":"=157","yearLocation":"2002 People's Republic of China"},
+{"title":"Le Bonheur","rank":"=152","yearLocation":"1965 France"},
+{"title":"Meghe Dhaka Tara","rank":"=152","yearLocation":"1960 India"},
+{"title":"Days of Heaven","rank":"=152","yearLocation":"1978 USA"},
+{"title":"West Indies: The Fugitive Slaves of Liberty","rank":"=152","yearLocation":"1979 France, Mauritania"},
+{"title":"Twin Peaks: The Return","rank":"=152","yearLocation":"2017 USA"},
+{"title":"Chinatown","rank":"=146","yearLocation":"1974 USA"},
+{"title":"La Grande Illusion","rank":"=146","yearLocation":"1937 France"},
+{"title":"India Song","rank":"=146","yearLocation":"1975 France"},
+{"title":"Alien","rank":"=146","yearLocation":"1979 USA, United Kingdom"},
+{"title":"Vampyr","rank":"=146","yearLocation":"1932 Germany, France"},
+{"title":"The Watermelon Woman","rank":"=146","yearLocation":"1997 USA"},
+{"title":"Gertrud","rank":"=136","yearLocation":"1964 Denmark"},
+{"title":"All That Heaven Allows","rank":"=136","yearLocation":"1955 USA"},
+{"title":"Partie de campagne","rank":"=136","yearLocation":"1936 France"},
+{"title":"Pickpocket","rank":"=136","yearLocation":"1959 France"},
+{"title":"The Seventh Seal","rank":"=136","yearLocation":"1957 Sweden"},
+{"title":"Trouble in Paradise","rank":"=136","yearLocation":"1932 USA"},
+{"title":"Sambizanga","rank":"=136","yearLocation":"1972 Angola, France, Congo"},
+{"title":"The Wild Bunch","rank":"=136","yearLocation":"1969 USA"},
+{"title":"Les Enfants du paradis","rank":"=136","yearLocation":"1945 France"},
+{"title":"La ciénaga","rank":"=136","yearLocation":"2001 Argentina, USA, Japan, France, Switzerland, Spain, Brazil"},
+{"title":"It's a Wonderful Life","rank":"=133","yearLocation":"1947 USA"},
+{"title":"Notorious","rank":"=133","yearLocation":"1946 USA"},
+{"title":"Lawrence of Arabia","rank":"=133","yearLocation":"1962 United Kingdom"},
+{"title":"Pulp Fiction","rank":"=129","yearLocation":"1994 USA"},
+{"title":"Raging Bull","rank":"=129","yearLocation":"1980 USA"},
+{"title":"His Girl Friday","rank":"=129","yearLocation":"1939 USA"},
+{"title":"Fanny and Alexander","rank":"=129","yearLocation":"1982 Sweden, France, Federal Republic of Germany"},
+{"title":"The Ascent","rank":"128","yearLocation":"1976 USSR, Russian SFSR"},
+{"title":"Only Angels Have Wings","rank":"=122","yearLocation":"1939 USA"},
+{"title":"The Umbrellas of Cherbourg","rank":"=122","yearLocation":"1964 France, Federal Republic of Germany"},
+{"title":"Johnny Guitar","rank":"=122","yearLocation":"1954 USA"},
+{"title":"The Colour of Pomegranates","rank":"=122","yearLocation":"1968 USSR, Armenian SSR"},
+{"title":"The Matrix","rank":"=122","yearLocation":"1999 USA, Australia"},
+{"title":"There Will Be Blood","rank":"=122","yearLocation":"2007 USA"},
+{"title":"The Thing","rank":"=118","yearLocation":"1982 USA"},
+{"title":"The Texas Chain Saw Massacre","rank":"=118","yearLocation":"1974 USA"},
+{"title":"The Conformist","rank":"=118","yearLocation":"1970 Italy, France, Federal Republic of Germany"},
+{"title":"Aguirre, Wrath of God","rank":"=118","yearLocation":"1972 Federal Republic of Germany"},
+{"title":"Don't Look Now","rank":"=114","yearLocation":"1973 United Kingdom, Italy"},
+{"title":"Nashville","rank":"=114","yearLocation":"1975 USA"},
+{"title":"A Woman under the Influence","rank":"=114","yearLocation":"1974 USA"},
+{"title":"To Be or Not to Be","rank":"=114","yearLocation":"1942 USA"},
+{"title":"Bringing Up Baby","rank":"=108","yearLocation":"1938 USA"},
+{"title":"The Man Who Shot Liberty Valance","rank":"=108","yearLocation":"1962 USA"},
+{"title":"Touch of Evil","rank":"=108","yearLocation":"1958 USA"},
+{"title":"Wild Strawberries","rank":"=108","yearLocation":"1957 Sweden"},
+{"title":"The Wizard of Oz","rank":"=108","yearLocation":"1939 USA"},
+{"title":"Goodbye, Dragon Inn","rank":"=108","yearLocation":"2003 Taiwan"},
+{"title":"The Godfather Part II","rank":"=104","yearLocation":"1974 USA"},
+{"title":"Jaws","rank":"=104","yearLocation":"1975 USA"},
+{"title":"Come and See","rank":"=104","yearLocation":"1985 USSR, Byelorussian SSR, Russian SFSR"},
+{"title":"La Maman et la Putain","rank":"=104","yearLocation":"1973 France"},
+{"title":"Vagabond","rank":"=101","yearLocation":"1985 France, United Kingdom"},
+{"title":"The House Is Black","rank":"=101","yearLocation":"1962 Iran"},
+{"title":"Rio Bravo","rank":"=101","yearLocation":"1958 USA"},
+{"title":"Once upon a Time in the West","rank":"=95","yearLocation":"1968 Italy, USA"},
+{"title":"A Man Escaped","rank":"=95","yearLocation":"1956 France"},
+{"title":"The General","rank":"=95","yearLocation":"1926 USA"},
+{"title":"Black Girl","rank":"=95","yearLocation":"1965 Senegal, France"},
+{"title":"Tropical Malady","rank":"=95","yearLocation":"2004 France, Thailand, Germany, Italy, Switzerland"},
+{"title":"Get Out","rank":"=95","yearLocation":"2017 USA, Japan"},
+{"title":"Parasite","rank":"=90","yearLocation":"2019 Republic of Korea"},
+{"title":"Yi Yi","rank":"=90","yearLocation":"1999 Taiwan, Japan"},
+{"title":"Ugetsu Monogatari","rank":"=90","yearLocation":"1953 Japan"},
+{"title":"The Leopard","rank":"=90","yearLocation":"1962 Italy, France"},
+{"title":"Madame de...","rank":"=90","yearLocation":"1953 France, Italy"},
+{"title":"The Shining","rank":"=88","yearLocation":"1980 USA, United Kingdom"},
+{"title":"CHUNGKING EXPRESS","rank":"=88","yearLocation":"1994 Hong Kong"},
+{"title":"Blue Velvet","rank":"=85","yearLocation":"1986 USA"},
+{"title":"The Spirit of the Beehive","rank":"=85","yearLocation":"1973 Spain"},
+{"title":"Pierrot le fou","rank":"=85","yearLocation":"1965 France, Italy"},
+{"title":"Histoire(s) du Cinéma","rank":"=78","yearLocation":"1988 France, Switzerland"},
+{"title":"A Matter of Life and Death","rank":"=78","yearLocation":"1946 United Kingdom"},
+{"title":"Modern Times","rank":"=78","yearLocation":"1936 USA"},
+{"title":"Sunset Blvd.","rank":"=78","yearLocation":"1950 USA"},
+{"title":"Céline and Julie Go Boating","rank":"=78","yearLocation":"1974 France"},
+{"title":"A Brighter Summer Day","rank":"=78","yearLocation":"1991 Taiwan"},
+{"title":"Sátántangó","rank":"=78","yearLocation":"1994 Hungary, Germany, Switzerland"},
+{"title":"Spirited Away","rank":"=75","yearLocation":"2001 Japan"},
+{"title":"Sansho the Bailiff","rank":"=75","yearLocation":"1954 Japan"},
+{"title":"Imitation of Life","rank":"=75","yearLocation":"1959 USA"},
+{"title":"L'avventura","rank":"=72","yearLocation":"1960 Italy, France"},
+{"title":"Journey to Italy","rank":"=72","yearLocation":"1954 Italy, France"},
+{"title":"My Neighbour Totoro","rank":"=72","yearLocation":"1988 Japan"},
+{"title":"The Red Shoes","rank":"=67","yearLocation":"1948 United Kingdom"},
+{"title":"Metropolis","rank":"=67","yearLocation":"1927 Germany"},
+{"title":"Andrei Rublev","rank":"=67","yearLocation":"1966 USSR, Russian SFSR"},
+{"title":"La Jetée","rank":"=67","yearLocation":"1962 France"},
+{"title":"The Gleaners and I","rank":"=67","yearLocation":"2000 France"},
+{"title":"Touki Bouki","rank":"66","yearLocation":"1973 Senegal"},
+{"title":"The Third Man","rank":"=63","yearLocation":"1949 United Kingdom"},
+{"title":"GoodFellas","rank":"=63","yearLocation":"1990 USA"},
+{"title":"Casablanca","rank":"=63","yearLocation":"1942 USA"},
+{"title":"Daughters of the Dust","rank":"=60","yearLocation":"1991 USA"},
+{"title":"La dolce vita","rank":"=60","yearLocation":"1960 Italy, France"},
+{"title":"Moonlight","rank":"=60","yearLocation":"2016 USA"},
+{"title":"Sans soleil","rank":"59","yearLocation":"1982 France"},
+{"title":"The Apartment","rank":"=54","yearLocation":"1960 USA"},
+{"title":"Sherlock Jr.","rank":"=54","yearLocation":"1924 USA"},
+{"title":"Le Mépris","rank":"=54","yearLocation":"1963 France, Italy"},
+{"title":"Battleship Potemkin","rank":"=54","yearLocation":"1925 USSR"},
+{"title":"Blade Runner","rank":"=54","yearLocation":"1982 USA, Hong Kong"},
+{"title":"News from Home","rank":"=52","yearLocation":"1976 France, Belgium"},
+{"title":"Fear Eats the Soul","rank":"=52","yearLocation":"1974 Federal Republic of Germany"},
+{"title":"The Piano","rank":"=50","yearLocation":"1992 Australia, France"},
+{"title":"The 400 Blows","rank":"=50","yearLocation":"1959 France"},
+{"title":"Ordet","rank":"=48","yearLocation":"1955 Denmark"},
+{"title":"Wanda","rank":"=48","yearLocation":"1970 USA"},
+{"title":"Barry Lyndon","rank":"=45","yearLocation":"1975 USA, United Kingdom"},
+{"title":"North by Northwest","rank":"=45","yearLocation":"1959 USA"},
+{"title":"The Battle of Algiers","rank":"=45","yearLocation":"1966 Italy, Algeria"},
+{"title":"Stalker","rank":"=43","yearLocation":"1979 USSR, Russian SFSR"},
+{"title":"Killer of Sheep","rank":"=43","yearLocation":"1977 USA"},
+{"title":"Rashomon","rank":"=41","yearLocation":"1950 Japan"},
+{"title":"Bicycle Thieves","rank":"=41","yearLocation":"1948 Italy"},
+{"title":"Rear Window","rank":"=38","yearLocation":"1954 USA"},
+{"title":"À bout de souffle","rank":"=38","yearLocation":"1960 France"},
+{"title":"Some Like It Hot","rank":"=38","yearLocation":"1959 USA"},
+{"title":"M","rank":"=36","yearLocation":"1931 Germany"},
+{"title":"City Lights","rank":"=36","yearLocation":"1931 USA"},
+{"title":"Pather Panchali","rank":"35","yearLocation":"1955 India"},
+{"title":"L'Atalante","rank":"34","yearLocation":"1934 France"},
+{"title":"8½","rank":"=31","yearLocation":"1963 Italy, France"},
+{"title":"Psycho","rank":"=31","yearLocation":"1960 USA"},
+{"title":"Mirror","rank":"=31","yearLocation":"1975 USSR, Russian SFSR"},
+{"title":"Portrait of a Lady on Fire","rank":"30","yearLocation":"2019 France"},
+{"title":"Taxi Driver","rank":"29","yearLocation":"1976 USA"},
+{"title":"Daisies","rank":"28","yearLocation":"1966 Czechoslovakia"},
+{"title":"Shoah","rank":"27","yearLocation":"1985 France"},
+{"title":"The Night of the Hunter","rank":"=25","yearLocation":"1955 USA"},
+{"title":"Au hasard Balthazar","rank":"=25","yearLocation":"1966 France, Sweden"},
+{"title":"Do the Right Thing","rank":"24","yearLocation":"1989 USA"},
+{"title":"Playtime","rank":"23","yearLocation":"1967 France"},
+{"title":"Late Spring","rank":"=21","yearLocation":"1949 Japan"},
+{"title":"The Passion of Joan of Arc","rank":"=21","yearLocation":"1927 France"},
+{"title":"Seven Samurai","rank":"20","yearLocation":"1954 Japan"},
+{"title":"Apocalypse Now","rank":"19","yearLocation":"1979 USA"},
+{"title":"Persona","rank":"18","yearLocation":"1966 Sweden"},
+{"title":"Close-up","rank":"17","yearLocation":"1989 Iran"},
+{"title":"Meshes of the Afternoon","rank":"16","yearLocation":"1943 USA"},
+{"title":"The Searchers","rank":"15","yearLocation":"1956 USA"},
+{"title":"Cléo from 5 to 7","rank":"14","yearLocation":"1962 France, Italy"},
+{"title":"La Règle du jeu","rank":"13","yearLocation":"1939 France"},
+{"title":"The Godfather","rank":"12","yearLocation":"1972 USA"},
+{"title":"Sunrise A Song of Two Humans","rank":"11","yearLocation":"1927 USA"},
+{"title":"Singin' in the Rain","rank":"10","yearLocation":"1951 USA"},
+{"title":"Man with a Movie Camera","rank":"9","yearLocation":"1929 Ukrainian SSR, USSR"},
+{"title":"Mulholland Dr.","rank":"8","yearLocation":"2001 France, USA"},
+{"title":"Beau travail","rank":"7","yearLocation":"1998 France"},
+{"title":"2001: A Space Odyssey","rank":"6","yearLocation":"1968 USA, United Kingdom"},
+{"title":"In the Mood for Love","rank":"5","yearLocation":"2000 Hong Kong, France"},
+{"title":"Tokyo Story","rank":"4","yearLocation":"1953 Japan"},
+{"title":"Citizen Kane","rank":"3","yearLocation":"1941 USA"},
+{"title":"Vertigo","rank":"2","yearLocation":"1958 USA"},
+{"title":"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles","rank":"1","yearLocation":"1975 Belgium, France"}
 ]
