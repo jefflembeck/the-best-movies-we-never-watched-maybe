@@ -6,16 +6,6 @@ This is the list of movies!
 
 *250 films sorted by accessibility — most appropriate for a preteen first.*
 
-### #3: Ratatouille (2007)
-- **MPAA Rating:** G
-- **Runtime:** 1h 51m
-- **Black and White:** false
-- **Animated:** true
-- **Genre:** Animation, Adventure, Comedy
-
-- **Notable:** NYT #73 · RT 96% · IMDB #148
-
-
 ### #9: My Neighbor Totoro (1988)
 - **MPAA Rating:** G
 - **Runtime:** 1h 26m
@@ -2186,6 +2176,16 @@ This is the list of movies!
 - **Genre:** Animation, Adventure, Family
 
 - **Notable:** NYT #34 · RT 95% · IMDB #55
+
+
+### #3: Ratatouille (2007)
+- **MPAA Rating:** G
+- **Runtime:** 1h 51m
+- **Black and White:** false
+- **Animated:** true
+- **Genre:** Animation, Adventure, Comedy
+
+- **Notable:** NYT #73 · RT 96% · IMDB #148
 
 
 ### #4: Finding Nemo (2003)
